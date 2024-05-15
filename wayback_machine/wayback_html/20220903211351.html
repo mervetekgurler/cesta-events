@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+  <html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="hb-has-animation-enhancements hc-pairing-mountain no-js">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://cesta.stanford.edu/","20220903211351","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1662239631");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="utf-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"383a8e13e9",applicationID:"1410892491"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<script async src="https://web.archive.org/web/20220903211351js_/https://www.googletagmanager.com/gtag/js?id=UA-79243650-8"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-79243650-8", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});</script>
+<link rel="canonical" href="https://web.archive.org/web/20220903211351/https://cesta.stanford.edu/"/>
+<link rel="shortlink" href="https://web.archive.org/web/20220903211351/https://cesta.stanford.edu/"/>
+<link rel="image_src" href="https://web.archive.org/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/large/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.png?itok=m2WQl7N8"/>
+<link rel="icon" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/favicon.ico"/>
+<link rel="icon" sizes="32x32" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-57x57.png"/>
+<link rel="apple-touch-icon" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-60x60.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-72x72.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-76x76.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-114x114.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-120x120.png"/>
+<link rel="apple-touch-icon" sizes="144x144" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-144x144.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-152x152.png"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-180x180.png"/>
+<link rel="apple-touch-icon-precomposed" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-57x57.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-72x72.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-76x76.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-114x114.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-120x120.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-152x152.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/web/20220903211351im_/https://cesta.stanford.edu/themes/custom/stanford_basic/img/touch-icons/apple-touch-icon-180x180.png"/>
+<meta property="og:image" content="https://web.archive.org/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/large/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.png?itok=m2WQl7N8"/>
+<meta property="og:image:url" content="https://cesta.stanford.edu/sites/cesta/files/styles/large/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.png?itok=m2WQl7N8"/>
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <link rel="apple-touch-icon" sizes="60x60" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/apple-touch-icon-180x180.png"/>
+
+    <link rel="icon" type="image/png" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/favicon-196x196.png" sizes="196x196"/>
+    <link rel="icon" type="image/png" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/favicon-192x192.png" sizes="192x192"/>
+    <link rel="icon" type="image/png" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/favicon-128.png" sizes="128x128"/>
+    <link rel="icon" type="image/png" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/favicon-16x16.png" sizes="16x16"/>
+
+    <link rel="mask-icon" href="https://web.archive.org/web/20220903211351im_/https://www-media.stanford.edu/assets/favicon/safari-pinned-tab.svg" color="#ffffff">
+    <meta name="application-name" content="Stanford University"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="https://www-media.stanford.edu/assets/favicon/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="https://www-media.stanford.edu/assets/favicon/mstile-70x70.png"/>
+    <meta name="msapplication-square150x150logo" content="https://www-media.stanford.edu/assets/favicon/mstile-150x150.png"/>
+    <meta name="msapplication-square310x310logo" content="https://www-media.stanford.edu/assets/favicon/mstile-310x310.png"/>
+
+    <title>Center for Spatial and Textual Analysis</title>
+    <link rel="stylesheet" media="all" href="/web/20220903211351cs_/https://cesta.stanford.edu/sites/cesta/files/css/css_wMr6otKpvGI8mtQ--Ug2ss7dO_vC9TQ-Dl65TmIEUqw.css"/>
+<link rel="stylesheet" media="all" href="https://web.archive.org/web/20220903211351cs_/https://use.fontawesome.com/releases/v5.7.1/css/all.css"/>
+<link rel="stylesheet" media="all" href="/web/20220903211351cs_/https://cesta.stanford.edu/sites/cesta/files/css/css_rf9uDfiCIgTpqXZXzKbAJIGmT-5PxdQHC6I95-hl90c.css"/>
+<link rel="stylesheet" media="all" href="/web/20220903211351cs_/https://cesta.stanford.edu/sites/cesta/files/css/css_gaYul8ed_ljq-yLi7hBxUO5YvFr2v81AvI4oW2_Jjwk.css"/>
+<link rel="stylesheet" media="all" href="/web/20220903211351cs_/https://cesta.stanford.edu/sites/cesta/files/css/css_U1psTsOqdTqHVb-8FjRWIfYZFC71ExwAc_j7JmohgI0.css"/>
+
+    <script src="/web/20220903211351js_/https://cesta.stanford.edu/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+<script src="/web/20220903211351js_/https://cesta.stanford.edu/core/misc/modernizr-additional-tests.js?v=3.11.7"></script>
+
+
+  </head>
+            <body class="not-front role--anonymous">
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <header id="header" class="su-masthead hb-dark-pattern">
+  <a href="#main-content" class="su-skiplinks ">Skip to main content</a>
+
+  <section class="su-brand-bar su-brand-bar--dark">
+  <div class="su-brand-bar__container hb-page-width">
+    <a class="su-brand-bar__logo" href="https://web.archive.org/web/20220903211351/https://stanford.edu/">Stanford University</a>
+  </div>
+</section>
+
+  
+  <section class="hb-page-width hb-position-relative">
+            
+
+  
+
+
+    
+
+<div id="block-humsci-colorful-branding" class="su-lockup su-lockup--option-default">
+    <a href="https://web.archive.org/web/20220903211351/https://cesta.stanford.edu/" class="su-lockup__link">
+  <div class="su-lockup__cell1">
+          <div class="su-lockup__wordmark-wrapper">
+        <span class="su-lockup__wordmark">Stanford</span>
+              </div>
+      </div><div class="su-lockup__cell2">
+        
+        <span class="su-lockup__line2">Center for Spatial and Textual Analysis</span>
+    
+          </div>
+      </a>
+  </div>
+
+
+
+
+    
+        <div class="su-site-search" role="search">
+        <div class="views-exposed-form block-views block-exposedformhs-default-searchsearch-page-top" data-drupal-selector="views-exposed-form-hs-default-search-search-page" id="block-exposedformhs-default-searchsearch-page-top">
+  
+    
+      <form action="/web/20220903211351/https://cesta.stanford.edu/search" method="get" id="views-exposed-form-hs-default-search-search-page" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-search js-form-item-search">
+      <label for="edit-search">Search</label>
+        <input data-drupal-selector="edit-search" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" class="form-text"/>
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-hs-default-search" type="submit" id="edit-submit-hs-default-search" value="Search" class="button js-form-submit form-submit"/>
+</div>
+
+
+</form>
+
+  </div>
+
+
+    </div>
+    
+              
+        <nav class="hb-main-nav su-main-nav hb-main-nav--is-still-loading" aria-label="main menu">
+        <button class="hb-main-nav__toggle hb-main-nav__toggle--right " aria-expanded="true">
+      Menu
+      <span class="hb-main-nav__toggle-icon"></span>
+    </button>
+        <ul class="hb-main-nav__menu hb-main-nav__menu-lv1"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/" class="hb-main-nav__link is-active" data-drupal-link-system-path="<front>">Home</a></li><li class="hb-main-nav__item hb-main-nav__item--parent"><a class="hb-main-nav__link hb-nested-toggler" href="#0" id="About1" aria-expanded="true" role="button">About</a><div class="hb-main-nav__menu-container" aria-labelledby="About1"><ul class="hb-main-nav__menu hb-main-nav__menu-lv2"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/directors-welcome" class="hb-main-nav__link" data-drupal-link-system-path="node/801">Director&#039;s Welcome</a></li><li class="hb-main-nav__item hb-main-nav__item--parent"><a href="/web/20220903211351/https://cesta.stanford.edu/about-cesta" class="hb-main-nav__link" data-drupal-link-system-path="node/796">About CESTA</a><button class="hb-main-nav__button hb-nested-toggler" id="AboutCESTA22" aria-expanded="true">
+            Toggle About CESTA
+          </button><div class="hb-main-nav__menu-container" aria-labelledby="AboutCESTA22"><ul class="hb-main-nav__menu hb-main-nav__menu-lv3"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/about/about-cesta/history-cesta" class="hb-main-nav__link" data-drupal-link-system-path="node/71">History of CESTA</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/about-cesta/cesta-data" class="hb-main-nav__link" data-drupal-link-system-path="node/4051">CESTA in Data</a></li></ul></div></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/contact-us" class="hb-main-nav__link" data-drupal-link-system-path="node/66">Contact Us</a></li></ul></div></li><li class="hb-main-nav__item hb-main-nav__item--parent"><a class="hb-main-nav__link hb-nested-toggler" href="#0" id="People1" aria-expanded="true" role="button">People</a><div class="hb-main-nav__menu-container" aria-labelledby="People1"><ul class="hb-main-nav__menu hb-main-nav__menu-lv2"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/people/our-team" class="hb-main-nav__link" data-drupal-link-system-path="node/761">Our Team</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/people/affiliated-faculty-and-researchers" class="hb-main-nav__link" data-drupal-link-system-path="node/766">Affiliated Faculty and Researchers</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/people/postdoctoral-and-visiting-scholars" class="hb-main-nav__link" data-drupal-link-system-path="node/771">Affiliated Postdoctoral and Visiting Scholars</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/people/affiliated-graduate-students" class="hb-main-nav__link" data-drupal-link-system-path="node/776">Affiliated Graduate Students</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/dh-graduate-fellows-2021-22" class="hb-main-nav__link" data-drupal-link-system-path="node/786">DH Graduate Fellows 21-22</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/people/external-affiliates" class="hb-main-nav__link" data-drupal-link-system-path="node/781">External Affiliates</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/people/undergraduate-research-interns" class="hb-main-nav__link" data-drupal-link-system-path="node/791">Undergraduate Research Interns</a></li></ul></div></li><li class="hb-main-nav__item hb-main-nav__item--parent"><a class="hb-main-nav__link hb-nested-toggler" href="#0" id="Research1" aria-expanded="true" role="button">Research</a><div class="hb-main-nav__menu-container" aria-labelledby="Research1"><ul class="hb-main-nav__menu hb-main-nav__menu-lv2"><li class="hb-main-nav__item hb-main-nav__item--parent"><a href="/web/20220903211351/https://cesta.stanford.edu/research/core-labs" class="hb-main-nav__link" data-drupal-link-system-path="node/751">Core Labs</a><button class="hb-main-nav__button hb-nested-toggler" id="CoreLabs24" aria-expanded="true">
+            Toggle Core Labs
+          </button><div class="hb-main-nav__menu-container" aria-labelledby="CoreLabs24"><ul class="hb-main-nav__menu hb-main-nav__menu-lv3"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/chinese-railroad-workers-north-america" class="hb-main-nav__link" data-drupal-link-system-path="node/3226">Chinese Railroad Workers in North America</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/humanities-design" class="hb-main-nav__link" data-drupal-link-system-path="node/926">Humanities + Design</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/literary-lab" class="hb-main-nav__link" data-drupal-link-system-path="node/2521">Literary Lab</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/poetic-media-lab" class="hb-main-nav__link" data-drupal-link-system-path="node/3216">Poetic Media Lab</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/spatial-history-project" class="hb-main-nav__link" data-drupal-link-system-path="node/3221">Spatial History Project</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/text-technologies" class="hb-main-nav__link" data-drupal-link-system-path="node/3211">Text Technologies</a></li></ul></div></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/projects" class="hb-main-nav__link" data-drupal-link-system-path="node/806">Projects</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/publications-all" class="hb-main-nav__link" data-drupal-link-system-path="node/51">Publications</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/resources" class="hb-main-nav__link" data-drupal-link-system-path="node/2526">Resources</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/research/working-groups" class="hb-main-nav__link" data-drupal-link-system-path="node/756">Working Groups</a></li></ul></div></li><li class="hb-main-nav__item hb-main-nav__item--parent"><a class="hb-main-nav__link hb-nested-toggler" href="#0" id="ForStudents1" aria-expanded="true" role="button">For Students</a><div class="hb-main-nav__menu-container" aria-labelledby="ForStudents1"><ul class="hb-main-nav__menu hb-main-nav__menu-lv2"><li class="hb-main-nav__item hb-main-nav__item--parent"><a href="/web/20220903211351/https://cesta.stanford.edu/undergraduate-programs" class="hb-main-nav__link" data-drupal-link-system-path="node/816">Undergraduate Programs</a><button class="hb-main-nav__button hb-nested-toggler" id="UndergraduatePrograms25" aria-expanded="true">
+            Toggle Undergraduate Programs
+          </button><div class="hb-main-nav__menu-container" aria-labelledby="UndergraduatePrograms25"><ul class="hb-main-nav__menu hb-main-nav__menu-lv3"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/undergraduate-programs/undergraduate-research-internship-program" class="hb-main-nav__link" data-drupal-link-system-path="node/826">Undergraduate Research Internship Program</a></li><li class="hb-main-nav__item"><a href="https://web.archive.org/web/20220903211351/https://dhminor.stanford.edu/" class="hb-main-nav__link">Digital Humanities Minor</a></li></ul></div></li><li class="hb-main-nav__item hb-main-nav__item--parent"><a href="/web/20220903211351/https://cesta.stanford.edu/graduate-programs" class="hb-main-nav__link" data-drupal-link-system-path="node/821">Graduate Programs</a><button class="hb-main-nav__button hb-nested-toggler" id="GraduatePrograms25" aria-expanded="true">
+            Toggle Graduate Programs
+          </button><div class="hb-main-nav__menu-container" aria-labelledby="GraduatePrograms25"><ul class="hb-main-nav__menu hb-main-nav__menu-lv3"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/graduate-programs/graduate-certificate-digital-humanities" class="hb-main-nav__link" data-drupal-link-system-path="node/3311">Graduate Certificate in the Digital Humanities</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/graduate-programs/digital-humanities-graduate-fellowship" class="hb-main-nav__link" data-drupal-link-system-path="node/841">Digital Humanities Graduate Fellowship</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/graduate-programs/alumni" class="hb-main-nav__link" data-drupal-link-system-path="node/846">Alumni</a></li></ul></div></li></ul></div></li><li class="hb-main-nav__item hb-main-nav__item--parent"><a class="hb-main-nav__link hb-nested-toggler" href="#0" id="Events1" aria-expanded="true" role="button">Events</a><div class="hb-main-nav__menu-container" aria-labelledby="Events1"><ul class="hb-main-nav__menu hb-main-nav__menu-lv2"><li class="hb-main-nav__item hb-main-nav__item--parent"><a href="/web/20220903211351/https://cesta.stanford.edu/upcoming-events" class="hb-main-nav__link" data-drupal-link-system-path="node/21">Upcoming Events</a><button class="hb-main-nav__button hb-nested-toggler" id="UpcomingEvents26" aria-expanded="true">
+            Toggle Upcoming Events
+          </button><div class="hb-main-nav__menu-container" aria-labelledby="UpcomingEvents26"><ul class="hb-main-nav__menu hb-main-nav__menu-lv3"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/events/showcase-2022" class="hb-main-nav__link" data-drupal-link-system-path="node/2631">CESTA Digital Humanities Research Showcase 2022</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/events/cesta-seminar-series" class="hb-main-nav__link" data-drupal-link-system-path="node/1016">CESTA Seminar Series</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/events/digital-humanities-long-view" class="hb-main-nav__link" data-drupal-link-system-path="node/971">The Digital Humanities Long View</a></li></ul></div></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/past-events" class="hb-main-nav__link" data-drupal-link-system-path="node/26">Past Events</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/recorded-talks" class="hb-main-nav__link" data-drupal-link-system-path="node/3321">Recorded Talks</a></li></ul></div></li><li class="hb-main-nav__item hb-main-nav__item--parent"><a class="hb-main-nav__link hb-nested-toggler" href="#0" id="News&amp;Blog1" aria-expanded="true" role="button">News &amp; Blog</a><div class="hb-main-nav__menu-container" aria-labelledby="News&amp;Blog1"><ul class="hb-main-nav__menu hb-main-nav__menu-lv2"><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/blog" class="hb-main-nav__link" data-drupal-link-system-path="node/871">Blog</a></li><li class="hb-main-nav__item"><a href="/web/20220903211351/https://cesta.stanford.edu/news" class="hb-main-nav__link" data-drupal-link-system-path="node/16">News</a></li></ul></div></li></ul>  </nav>
+
+
+
+      </section>
+</header>
+
+  <div id="help-region" class="hb-page-width">
+    
+      <div data-drupal-messages-fallback class="hidden"></div>
+
+
+  </div>
+
+<div id="main-content" class="">
+    <div id="block-humsci-colorful-content" class="block-system block-humsci-colorful-content">
+  
+    
+      
+<article class="node flexible-page node-layout-full node-flexible-page-full hb-vertical-page-padding">
+
+  
+  <div class="content">
+    
+  
+  <div class="hs-full-width hb-three-column clearfix hb-three-column--no-sidebar">
+    
+
+    <div class="hb-layout-builder-main-content hb-three-column__main">
+
+      <div class="hb-three-column__main-body ">
+                  <div class="layout__region">
+            <div class="block-layout-builder">
+  
+    
+      
+            <div class="field-hs-page-hero entity-reference-revisions label-hidden">  <div class="paragraph paragraph--type--hs-gradient-hero-slider paragraph--view-mode--default">
+            <div class="slick blazy slick--field slick--field-hs-gradient-hero-slides slick--field-hs-gradient-hero-slides--slideshow-slide unslick slick--optionset--hs-slideshow slick--less" data-blazy="" id="slick-paragraph-hs-gradient-hero-slider-hs-gradient-hero-slides-slideshow-slide-1396-1">
+  
+        <div class="slick__slide slide slide--0">
+    <div>
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=1&amp;paragraph=1391:changed=1659546138&amp;ds_bundle=hs_gradient_hero&amp;ds_view_mode=default&amp;langcode=en" data-contextual-token="cwgA5haf5HbUnA5SMzAdG_2oi2BZKwORbiWYTIxYswM"></div>
+<div class="hb-gradient-hero"><div class="hb-gradient-hero__image-wrapper"><div class="field-hs-gradient-hero-image entity-reference label-hidden"><article class="hb-caption-credit-image"><div class="field-media-image image label-hidden"><picture><source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hero_with_text_large/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.webp?h=d1cb525d&amp;itok=WwvpRj9P 1x" media="screen and (min-width: 992px)" type="image/webp"/><source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/responsive_medium/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.webp?itok=QogkaYkt 1x" media="screen and (min-width: 768px)" type="image/webp"/><source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/responsive_small/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.webp?itok=cSQ_UkGd 1x" media="(min-width: 0em)" type="image/webp"/><source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hero_with_text_large/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.png?h=d1cb525d&amp;itok=WwvpRj9P 1x" media="screen and (min-width: 992px)" type="image/png"/><source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/responsive_medium/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.png?itok=QogkaYkt 1x" media="screen and (min-width: 768px)" type="image/png"/><source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/responsive_small/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.png?itok=cSQ_UkGd 1x" media="(min-width: 0em)" type="image/png"/><img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hero_with_text_large/public/media/image/cesta_udgintern_repeatinterns_final_spiral_0.png?h=d1cb525d&amp;itok=WwvpRj9P" alt=""/></picture></div></article></div></div><div class="hb-gradient-hero__text"><div class="field-hs-gradient-hero-title string label-hidden"><h2>Welcome to CESTA </h2></div><div class="field-hs-gradient-hero-body text-long label-hidden"><p>At CESTA, students and faculty combine the power of humanistic investigation with new technologies to document, analyze and understand the changing human experience.</p></div><div class="field-hs-gradient-hero-link link label-hidden"><a href="/web/20220903211351/https://cesta.stanford.edu/about-cesta/cesta-data">About this image</a></div></div></div>
+</div>
+
+  </div>
+
+  
+  </div>
+
+
+      </div>
+</div>
+      
+  </div>
+
+          </div>
+              </div>
+    </div>
+
+      </div>
+
+  
+  <div class="decanter-grid hb-three-column clearfix hb-three-column--no-sidebar">
+    
+
+    <div class="hb-layout-builder-main-content hb-three-column__main">
+
+      <div class="hb-three-column__main-body ">
+                  <div class="layout__region">
+            <div class="block-layout-builder">
+  
+    
+      
+      <div class="hb-raised-cards--uniform-height hb-raised-cards field-hs-page-components entity-reference-revisions label-hidden">
+              <div class="paragraph-item ptype-hs-collection">  <div class="paragraph paragraph--type--hs-collection paragraph--view-mode--default">
+          
+      <div class="field-hs-collection-items entity-reference-revisions label-hidden item-per-row--2">
+              <div class="paragraph-item ptype-hs-postcard"><div>
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=1&amp;paragraph=1386:changed=1659546138&amp;ds_bundle=hs_postcard&amp;ds_view_mode=token&amp;langcode=en" data-contextual-token="fRD_nLT2Eqi6fg6d55dYhtpG14zbhZdcMF0_B8Ec_6g"></div>
+<div class="hb-vertical-linked-card">
+      <div class="hb-vertical-linked-card__img">
+      
+            <div class="field-hs-postcard-image entity-reference label-hidden">
+<article class="hb-caption-credit-image">
+  
+      
+            <div class="field-media-image image label-hidden">    <picture>
+                  <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_large_rectangle_720x500/public/media/image/screen_shot_2022-04-30_at_18.07.16_0.webp?h=7030f242&amp;itok=zjb7dkY3 1x" media="screen and (min-width: 768px)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_rectangle_360x250/public/media/image/screen_shot_2022-04-30_at_18.07.16_0.webp?h=7030f242&amp;itok=mOutDQMs 1x" media="(min-width: 0em)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_large_rectangle_720x500/public/media/image/screen_shot_2022-04-30_at_18.07.16_0.png?h=7030f242&amp;itok=zjb7dkY3 1x" media="screen and (min-width: 768px)" type="image/png"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_rectangle_360x250/public/media/image/screen_shot_2022-04-30_at_18.07.16_0.png?h=7030f242&amp;itok=mOutDQMs 1x" media="(min-width: 0em)" type="image/png"/>
+                  <img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_rectangle_360x250/public/media/image/screen_shot_2022-04-30_at_18.07.16_0.png?h=7030f242&amp;itok=mOutDQMs" alt=""/>
+
+  </picture>
+
+</div>
+      
+  </article>
+</div>
+      
+    </div>
+  
+      <h2 class="hb-vertical-linked-card__title">
+      Featured Project
+    </h2>
+  
+      <div class="hb-vertical-linked-card__description">
+      
+            <div class="field-hs-postcard-body text-long label-hidden"><p>The <strong>Senegalese Slave Liberations Project</strong>, led by Professors Richard Roberts, Joel Cabrita, and Fatoumata Seck at Stanford, Babacar Fall and Ibrahima Seck in Senegal, and Rebecca Wall at Hamilton College, together with Joshua Goodwin at Stanford and Erica Ivins at Columbia University, is investigating slavery and  freedom in  19th-century West Africa.</p></div>
+      
+    </div>
+  
+      <a href="/web/20220903211351/https://cesta.stanford.edu/research/senegal-liberations-project" aria-label="Featured Project" class="hb-vertical-linked-card__link"></a>
+  </div>
+
+</div>
+</div>
+              <div class="paragraph-item ptype-hs-testimonial"><div>
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=1&amp;paragraph=1361:changed=1659546138&amp;ds_bundle=hs_testimonial&amp;ds_view_mode=default&amp;langcode=en" data-contextual-token="CmZttQ2dXqskVeQ2ggwAidWWkwQ-Ha2-lVE0WhK0N8M"></div>    
+<div class="hb-testimonial hb-testimonial--top">
+  <div class="hb-testimonial__wrapper">
+    <div class="hb-testimonial__content">
+                        <div class="hb-testimonial__quote hb-testimonial__quote--top">
+            
+            <div class="field-hs-testimonial-quote string-long label-hidden">How is humanities research transformed in a digital age? How can we harness the power of digitization in order to recover, preserve, and curate cultures and cultural artifacts? Like no other place on campus, we work across the boundary typically separating the humanities and technology, asking essential questions about the future of humanistic thought.</div>
+      
+          </div>
+        
+        <div class="hb-testimonial__author-block">
+                      <div class="hb-testimonial__image">
+              
+            <div class="field-hs-testimonial-image entity-reference label-hidden">
+<article class="hb-media-image">
+  
+      
+            <div class="field-media-image image label-hidden">    <picture>
+                  <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/giovanna_ceserani_27_0.webp?h=748b4459&amp;itok=1jDva5fC 1x" media="screen and (min-width: 768px)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/media/image/giovanna_ceserani_27_0.webp?h=748b4459&amp;itok=9OUovVA9 1x" media="(min-width: 0em)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/giovanna_ceserani_27_0.jpg?h=748b4459&amp;itok=1jDva5fC 1x" media="screen and (min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/media/image/giovanna_ceserani_27_0.jpg?h=748b4459&amp;itok=9OUovVA9 1x" media="(min-width: 0em)" type="image/jpeg"/>
+                  <img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/giovanna_ceserani_27_0.jpg?h=748b4459&amp;itok=1jDva5fC" alt=""/>
+
+  </picture>
+
+</div>
+      
+  </article>
+</div>
+      
+            </div>
+          
+          <div class="hb-testimonial__author-credits">
+                          <div class="hb-testimonial__name">
+                
+            <div class="field-hs-testimonial-name string label-hidden">Giovanna Ceserani</div>
+      
+              </div>
+            
+                          <div class="hb-testimonial__position">
+                
+            <div class="field-hs-testimonial-position string label-hidden">Faculty Director</div>
+      
+              </div>
+            
+                          <div class="hb-testimonial__link">
+                
+            <div class="field-hs-testimonial-link link label-hidden"><a href="/web/20220903211351/https://cesta.stanford.edu/directors-welcome">Read the full letter</a></div>
+      
+              </div>
+                      </div>
+        </div>
+      
+          </div>
+  </div>
+</div>
+
+</div>
+</div>
+          </div>
+  
+      </div>
+</div>
+              <div class="paragraph-item ptype-hs-collection">  <div class="hs-paragraph-style hs-paragraph-style--well-full-width paragraph paragraph--type--hs-collection paragraph--view-mode--default">
+          
+      <div class="field-hs-collection-items entity-reference-revisions label-hidden item-per-row--2">
+              <div class="paragraph-item ptype-hs-postcard"><div>
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=1&amp;paragraph=1006:changed=1659546138&amp;ds_bundle=hs_postcard&amp;ds_view_mode=preview&amp;langcode=en" data-contextual-token="NddCWMkeVZ1wZluFR0qw_zP8p8f_MC1yxkg3f8BZzqs"></div><div class="hb-card hb-card--horizontal">
+
+      <div class="hb-card__graphics">
+      <div class="hb-card__img">
+        
+            <div class="field-hs-postcard-image entity-reference label-hidden">
+<article class="hb-caption-credit-image">
+  
+      
+            <div class="field-media-image image label-hidden">    <picture>
+                  <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/events/63983-2.webp?h=038d7745&amp;itok=QjRTmXOv 1x" media="screen and (min-width: 768px)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/events/63983-2.webp?h=038d7745&amp;itok=pbbxbOLQ 1x" media="(min-width: 0em)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/events/63983-2.jpg?h=038d7745&amp;itok=QjRTmXOv 1x" media="screen and (min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/events/63983-2.jpg?h=038d7745&amp;itok=pbbxbOLQ 1x" media="(min-width: 0em)" type="image/jpeg"/>
+                  <img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/events/63983-2.jpg?h=038d7745&amp;itok=QjRTmXOv" alt="Fredrik Norén: Text Mining the History of Information Politics Through Thousands of Swedish Governmental Reports"/>
+
+  </picture>
+
+</div>
+      
+  </article>
+</div>
+      
+      </div>
+    </div>
+  
+  <div class="hb-card__content">
+    
+    
+    
+    
+          <div class="hb-card__description">
+        
+            <div class="field-hs-postcard-body text-long label-hidden"><h3>Our Research</h3>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0bd95609-10fe-4394-92d7-511fea0cce38" href="/web/20220903211351/https://cesta.stanford.edu/research/core-labs" title="Core Labs">Learn about our core labs</a></p>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="440c6af6-43ef-40b0-aef0-5571b90f1d80" href="/web/20220903211351/https://cesta.stanford.edu/research/projects" title="Projects">Explore our research projects</a></p>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="80fb2f3f-0b0c-433b-94b6-3045e493ea50" href="/web/20220903211351/https://cesta.stanford.edu/research/working-groups" title="Working Groups">Read about our working groups</a></p></div>
+      
+      </div>
+    
+      </div>
+</div>
+
+</div>
+</div>
+              <div class="paragraph-item ptype-hs-postcard"><div>
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=1&amp;paragraph=1011:changed=1659546138&amp;ds_bundle=hs_postcard&amp;ds_view_mode=preview&amp;langcode=en" data-contextual-token="PWog1P-BidadFVGXIWVKxeXhQM2awnzfB32Gid8WGXk"></div><div class="hb-card hb-card--horizontal">
+
+      <div class="hb-card__graphics">
+      <div class="hb-card__img">
+        
+            <div class="field-hs-postcard-image entity-reference label-hidden">
+<article class="hb-caption-credit-image">
+  
+      
+            <div class="field-media-image image label-hidden">    <picture>
+                  <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/_mg_2669_0.webp?h=050f43d9&amp;itok=c4cc5MAm 1x" media="screen and (min-width: 768px)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/media/image/_mg_2669_0.webp?h=050f43d9&amp;itok=qAFS7OKH 1x" media="(min-width: 0em)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/_mg_2669_0.jpg?h=050f43d9&amp;itok=c4cc5MAm 1x" media="screen and (min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/media/image/_mg_2669_0.jpg?h=050f43d9&amp;itok=qAFS7OKH 1x" media="(min-width: 0em)" type="image/jpeg"/>
+                  <img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/_mg_2669_0.jpg?h=050f43d9&amp;itok=c4cc5MAm" alt=""/>
+
+  </picture>
+
+</div>
+      
+  </article>
+</div>
+      
+      </div>
+    </div>
+  
+  <div class="hb-card__content">
+    
+    
+    
+    
+          <div class="hb-card__description">
+        
+            <div class="field-hs-postcard-body text-long label-hidden"><h3>For Undergraduates</h3>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4eb2593e-3385-446f-ba54-42b553f9be50" href="/web/20220903211351/https://cesta.stanford.edu/undergraduate-programs/undergraduate-research-internship-program" title="Undergraduate Research Internship Program">Discover our internship program</a></p>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="80fb50bc-28c6-48ce-a9af-8dae5b584ecb" href="/web/20220903211351/https://cesta.stanford.edu/undergraduate-programs" title="Undergraduate Programs">Read about the work of our recent interns</a></p>
+
+<p><a class="hs-more-link" href="https://web.archive.org/web/20220903211351/https://dhminor.stanford.edu/">Learn about the Digital Humanities Minor</a></p></div>
+      
+      </div>
+    
+      </div>
+</div>
+
+</div>
+</div>
+              <div class="paragraph-item ptype-hs-postcard"><div>
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=1&amp;paragraph=1016:changed=1659546138&amp;ds_bundle=hs_postcard&amp;ds_view_mode=preview&amp;langcode=en" data-contextual-token="rPwmC9GypBC6BdXZUzRfvqkZNSXMxFiuihpTdEgXG_E"></div><div class="hb-card hb-card--horizontal">
+
+      <div class="hb-card__graphics">
+      <div class="hb-card__img">
+        
+            <div class="field-hs-postcard-image entity-reference label-hidden">
+<article class="hb-caption-credit-image">
+  
+      
+            <div class="field-media-image image label-hidden">    <picture>
+                  <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/DHGF_2022_cropped_2.webp?h=3f745977&amp;itok=ivzbL7ZJ 1x" media="screen and (min-width: 768px)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/media/image/DHGF_2022_cropped_2.webp?h=3f745977&amp;itok=2MrnAv5k 1x" media="(min-width: 0em)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/DHGF_2022_cropped_2.jpeg?h=3f745977&amp;itok=ivzbL7ZJ 1x" media="screen and (min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/media/image/DHGF_2022_cropped_2.jpeg?h=3f745977&amp;itok=2MrnAv5k 1x" media="(min-width: 0em)" type="image/jpeg"/>
+                  <img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/DHGF_2022_cropped_2.jpeg?h=3f745977&amp;itok=ivzbL7ZJ" alt=""/>
+
+  </picture>
+
+</div>
+      
+  </article>
+</div>
+      
+      </div>
+    </div>
+  
+  <div class="hb-card__content">
+    
+    
+    
+    
+          <div class="hb-card__description">
+        
+            <div class="field-hs-postcard-body text-long label-hidden"><h3>For Graduates</h3>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c41800b5-118f-4f51-9921-4272db074782" href="/web/20220903211351/https://cesta.stanford.edu/graduate-programs/graduate-certificate-digital-humanities" title="Graduate Certificate in the Digital Humanities">Learn about our graduate certificate</a></p>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e6b1d9b8-892c-4002-b168-8d81f1862dd9" href="/web/20220903211351/https://cesta.stanford.edu/graduate-programs/digital-humanities-graduate-fellowship" title="Digital Humanities Graduate Fellowship">Find out about our research fellowship</a></p>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="cf942db2-0bd0-47d9-a4c1-d0ce71d78d1a" href="/web/20220903211351/https://cesta.stanford.edu/dh-graduate-fellows-2021-22" title="DH Graduate Fellows 2021-22">Meet our current fellows</a></p>
+
+<p> </p></div>
+      
+      </div>
+    
+      </div>
+</div>
+
+</div>
+</div>
+              <div class="paragraph-item ptype-hs-postcard"><div>
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=1&amp;paragraph=1026:changed=1659546138&amp;ds_bundle=hs_postcard&amp;ds_view_mode=preview&amp;langcode=en" data-contextual-token="OvhPFt4_LybpECKl-VtFFkPWGLp7Ehag4sUesNc3TXk"></div><div class="hb-card hb-card--horizontal">
+
+      <div class="hb-card__graphics">
+      <div class="hb-card__img">
+        
+            <div class="field-hs-postcard-image entity-reference label-hidden">
+<article class="hb-caption-credit-image">
+  
+      
+            <div class="field-media-image image label-hidden">    <picture>
+                  <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/events/half-width_rectangular_cover_2_8.webp?h=ab389f78&amp;itok=Ci0mu8HB 1x" media="screen and (min-width: 768px)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/events/half-width_rectangular_cover_2_8.webp?h=ab389f78&amp;itok=AZ94br4V 1x" media="(min-width: 0em)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/events/half-width_rectangular_cover_2_8.png?h=ab389f78&amp;itok=Ci0mu8HB 1x" media="screen and (min-width: 768px)" type="image/png"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/events/half-width_rectangular_cover_2_8.png?h=ab389f78&amp;itok=AZ94br4V 1x" media="(min-width: 0em)" type="image/png"/>
+                  <img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/events/half-width_rectangular_cover_2_8.png?h=ab389f78&amp;itok=Ci0mu8HB" alt="CESTA Digital Humanities Research Showcase 2022"/>
+
+  </picture>
+
+</div>
+      
+  </article>
+</div>
+      
+      </div>
+    </div>
+  
+  <div class="hb-card__content">
+    
+    
+    
+    
+          <div class="hb-card__description">
+        
+            <div class="field-hs-postcard-body text-long label-hidden"><h3>Publications and Media</h3>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="3a999d4a-a5c4-4569-8bd8-d9d00f80b4a2" href="/web/20220903211351/https://cesta.stanford.edu/publications-all" title="Publications">Explore our publications</a></p>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="bf0a51b6-4ca9-408d-bf5a-41dc7b693802" href="/web/20220903211351/https://cesta.stanford.edu/recorded-talks" title="Recorded Talks">Watch our recorded talks</a></p>
+
+<p><a class="hs-more-link" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7b711f82-8e4c-447f-8dbe-a65346ff43f6" href="/web/20220903211351/https://cesta.stanford.edu/news" title="News">Catch up on our recent news</a></p></div>
+      
+      </div>
+    
+      </div>
+</div>
+
+</div>
+</div>
+          </div>
+  
+      </div>
+</div>
+              <div class="paragraph-item ptype-hs-text-area">  <div class="paragraph paragraph--type--hs-text-area paragraph--view-mode--default">
+          
+            <div class="color- field-hs-text-area text-long label-hidden"><p class="hs-font-splash text-align-center">EVENTS</p></div>
+      
+      </div>
+</div>
+              <div class="paragraph-item ptype-hs-view">  <div class="paragraph paragraph--type--hs-view paragraph--view-mode--default">
+          
+<div class="field field--name-field-hs-view field--type-viewfield field--label-hidden">
+  
+    
+        
+<div class="field__item field__item-label-hidden">
+  
+    
+      <div class="views-element-container"><div class="js-view-dom-id-744f107a32830e749b33c6dcd5c49590fa6fc8e5f8bef57a6c2e82a9e5f4d2da">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+          
+
+<div class="hb-grid hb-grid--cols-3">
+      <div class="hb-grid__item">
+<div class="hb-card hb-card--date-stacked">
+
+      <div class="hb-card__graphics hb-card__graphics--has-date">
+
+              <div class="hb-card__img">
+          <div class="views-field views-field-field-hs-event-image"><div class="field-content">
+<article class="hb-media-image">
+  
+      
+            <div class="field-media-image image label-hidden">  <a href="/web/20220903211351/https://cesta.stanford.edu/events/richard-jean-so-how-pandemic-becomes-story-narrative-and-social-crisis-platform-age" tabindex="-1" aria-hidden="true" hreflang="en"><img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_rectangle_360x250/public/events/localist/0ec6c5c29e2f62500345fdc036239484a736a9b4.jpg?h=04d92ac6&amp;itok=4X3qlg3M" width="360" height="250" alt="" loading="lazy"/>
+
+</a>
+</div>
+      
+  </article>
+</div></div>
+        </div>
+      
+              <div class="hb-card__date-tile">
+                      <div class="hb-card__date-tile-month"><div class="views-field views-field-field-hs-event-date-1"><span class="field-content">October</span></div></div>
+          
+                      <div class="hb-card__date-tile-day"><div class="views-field views-field-field-hs-event-date-2"><span class="field-content">4</span></div></div>
+                  </div>
+      
+    </div>
+  
+  <div class="hb-card__content">
+    
+          <div class="hb-card__title">
+        <h2><div><span><a href="/web/20220903211351/https://cesta.stanford.edu/events/richard-jean-so-how-pandemic-becomes-story-narrative-and-social-crisis-platform-age" hreflang="en">Richard Jean So: How a Pandemic Becomes a Story. Narrative and Social Crisis in the Platform Age</a></span></div></h2>
+      </div>
+    
+          <div class="hb-card__subcontent">
+
+                              <div class="hb-card__subcontent-item hb-card__icon hb-card__icon--date">
+              <div class="views-field views-field-field-hs-event-date-4"><span class="views-label views-label-field-hs-event-date-4">Date</span><div class="field-content">Tuesday, October 4, 2022. 4:00pm - 6:00pm</div></div>
+            </div>
+                  
+      </div>
+    
+          <div class="hb-card__location hb-card__icon hb-card__icon--location">
+        <div class="views-field views-field-field-hs-event-location"><span class="views-label views-label-field-hs-event-location">Location</span><div class="field-content">Stanford Humanities Center424 Santa Teresa Street, Stanford CA, 94305</div></div>
+      </div>
+    
+    
+    
+    
+  </div>
+</div>
+
+</div>
+  </div>
+
+
+    
+
+  
+  <div class="more-link"><a href="/web/20220903211351/https://cesta.stanford.edu/upcoming-events">See more Events</a></div>
+
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+    </div>
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-hs-collection">  <div class="hs-paragraph-style hs-paragraph-style--well-full-width paragraph paragraph--type--hs-collection paragraph--view-mode--default">
+          
+      <div class="field-hs-collection-items entity-reference-revisions label-hidden item-per-row--1">
+              <div class="paragraph-item ptype-hs-text-area">  <div class="paragraph paragraph--type--hs-text-area paragraph--view-mode--default">
+          
+            <div class="color- field-hs-text-area text-long label-hidden"><p class="hs-font-splash text-align-center">NEWS &amp; BLOGS</p></div>
+      
+      </div>
+</div>
+              <div class="paragraph-item ptype-hs-view">  <div class="paragraph paragraph--type--hs-view paragraph--view-mode--default">
+          
+<div class="field field--name-field-hs-view field--type-viewfield field--label-hidden">
+  
+    
+        
+<div class="field__item field__item-label-hidden">
+  
+    
+      <div class="views-element-container"><div class="js-view-dom-id-8f5a72e7a96e636b71b2b4f733d5e77917e9e1565ad74b24c4520b0471212790">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+                          
+
+<div class="hb-grid hb-grid--cols-3">
+      <div class="hb-grid__item"><div class="hb-card">
+
+      <div class="hb-card__graphics">
+      <div class="hb-card__img">
+        <div class="views-field views-field-field-hs-news-image"><div class="field-content">
+<article class="hb-caption-credit-image">
+  
+      
+            <div class="field-media-image image label-hidden">  <a href="/web/20220903211351/https://cesta.stanford.edu/news/community-college-students-pursue-dh-research-through-cesta-partnership-oce-and-sul" tabindex="-1" aria-hidden="true" hreflang="en"><img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_rectangle_360x250/public/media/image/cc_summer_porgram_picnic_aug_11_22_0.jpg?h=5dc9785f&amp;itok=RK6-A67Q" width="360" height="250" alt="" loading="lazy"/>
+
+</a>
+</div>
+      
+            <div class="field-media-image-caption text-long label-hidden"><h5>CESTA Interns at Lunch Break</h5></div>
+      
+  </article>
+</div></div>
+      </div>
+    </div>
+  
+  <div class="hb-card__content">
+            <div class="hb-card__category"><span class="views-field views-field-field-hs-news-categories"><span class="field-content hb-categories"><ul><li><a href="/web/20220903211351/https://cesta.stanford.edu/news-categories/announcements" hreflang="en">Announcements</a></li></ul></span></span></div>
+    
+          <div class="hb-card__title">
+        <h2><div class="views-field views-field-title"><span class="field-content"><a href="/web/20220903211351/https://cesta.stanford.edu/news/community-college-students-pursue-dh-research-through-cesta-partnership-oce-and-sul" hreflang="en">Community College students pursue DH research through CESTA partnership with OCE and SUL </a></span></div></h2>
+      </div>
+    
+    
+          <div class="hb-card__description"><div class="views-field views-field-body"><div class="field-content">Last week marked the successful conclusion of our summer DH internship program with local community colleges.</div></div></div>
+    
+    
+    
+      </div>
+</div>
+
+</div>
+      <div class="hb-grid__item"><div class="hb-card">
+
+      <div class="hb-card__graphics">
+      <div class="hb-card__img">
+        <div class="views-field views-field-field-hs-news-image"><div class="field-content">
+<article class="hb-caption-credit-image">
+  
+      
+            <div class="field-media-image image label-hidden">  <a href="/web/20220903211351/https://cesta.stanford.edu/news/cesta-welcomes-will-fenton-0" tabindex="-1" aria-hidden="true" hreflang="en"><img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_rectangle_360x250/public/media/image/2019-06-04-wfenton-cr_0.jpg?h=52a94ce3&amp;itok=YI8XqY9J" width="360" height="250" alt="" loading="lazy"/>
+
+</a>
+</div>
+      
+            <div class="field-media-image-caption text-long label-hidden"><p>Dr Will Fenton</p></div>
+      
+  </article>
+</div></div>
+      </div>
+    </div>
+  
+  <div class="hb-card__content">
+            <div class="hb-card__category"><span class="views-field views-field-field-hs-news-categories"><span class="field-content hb-categories"><ul><li><a href="/web/20220903211351/https://cesta.stanford.edu/news-categories/announcements" hreflang="en">Announcements</a></li></ul></span></span></div>
+    
+          <div class="hb-card__title">
+        <h2><div class="views-field views-field-title"><span class="field-content"><a href="/web/20220903211351/https://cesta.stanford.edu/news/cesta-welcomes-will-fenton-0" hreflang="en">CESTA welcomes Will Fenton</a></span></div></h2>
+      </div>
+    
+    
+          <div class="hb-card__description"><div class="views-field views-field-body"><div class="field-content">The Center for Spatial and Textual Analysis (CESTA) is delighted to welcome Dr. William D. Fenton, who will take on the new role of Associate Director beginning on August 15.</div></div></div>
+    
+    
+    
+      </div>
+</div>
+
+</div>
+      <div class="hb-grid__item"><div class="hb-card">
+
+      <div class="hb-card__graphics">
+      <div class="hb-card__img">
+        <div class="views-field views-field-field-hs-news-image"><div class="field-content">
+<article class="hb-caption-credit-image">
+  
+      
+            <div class="field-media-image image label-hidden">  <a href="/web/20220903211351/https://cesta.stanford.edu/news/jesse-rodin-interviewed-about-josquin-research-project" tabindex="-1" aria-hidden="true" hreflang="en"><img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_rectangle_360x250/public/media/image/jesse-rodin-photo-by-mark-nye-555x833_0.jpg?h=783c2f28&amp;itok=s4JUdKxp" width="360" height="250" alt="" loading="lazy"/>
+
+</a>
+</div>
+      
+  </article>
+</div></div>
+      </div>
+    </div>
+  
+  <div class="hb-card__content">
+            <div class="hb-card__category"><span class="views-field views-field-field-hs-news-categories"><span class="field-content hb-categories"><ul><li><a href="/web/20220903211351/https://cesta.stanford.edu/news-categories/announcements" hreflang="en">Announcements</a></li><li><a href="/web/20220903211351/https://cesta.stanford.edu/news-categories/faculty" hreflang="en">Faculty</a></li></ul></span></span></div>
+    
+          <div class="hb-card__title">
+        <h2><div class="views-field views-field-title"><span class="field-content"><a href="/web/20220903211351/https://cesta.stanford.edu/news/jesse-rodin-interviewed-about-josquin-research-project" hreflang="en">Jesse Rodin Interviewed About Josquin Research Project </a></span></div></h2>
+      </div>
+    
+    
+          <div class="hb-card__description"><div class="views-field views-field-body"><div class="field-content">CESTA affiliate and associate professor of Music Jesse Rodin has been interviewed by Holly Alyssa MacCormick at Stanford Report. Read the full article here.</div></div></div>
+    
+    
+    
+      </div>
+</div>
+
+</div>
+  </div>
+
+
+    
+
+  
+  <div class="more-link"><a href="/web/20220903211351/https://cesta.stanford.edu/news">See More News</a></div>
+
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+    </div>
+
+      </div>
+</div>
+              <div class="paragraph-item ptype-hs-text-area">  <div class="paragraph paragraph--type--hs-text-area paragraph--view-mode--default">
+          
+            <div class="color- field-hs-text-area text-long label-hidden"><p class="text-align-center"><a background-color="#292F33;" class="twitter-timeline" data-height="300" data-width="100%" href="https://web.archive.org/web/20220903211351/https://twitter.com/cesta_stanford">Tweets by cesta_stanford</a> <script async="" src="//web.archive.org/web/20220903211351js_/https://platform.twitter.com/widgets.js" charset="utf-8"></script><a class="twitter-follow-button" data-show-count="false" href="https://web.archive.org/web/20220903211351/https://twitter.com/cesta_stanford">Follow @cesta_stanford</a><script async="" src="//web.archive.org/web/20220903211351js_/https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+              <div class="paragraph-item ptype-hs-testimonial"><div>
+  <div data-contextual-id="paragraph:root_parent_type=node&amp;root_parent=1&amp;paragraph=1456:changed=1659546138&amp;ds_bundle=hs_testimonial&amp;ds_view_mode=default&amp;langcode=en" data-contextual-token="iXdDDUNsZ_SCuYWfYm_1K-gzpYI8ss6-Jd0fuTZ5u-c"></div>    
+<div class="hb-testimonial hb-testimonial--top">
+  <div class="hb-testimonial__wrapper">
+    <div class="hb-testimonial__content">
+                        <div class="hb-testimonial__quote hb-testimonial__quote--top">
+            
+            <div class="field-hs-testimonial-quote string-long label-hidden">Throughout my time with CESTA, I&#039;ve had the opportunity to learn and work on many different things that I&#039;m interested in, such as working with historical documents, coding music analysis programs, and graphic designing for the anthology. In each project I&#039;ve been a part of, it has been exciting to see how much technological innovation has to offer for humanities research, and how interdisciplinary study can enhance collaboration from people with different backgrounds and perspectives.</div>
+      
+          </div>
+        
+        <div class="hb-testimonial__author-block">
+                      <div class="hb-testimonial__image">
+              
+            <div class="field-hs-testimonial-image entity-reference label-hidden">
+<article class="hb-media-image">
+  
+      
+            <div class="field-media-image image label-hidden">    <picture>
+                  <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/kiana_hu_2.webp?h=a162ca34&amp;itok=_B6Q9oqx 1x" media="screen and (min-width: 768px)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/media/image/kiana_hu_2.webp?h=a162ca34&amp;itok=KXHUds08 1x" media="(min-width: 0em)" type="image/webp"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/kiana_hu_2.jpg?h=a162ca34&amp;itok=_B6Q9oqx 1x" media="screen and (min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_medium_square_360x360/public/media/image/kiana_hu_2.jpg?h=a162ca34&amp;itok=KXHUds08 1x" media="(min-width: 0em)" type="image/jpeg"/>
+                  <img src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_xlarge_square_700x700/public/media/image/kiana_hu_2.jpg?h=a162ca34&amp;itok=_B6Q9oqx" alt=""/>
+
+  </picture>
+
+</div>
+      
+  </article>
+</div>
+      
+            </div>
+          
+          <div class="hb-testimonial__author-credits">
+                          <div class="hb-testimonial__name">
+                
+            <div class="field-hs-testimonial-name string label-hidden">Kiana Hu</div>
+      
+              </div>
+            
+                          <div class="hb-testimonial__position">
+                
+            <div class="field-hs-testimonial-position string label-hidden">Undergraduate Research Intern</div>
+      
+              </div>
+            
+                      </div>
+        </div>
+      
+          </div>
+  </div>
+</div>
+
+</div>
+</div>
+              <div class="paragraph-item ptype-hs-text-area">  <div class="paragraph paragraph--type--hs-text-area paragraph--view-mode--default">
+          
+            <div class="color- field-hs-text-area text-long label-hidden"><p><em>CESTA is open to all persons concerned with the study and teaching of digital humanities, in that field’s most capacious definition. Our Center welcomes researchers and interested participants from all walks of academic life, including, but not limited to, faculty and academic-related staff, postdoctoral fellows, graduates and undergraduates, independent scholars, and technological experts. We aim to encourage an environment of collegiality and collaboration, diversity, inclusion, and academic freedom for all participants.</em></p>
+
+<p><em>We explicitly affirm the right of students and junior faculty to receive supportive, professional mentoring that respects their intellectual freedom and personal integrity. We expect anyone coming to CESTA, or representing CESTA, to abide by and promote these values so that together we may build a stronger, more welcoming, considerate, and equal community.</em></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+          </div>
+              </div>
+    </div>
+
+      </div>
+
+  </div><!-- /.content -->
+
+  
+</article><!-- /.node -->
+
+  </div>
+
+
+</div>
+
+  <div id="footer" class="hb-local-footer hb-dark-pattern">
+    <div class="hb-page-width flex-container flex-container--row-gap">
+        <div id="about" class="flex-md-2-of-12 block-block-content about">
+  
+      <h2 class="block__title">About</h2>
+    
+      
+            <div class="body text-with-summary label-hidden"><p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0de927f1-4830-46fb-8b7e-77dd47dfd8dc" href="/web/20220903211351/https://cesta.stanford.edu/about-cesta" title="About CESTA">About Us</a><br><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6dc37e19-a1a5-462b-9e71-b59968c6f2d1" href="/web/20220903211351/https://cesta.stanford.edu/contact-us" title="Contact Us">Location</a><br><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="6dc37e19-a1a5-462b-9e71-b59968c6f2d1" href="/web/20220903211351/https://cesta.stanford.edu/contact-us" title="Contact Us">Contact</a><br><a href="https://web.archive.org/web/20220903211351/https://give.stanford.edu/hs/fund/?kwoDCFilter=KDC-2Q9GH62&amp;kwoDCPreselect=KDC-2Q9GH62" title="https://give.stanford.edu/hs/fund/?kwoDCFilter=KDC-2Q9GH62&amp;kwoDCPreselect=KDC-2Q9GH62">Make a Gift</a><br><a href="https://web.archive.org/web/20220903211351/https://stanford.us9.list-manage.com/subscribe?u=d3edfb9438089c6e3817bee4d&amp;id=ae053ecd6e">Subscribe to the CESTA Newsletter</a></p></div>
+      
+  </div>
+<div id="people" class="flex-md-2-of-12 block-block-content people">
+  
+      <h2 class="block__title">People</h2>
+    
+      
+            <div class="body text-with-summary label-hidden"><p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="13f66026-68c5-40e8-8858-a74a6de48657" href="/web/20220903211351/https://cesta.stanford.edu/people/our-team" title="Our Team">Our Team</a><br><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="84fcceab-09af-45f6-91dd-fc6a3ad40a9e" href="/web/20220903211351/https://cesta.stanford.edu/people/affiliated-faculty-and-researchers" title="Affiliated Faculty and Researchers">Affiliated Faculty and Researchers</a><br><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9cf84074-ab36-4762-8170-ad9ba714605b" href="/web/20220903211351/https://cesta.stanford.edu/people/affiliated-graduate-students" title="Affiliated Graduate Students">Affiliated Graduate Students</a><br>
+ </p></div>
+      
+  </div>
+<div id="connect" class="flex-md-2-of-12 block-block-content connect">
+  
+      <h2 class="block__title">Connect With Us</h2>
+    
+      
+            <div class="body text-with-summary label-hidden"><p><a href="https://web.archive.org/web/20220903211351/https://www.youtube.com/c/CESTAStanford/"><span class="fontawesome-icon-inline"><span class="fa-3x fa-youtube-square fab"></span></span></a>  <a href="https://web.archive.org/web/20220903211351/https://www.facebook.com/cesta.stanford/"><span class="fontawesome-icon-inline"><span class="fa-3x fa-facebook-square fab"></span></span></a>  <a href="https://web.archive.org/web/20220903211351/https://twitter.com/cesta_stanford"><span class="fontawesome-icon-inline"><span class="fa-3x fa-twitter-square fab"></span></span></a> </p>
+
+<p><a href="https://web.archive.org/web/20220903211351/https://www.instagram.com/cesta_stanford"><span class="fontawesome-icon-inline"><span class="fa-3x fa-instagram fab"></span></span></a>    <span class="spamspan"><span class="u">cesta_stanford</span> [at] <span class="d">stanford.edu</span><span class="t"> (<span class="fontawesome-icon-inline"><span class="fa-3x fa-envelope-square fas"></span></span>)</span></span></p></div>
+      
+  </div>
+<div id="block-humsci-colorful-hs-contactus" class="flex-md-3-of-12 block-block-content block-humsci-colorful-hs-contactus">
+  
+      <h2 class="block__title">Contact Us</h2>
+    
+      
+            <div class="body text-with-summary label-hidden"><p>Wallenberg Hall (Bldg 160), Fourth Floor<br>
+450 Jane Stanford Way<br>
+Stanford Mail Code: 2055<br>
+Stanford, CA 94305-2055<br>
+Phone:  650-721-1385</p>
+
+<p><span class="spamspan"><span class="u">cesta_stanford</span> [at] <span class="d">stanford.edu</span></span><br><a href="https://web.archive.org/web/20220903211351/http://campus-map.stanford.edu/">Campus Map</a></p></div>
+      
+  </div>
+<div class="flex-md-3-of-12 block-block-content">
+  
+    
+      
+            <div class="body text-with-summary label-hidden"><p><em><span><span>We recognize that Stanford sits on the ancestral land of the Muwekma Ohlone Tribe. This land was and continues to be of great importance to the Ohlone people. Consistent with our values of community and inclusion, we have a responsibility to acknowledge, honor and make visible the university’s relationship to Native peoples.</span></span></em></p></div>
+      
+  </div>
+<div id="block-humsci-colorful-hsaffiliationfooter" class="flex-md-8-of-12 block-block-content block-humsci-colorful-hsaffiliationfooter">
+  
+    
+      
+            <div class="body text-with-summary label-hidden">
+<article class="align-left hb-media-image"><div class="field-media-image image label-hidden">  <img loading="lazy" src="/web/20220903211351im_/https://cesta.stanford.edu/sites/cesta/files/styles/hs_small_scaled_200px/public/media/image/cestalogo_color_b_1.png?itok=96iJrU98" width="200" height="236" alt=""></div>
+      
+  </article><p class="hs-font-lead"> </p>
+
+<p class="hs-font-lead">CESTA is committed to shaping future humanities research and teaching through openness to new digital technologies, scholarly questions and collaborative opportunities.</p></div>
+      
+  </div>
+<div id="sunetlogin" class="flex-md-2-of-12 block-block-content sunetlogin">
+  
+    
+      
+            <div class="body text-with-summary label-hidden"><p class="text-align-right"><a class="hs-secondary-button" href="/web/20220903211351/https://cesta.stanford.edu/saml_login">SUNet Login</a></p></div>
+      
+  </div>
+
+
+    </div>
+  </div>
+
+
+
+<footer id="footer__global-footer" class="hb-global-footer su-global-footer su-global-footer--dark">
+  <div class="su-global-footer__container hb-page-width">
+    <div class="su-global-footer__brand">
+<a class="su-logo su-global-footer--dark" href="https://web.archive.org/web/20220903211351/https://www.stanford.edu/">
+  Stanford<br>University
+</a>
+</div>
+    <div class="su-global-footer__content">
+      <nav aria-label="global footer">
+        <ul class="su-global-footer__menu su-global-footer__menu--global">
+                    <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://www.stanford.edu/">Stanford Home</a></li>
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://visit.stanford.edu/plan/">Maps &amp; Directions</a></li>
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://www.stanford.edu/search/">Search Stanford</a></li>
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://emergency.stanford.edu/">Emergency Info</a></li>
+        </ul>
+        <ul class="su-global-footer__menu su-global-footer__menu--policy">
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://www.stanford.edu/site/terms/" title="Terms of use for sites">Terms of Use</a></li>
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://www.stanford.edu/site/privacy/" title="Privacy and cookie policy">Privacy</a></li>
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://uit.stanford.edu/security/copyright-infringement" title="Report alleged copyright infringement">Copyright</a></li>
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4" title="Ownership and use of Stanford trademarks and images">Trademarks</a></li>
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/http://exploredegrees.stanford.edu/nonacademicregulations/nondiscrimination/" title="Non-discrimination policy">Non-Discrimination</a></li>
+          <li><a class="hb-global-footer__link" href="https://web.archive.org/web/20220903211351/https://www.stanford.edu/site/accessibility" title="Report web accessibility issues">Accessibility</a></li>
+        </ul>
+      </nav>
+      <div class="su-global-footer__copyright">
+        <span>&copy; Stanford University.</span>
+        <span>&nbsp; Stanford, California 94305.</span>
+      </div>
+    </div>
+  </div>
+</footer> <!-- su-global-footer end -->
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"asset_injector\/css\/custm_lockup,asset_injector\/css\/hide_delete_page_contextual_link,blazy\/bio.ajax,blazy\/blazy,blazy\/classlist,blazy\/load,blazy\/loading,blazy\/polyfill,blazy\/promise,blazy\/raf,blazy\/webp,core\/picturefill,extlink\/drupal.extlink,fontawesome\/fontawesome.webfonts,google_analytics\/google_analytics,hs_paragraph_types\/hs_collection,hs_text_area\/hs_text_area,humsci_colorful\/base,media\/filter.caption,paragraphs\/drupal.paragraphs.unpublished,slick\/slick.load,spamspan\/obfuscate,stanford_media\/display,system\/base,views\/views.ajax,views\/views.module","theme":"humsci_colorful","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"google_analytics":{"account":{},"trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":".text-long, .text-with-summary, #footer__global-footer, #header, #toolbar-administration","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":true,"extIconPlacement":"append","extFaLinkClasses":"fas fa-arrow-right","extFaMailtoClasses":"far fa-envelope","whitelistedDomains":null}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:8f5a72e7a96e636b71b2b4f733d5e77917e9e1565ad74b24c4520b0471212790":{"view_name":"custm_cesta_news","view_display_id":"hp_3_across","view_args":"","view_path":"\/node\/1","view_base_path":null,"view_dom_id":"8f5a72e7a96e636b71b2b4f733d5e77917e9e1565ad74b24c4520b0471212790","pager_element":0},"views_dom_id:744f107a32830e749b33c6dcd5c49590fa6fc8e5f8bef57a6c2e82a9e5f4d2da":{"view_name":"custm_cesta_events","view_display_id":"hp_3_accross","view_args":"","view_path":"\/node\/1","view_base_path":null,"view_dom_id":"744f107a32830e749b33c6dcd5c49590fa6fc8e5f8bef57a6c2e82a9e5f4d2da","pager_element":0}}},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"loader":true,"unblazy":null},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.34999999999999998,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"user":{"uid":0,"permissionsHash":"1970ce07bf7886ab00ceb035e40e1817c4a02afce537b30284d085cf9f7ac0c8"}}</script>
+<script src="/web/20220903211351js_/https://cesta.stanford.edu/sites/cesta/files/js/js_YfE4mM8irqn8xxb5j5ccc8QwUOfQQdwmYmPOy-b04AA.js"></script>
+
+      <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"383a8e13e9","applicationID":"1410892491","transactionName":"YFBSMkACDEoFBRUKCVkaZRRbTAtXAAMZTRZfRQ==","queueTime":0,"applicationTime":3181,"atts":"TBdRRAgYH0Q=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 21:13:51 Sep 03, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:36:55 May 15, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.694
+  exclusion.robots: 0.162
+  exclusion.robots.policy: 0.15
+  esindex: 0.011
+  cdx.remote: 11.728
+  LoadShardBlock: 77.841 (3)
+  PetaboxLoader3.datanode: 113.957 (5)
+  load_resource: 130.663
+  PetaboxLoader3.resolve: 22.548
+  loaddict: 61.67
+-->
