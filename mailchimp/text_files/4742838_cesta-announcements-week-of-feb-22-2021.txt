@@ -1,0 +1,99 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Upcoming Online Events
+Week of February 22, 2021
+In the context of Stanford's policy concerning the COVID-19 pandemic, CESTA events are online for now. We look forward to seeing you at CESTA when it is safe to gather again.
+This week:
+
+Tuesday, February 23, 2021 at 12 pm
+CESTA & UCLDH Transnational Seminar Series: The Digital Humanities Long View
+Professor Zephyr Frank, "Digital Humanities and Spatial History: Atlantic World Stories"  (https://cesta.stanford.edu/events/zephyr-frank-digital-humanities-and-spatial-history-atlantic-world-stories)
+
+This talk explores the pathways taken in the analysis of the social space of Rio de Janeiro in literature.  It also explores the imprint of social space on literature and, if possible, the reciprocal imprint of the literary space on the social.  As such, the aim is to examine the way DH methods and sensibilities may enter into long standing arguments about the relationship between urban social spaces (socially produced assemblages of material and mental constructs) and social identities typically represented in literature (in this case novels of growth and social integration). The talk will focus on mapping social and spatial patterns found in three canonical Brazilian novels.
+
+Chair: Laura Stokes, Associate Professor of History, Stanford University
+UCL Respondent: Madeline Tondi
+Stanford Respondent: William Parish
+Register for this seminar (https://www.eventbrite.co.uk/e/zephyr-frank-digital-humanities-spatial-history-atlantic-world-stories-tickets-136608235911)
+This is our third event in The Digital Humanities Long View, a transnational seminar series co-organized by UCL DH and CESTA. View the full schedule. (https://cestastanford.github.io/)
+Also this week:
+
+Tuesday, February 23 at 11 am
+Carpentries @ Stanford Workshop
+Python Pandas
+More info (https://library.stanford.edu/events/carpentries-stanford-python-pandas-0)  | Register for this event (https://docs.google.com/forms/d/e/1FAIpQLSc7MzG7-s7GK7_QqJXPJdeXyFw96NNrno51b-ui4JqzabWmBQ/viewform)  (Stanford affiliates only)
+
+Tuesday, February 23 at 1 pm
+CIDR Workshop
+Data Wrangling with R: Digital Tools and Methods for Humanities and Social Sciences
+More info (https://library.stanford.edu/events/data-wrangling-r-digital-tools-and-methods-humanities-and-social-sciences)  | Register for this event (https://stanford.zoom.us/meeting/register/tJUqd-2sqDkiG9FVKTN8uammw5zVbZuBCQUp)  (Stanford affiliates only)
+
+Wednesday, February 24 at 9 am
+Animal Crossing: New Digital Humanities Talk Series
+Allie Alvis, "Books without Books: Digitally Communicating Materiality"
+More info (https://digitalhumanities.stanford.edu/acndh) | View live via Twitch (https://www.twitch.tv/acndighum)
+
+Wednesday, February 24 at 1 pm
+Carpentries @ Stanford Workshop
+Python Machine Learning
+More info (https://library.stanford.edu/events/carpentries-stanford-python-machine-learning-0)  | Register for this event (https://docs.google.com/forms/d/e/1FAIpQLSdKIgvLzKg_Tsit8LiScZvSTYem025W0sNJI_52dY6b0dW4yA/viewform)  (Stanford affiliates only)
+
+Tuesday, February 24 at 1 pm
+David Rumsey Map Center Workshop
+February Finding and Using Maps
+More info (https://library.stanford.edu/events/february-finding-and-using-maps-online-workshop) | Register for this event (https://stanford.zoom.us/webinar/register/WN_Wlnoz1uMRzWcRhuBBlRwjg)
+
+Thursday, February 25 at 1 pm
+Carpentries @ Stanford Workshop
+R Visualization
+More info (https://library.stanford.edu/events/carpentries-stanford-r-visualization-0) | Register for this event (https://forms.gle/pxY1PbDhYNmvTxFu8)  (Stanford affiliates only)
+
+Friday, February 26 at 9 am
+Carpentries @ Stanford Workshop
+R Simple stats and advanced data visualization
+More info (https://library.stanford.edu/events/carpentries-stanford-r-simple-stats-and-advanced-data-visualization) | Register for this event (https://forms.gle/wHfr6ezop9BobBj87)  Stanford affiliates only
+
+Friday, February 26 at 9 am
+Stanford Virtual Tableau Day
+More info (https://www.tableau.com/learn/webinars/stanford-virtual-tableau-day-2021-02-26) | Register for this event (https://tableau.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=tableau&service=6&rnd=0.38145970698553755&main_url=https%3A%2F%2Ftableau.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000004bb919eb46ea0548bd94f2f0eebc2b7ebcc17188f44aea7084b5761c77b7049f9%26siteurl%3Dtableau%26confViewID%3D183974188778824537%26encryptTicket%3DSDJTSwAAAATP_NhfEm-4qTSX6B-VGb80AHLdURphlGM-YWZh81qYBA2%26)
+Coming up:
+
+Tuesday, March 2 at 12 pm
+CESTA & CIDR Lightning Talks
+Sign up to present a lightning talk at the next session. (https://docs.google.com/forms/d/e/1FAIpQLScUqjiIhm9ONqtWGnSEgJGNgkhWq-DHnxra8cZpvwvWBMVMHg/viewform)
+Participants can drop-in, no registration is required (Zoom link TBA).
+Contact saldana@stanford.edu (mailto:saldana@stanford.edu) with questions.
+
+Thursday, March 4 (all day)
+Early Modern Recipes Online Collective (EMROC) Spring Transcribathon
+"Revealing Recipes: Top Tips from Early Modern Women"
+View transcribathon instructions and resources (https://emroc.hypotheses.org/transcribathon-2021)  | Register for a live workshop from 7 - 9 am PST (https://www.eventbrite.co.uk/e/revealing-recipes-top-tips-from-early-modern-women-workshop-tickets-139618991161)
+
+Tuesday, March 9 at 12 pm
+CESTA DH Public Lecture
+Prof. Elaine Treharne (Stanford), "Near and Far: Medieval Manuscripts through Digital Time and Space"
+
+Wednesday, March 10 at 5 pm
+CESTA & UCLDH Transnational Seminar Series: The Digital Humanities Long View
+Riva Quiroga (Programming Historian), "Multilingual Publishing in Digital Humanities"
+Register for this event (https://www.eventbrite.co.uk/e/riva-quiroga-multilingual-publishing-in-digital-humanities-tickets-136609052353)
+Ongoing:
+Mondays from 11 am - 12 pm (January 11 - March 8)
+David Rumsey Map Center Online Office Hours
+Consultations via Zoom (https://events.stanford.edu/events/896/89689/)
+*All events listed above are in Pacific Time.*
+
+============================================================
+** Twitter (http://www.twitter.com/cesta_stanford)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+** Subscribe to get weekly updates from CESTA (*|LIST:SUBSCRIBE|*)
+
+If you're already a subscriber but want to change how you receive these emails,
+you can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

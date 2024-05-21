@@ -1,0 +1,81 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Welcome to Winter Quarter! At CESTA, this quarter brings an exciting calendar of events, including the continuation of the year-long Mellon Sawyer Seminar Series, "The Data that Divides Us: Recalibrating Data Methods for New Knowledge Frameworks Across the Humanities."
+Next Week at CESTA
+
+What Social Network Analysis Can Tell Us About German Humanism (https://cesta.stanford.edu/events/amy-nelson-burnett-what-social-network-analysis-can-tell-us-about-german-humanism)
+Amy Nelson Burnett
+
+Thursday, January 9 | 12:00 - 1:15 PM | Wallenberg Hall, 433A
+
+Letters were a vital means of communication for Germany’s learned elite in the early sixteenth century. Although scholars have long studied the published correspondence of individual German humanists, they have paid little attention to the metadata that provides a larger overview of the network created by those letters. My presentation will describe the shape of that correspondence network on the eve of the Reformation, using social network analysis to trace the flow of news, information, and ideas and to identify significant attributes of network members that helped shape group identity.
+
+This seminar is cosponsored by Religious Studies, History, and CMEMS.
+
+The presentation will include lunch and take place at the Stanford Center for Spatial and Textual Analysis in Wallenberg 433A. A Zoom link is available upon request.
+
+About the Presenter
+Amy Nelson Burnett is Paula and D.B. Varner University Professor of History at the University of Nebraska-Lincoln. Her research examines the dissemination of the Reformation in south Germany and Switzerland through print, preaching, and educational reform, and she is now using a database of early modern correspondence to analyze the connections between German humanism and the early Reformation. She is the author of Debating the Sacraments: Print and Authority in the Early Reformation (2019) and Karlstadt and the Origins of the Eucharistic Controversy: A Study in the Circulation of Ideas (2011), and co-editor of A Companion to the Swiss Reformation (2016). She has received fellowships from the Guggenheim Foundation, the Alexander von Humboldt Foundation, the American Philosophical Society, the Fulbright Scholar Program, and the University of Wisconsin’s Institute for Research in the Humanities.
+
+Mellon Sawyer Seminar Series: Transformations in the Archives (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-transformation-archives-alisea-mcleod-and-bethany-nowviskie)
+Alisea McLeod & Bethany Nowviskie
+
+Thursday, January 11 | 5:30 - 7:00 PM | Wallenberg Hall, 433A
+
+Paper archives have long been foundational sources of data for humanities scholars–be these materials organized as logs and records or correspondences and various other writings, institutionally produced and preserved or recovered by other means. This seminar will explore how archives have functioned thus far and how they can be newly envisioned in the digital era. What are the risks and rewards of digital archives? What are our corresponding responsibilities–as archivists and scholars of archives in the digital era? What makes a digital data archive? What are their ethics in the new digital formats of accessibility and of preservation? Can we revolutionize the burdens that accompany past archives?
+
+This is the third event in the Mellon Sawyer Seminar series, The Data that Divides Us: Recalibrating Data Methods for New Knowledge Frameworks Across the Humanities, generously funded by the Andrew W. Mellon Foundation. During Stanford University's 2023-24 academic year, the Sawyer Seminar Series will convene scholars from a variety of disciplinary perspectives and personal standpoints to discuss the data that has saturated our world.
+
+This event will be preceded by a reception at 5:00 p.m. at the Center for Spatial and Textual Analysis (CESTA) on the fourth floor of Wallenberg Hall (Bldg. 160), Stanford University. Register for the Zoom meeting here (https://stanford.zoom.us/meeting/register/tJUkd-2upz8sE93QP2w0DUZ1Z2RT5bZVu8Te) .
+
+About the Presenters
+
+Alisea McLeod, the former Chair of Humanities at Rust College in Mississippi, now serves as Program Manager for Curriculum Innovation at the Institute on the Formation of Knowledge at the University of Chicago. An expert on African American Emancipation, McLeod completed a Ph.D. in English and Education at the University of Michigan (Ann Arbor) in 1998, and has taught at several colleges and universities including St. Augustine’s College in Raleigh, North Carolina; Stillman College in Tuscaloosa, Alabama; and Indiana University South Bend. McLeod has been awarded a number of fellowships including a Gilder Lehrman Summer Faculty Fellowship and an American Documentary Editors Summer Fellowship and was a 2020-2021 Fellow at the Neubauer Collegium for Study of Culture and Society at the University of Chicago, where she has worked with a team of digital humanists to compile names of black soldiers and their families. With University of Georgia professor Scott Nesbit and University of Sydney
+Lecturer in Political Economy John Clegg, McLeod successfully wrote for an NEH Advancement Grant—Freedom’s Movement: African American Space in War and Reconstruction--in 2018. She has been part of other grant projects including a 2019-2020 Humanities Grant for the Public Good funded by the Council of Independent Colleges and Mellon. You can read more about her work digitizing contraband (war refugee) camp records, public scholarship that promises to reacquaint thousands of Americans with their ancestral pasts, at www.lastroadtofreedom.org (http://www.lastroadtofreedom.org/) .
+
+Alisea Mcleod will be joined in her presentation by Cynthia McLeod who is s a PhD Student in the Department of Communication at UCSB. She received her BSc in Psychology with a minor in African American Studies at Howard University in 2017. She then went on to receive her MSc in Digital Anthropology at University College London in 2019, completing her master's thesis titled, Black Twitter: Temporality, (re)Spatializations, and Placemaking. Cynthia's research interests continue to lie at the intersection of all things digital, black culture, and community related, with a keen concentration on social media and the construction of worlds/reality.
+
+
+Bethany Nowviskie is is Dean of Libraries and Professor of English at James Madison University (https://www.jmu.edu/) , where she also serves as Chief Academic Technology Officer. From 2015-2019, she directed the Digital Library Federation (http://www.diglib.org/)  at CLIR (where she has also been a Distinguished Presidential Fellow) and served as a Research Associate Professor of Digital Humanities at the University of Virginia. Nowviskie has been a member of the teaching faculty at UVA’s Rare Book School (http://rarebookschool.org/)  since 2011, was the first director of the Scholars’ Lab (http://scholarslab.org/)  at the University of Virginia Library (2007-2015), and has served as chair of UVA’s General Faculty Council and special advisor to the UVa provost for the advancement of digital humanities research. A past president of the Association for Computers and the Humanities (http://ach.org/)  and chair of the Modern Language Association’s committee on information technology, Nowviskie
+received her Ph.D. in Literature from the University of Virginia in 2004 and has worked on numerous ground-breaking projects in digital libraries and the digital humanities. In 2013, she was named one of “Ten Tech Innovators” by the Chronicle of Higher Education, which pretty much summed it up: “Bethany Nowviskie likes to build things. (http://chronicle.com/article/Devising-New-Roles-for/138809/) ”
+
+These presentations will be followed by a response by Peter Leonard, Assistant University Librarian for Research Data Services at Stanford Libraries.
+
+The Data that Divides Us is supported by a Mellon Sawyer Seminar Award from the Mellon Foundation. Faculty organizers are Giovanna Ceserani (Classics), Mark Algee-Hewitt (English), Grant Parker (Classics and AAAS) and Laura Stokes (History). The award also supports the research of postdoctoral fellow Nichole Nomura and graduate fellows Chloé Brault and Matt Warner.
+Upcoming this Quarter at CESTA
+
+February 8 | 5:30 - 7:00 PM
+Mellon Sawyer Seminar Series
+Jo Guldi and Erik Fredner
+Challenging 19th Century Data Legacies (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-challenging-19th-century-data-legacies-jo-guldi-jacqueline)
+Wallenberg Hall, 433A
+
+February 29 | 5:30 - 7:00 PM
+Mellon Sawyer Seminar Series
+Marlene Daut and Ayesha Hardison
+Recuperating Forgotten Narratives  (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-recuperating-forgotten-narratives-marlene-daut-and-ayesha)
+Wallenberg Hall, 433A
+
+Upcoming Elsewhere
+
+January 11 | 6:30 - 9:00 PM
+Stanford Data Science
+Cynthia Dwork
+Measuring Our Chances: Risk Prevention in this World and its Betters (https://events.stanford.edu/event/distinguished_lecture_cynthia_dwork)
+Jen-Hsun Huang Building, Room 300
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

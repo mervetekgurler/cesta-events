@@ -1,0 +1,78 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+A portrait of Cynthia Bennett, a white woman with dark blonde hair, smiling widely. She is seen from the elbows up, wearing a turquoise blouse. Behind her hang various tactile artworks, including a map of Seattle and a wall hanging with different colored cubes jutting out of the canvas.
+
+Tuesday, May 10, 1:00 to 2:15PM PST
+Cynthia Bennett
+Centering People in Information Translation
+Online via Zoom. Register for Zoom attendance here. (https://stanford.zoom.us/webinar/register/WN__25wALfRTEKeSO1BBQoqOg)
+Please note that this talk will be held one hour later than the usual seminar time.
+
+Abstract: Inaccessible information has wide-ranging consequences. These span people with disabilities being unable to read COVID-19 infographics to them being excluded from digital networks like social media and remote meetings which frequently and rapidly transmit highly visual information. One approach to increasing nonvisual access to information for people who are blind and low vision is artificial intelligence (AI), which promises automation and scalability. However, research and media reports continue to illuminate AI-bias and malicious applications. As these harms tend to impact people who already experience marginalization, the ethics of applying AI to solve perennial accessibility challenges is complicated.
+
+In this talk I will overview one project I led concerning one facet of information accessibility—how people are represented in human and AI-generated alternative (alt) text descriptions. I will share findings from interviews I conducted with blind people who rely on alt text to understand visual information and who also identified as a minoritized race or gender shown to be disproportionately misrepresented by AI-powered human recognition systems. From their experiences and perspectives, I synthesized alt text design considerations. However, I will conclude the talk with provocations for the audience, rooted in examples from art and disability activism, which ask us to move beyond future systems which invisibly automate alt text production to reveal and reimagine human-centered methods for interpreting visual content into nonvisual formats.
+
+About the speaker: Cynthia Bennett is a Postdoctoral Fellow at Carnegie Mellon University’s Human-Computer Interaction Institute. Her HCI research concerns the intersection of power, disability, and design. Bennett is regularly invited to speak about her research; recent hosts include the Goethe-Institut and  The Radical AI podcast. She has received funding from the National Science Foundation, Microsoft Research, and the University of Washington’s Human Centered Design and Engineering department, where she completed her Ph.D. She has published in top-tier human-computer interaction venues, and seven of these papers have received awards.
+DH Long View
+
+Thursday, May 19, 2022. 9:00AM PT.
+Central Asia and the Role of Digital Heritage Inventories
+Tim Williams
+Online, via Zoom. Register here. (https://stanford.zoom.us/webinar/register/WN_Ko_LDqfrRKeigtE5S4Ci2w)
+
+Critical Data Practices
+Critical Data Practices Symposium
+Date and time: opening and reception 4pm on Thursday June 2nd,  symposium Friday June 3rd (schedule TBA)
+In-person event: registration details to follow
+
+For some humanistic disciplines, data is nothing new; for others, conceiving of the material of study as “data” might entail significant shifts of thought. For all kinds of humanistic data, however, digital tools offer powerful new modes of inquiry, enabling us to work at new scales and on new kinds of material. But digital methods offer new challenges, too, asking us to confront what data might become in the contexts of the humanities and to consider the ethics of its collection, storage, and use. And, we must constantly face the challenge of integrating these methods into the practices of the humanities so that we do not abandon hard-won “analogue” expertise in the hasty pursuit of the latest computational methods.
+
+Critical Data Practices has been considering these issues in our regular workshops this year. In this symposium we will be drawing into our conversation scholars and experts—faculty, graduate students and postdoctoral scholars—from our neighboring institutions up and down the Californian coast. Together, we will synthesize and elaborate what our workshops have already discussed on topics such as missing data, outliers versus averages, the futurity and archiving of data and methods, the affordances and difficulties of pre-modern data, strategies for communicating technical results, and the spatial element inherent to data.
+
+Discussants will include: David Bamman (Berkeley), Sean Fraga (USC), Rachael King (UC Santa Barbara), Marit MacArthur (UC Davis)
+Upcoming at CESTA
+
+May 17, 2022. 12:00-1:15PM PT.
+Tuesday Lunchtime Seminar
+On the Road to Mecca: Simulating the Ottoman Hajj (https://cesta.stanford.edu/events/tyler-kynn-road-mecca-simulating-ottoman-hajj)
+Tyler Kynn
+Hybrid event: in-person at CESTA and via Zoom. Register here. (https://stanford.zoom.us/webinar/register/WN_2WK0zDbYQdOkvn1bt8n1LQ)
+
+May 24, 2022. 12:00-1:15PM PT.
+Tuesday Lunchtime Seminar
+A Distant Reading of Law Dissertations (https://cesta.stanford.edu/events/luca-scholz-distant-reading-law-dissertations)
+Luca Sholz
+Hybrid event: in-person at CESTA and via Zoom. Register here. (https://stanford.zoom.us/webinar/register/WN_Jz2n-jSiRrmFG4kyIx3zUQ)
+
+Happening Elsewhere
+
+CIDR Python Introduction to Text Analysis
+Tuesday, May 10, 2022. 2:00-4:00PM PST.
+Online, via Zoom.
+More information (https://library.stanford.edu/events/cidr-python-introduction-text-analysis-0) . Register. (https://appointments.library.stanford.edu/event/9022314)
+
+CIDR R Introduction to Text Analysis
+Monday, May 16, 2022. 2:00-4:00PM PST.
+Hybrid format: online and in-person.
+More information. (https://library.stanford.edu/events/cidr-r-introduction-text-analysis-0)  Register.  (https://appointments.library.stanford.edu/event/9022317)
+
+DH Unbound 2022: Registration Open
+Register now for DH Unbound (https://stanford.us9.list-manage.com/track/click?u=d3edfb9438089c6e3817bee4d&id=22a8c6231a&e=dcee313e6d) , a collaborative virtual conference to be held from May 17-19, 2022.
+Register here. (https://members.ach.org/civicrm/event/info/?reset=1&id=17)
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

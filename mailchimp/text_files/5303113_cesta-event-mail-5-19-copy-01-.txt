@@ -1,0 +1,74 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+Tuesday, May 24, 12:00 to 1:15PM PST
+Luca Scholz
+A Distant Reading of Law Dissertations
+Hybrid event. In-person at CESTA and via Zoom.
+Register for Zoom attendance here (https://stanford.zoom.us/webinar/register/WN_Jz2n-jSiRrmFG4kyIx3zUQ) .
+
+About this talk: Scholars and students at early modern European universities wrote hundreds of thousands of dissertations. One reason why these sources have often been neglected is that they defy any individual’s capacity for close reading. This talk presents a distant reading of the titles of over 20,000 legal dissertations written at German universities during the seventeenth century. Providing a pathway into a forbidding archive, it highlights the dissertations’ interest for the history of jurisprudence and its receptiveness to social change, the history of universities and academic publishing, baroque rhetoric, and cultural, political, and economic history. The talk also discusses a visualization technique used to examine whether shifts in subjects, methods, or language can be attributed to specific age cohorts or whether they were adopted across generations.
+
+About the speaker: I am a scholar of European and digital history who is particularly involved in the relationship of political authority and human mobility, interactions with and perceptions of the atmosphere, and the use of geospatial and computational methods to study the past. I earned a PhD in History at the European University Institute in Florence, an MA in History at the École des hautes études en sciences sociales in Paris and the University of Heidelberg, as well as a BA in Economics at the latter university. Before moving to England, I held a Mellon Postdoctoral Fellowship at Stanford University from 2016 to 2019. I have also taught at the Free University of Berlin and have been a visiting scholar at the University of Saint Andrews and at Columbia University. You can find more information on my work at lucascholz.com (https://lucascholz.com/) .
+CESTA Digital Humanities Research Showcase 2022
+
+May 27, 2022, 8:30AM-3:00PM
+
+Every year, CESTA's Digital Humanities Graduate Fellowship (https://cesta.stanford.edu/graduate-programs/digital-humanities-graduate-fellowship)  supports graduate students and post-docs to produce original research using the tools and methods of the digital humanities. Join us to see the 2021-22 cohort of scholars (https://cesta.stanford.edu/dh-graduate-fellows-2021-22)  present their research!
+
+More information and event details may be found here (https://cesta.stanford.edu/events/showcase-2022) .
+
+This event is open to Stanford affiliates only. We hope you will join us in person at CESTA, but if you require a Zoom link, please write to: m.velloso-lyons@stanford.edu.
+
+Exhibit Opening
+
+Friday, May 27, 2022. 3:00PM PT.
+Reimagining African Borders through Cultural Objects
+Featuring a keynote address by Sada Mire
+Event details and RSVP here (https://archaeology.stanford.edu/events/reimagining-african-borders-through-cultural-objects) .
+
+DH Long View
+
+Thursday, June 2, 2022. 9:00AM PT.
+Indigenous Knowledge in Digital Humanities
+Jessie Loyer
+Online, via Zoom. Register here. (https://stanford.zoom.us/webinar/register/WN_eXAu9r6XSu-nsFYlVNCYPw)
+
+Critical Data Practices
+Critical Data Practices Symposium
+Date and time: opening and reception 4pm on Thursday June 2nd,  symposium Friday June 3rd (schedule TBA)
+In-person event: registration details to follow
+
+For some humanistic disciplines, data is nothing new; for others, conceiving of the material of study as “data” might entail significant shifts of thought. For all kinds of humanistic data, however, digital tools offer powerful new modes of inquiry, enabling us to work at new scales and on new kinds of material. But digital methods offer new challenges, too, asking us to confront what data might become in the contexts of the humanities and to consider the ethics of its collection, storage, and use. And, we must constantly face the challenge of integrating these methods into the practices of the humanities so that we do not abandon hard-won “analogue” expertise in the hasty pursuit of the latest computational methods.
+
+Critical Data Practices has been considering these issues in our regular workshops this year. In this symposium we will be drawing into our conversation scholars and experts—faculty, graduate students and postdoctoral scholars—from our neighboring institutions up and down the Californian coast. Together, we will synthesize and elaborate what our workshops have already discussed on topics such as missing data, outliers versus averages, the futurity and archiving of data and methods, the affordances and difficulties of pre-modern data, strategies for communicating technical results, and the spatial element inherent to data.
+
+Discussants will include: David Bamman (Berkeley), Sean Fraga (USC), Rachael King (UC Santa Barbara), Marit MacArthur (UC Davis)
+Happening Elsewhere
+
+CIDR R Introduction to Machine Learning
+Tuesday, May 24, 2022. 2:00-5:00PM PST.
+Hybrid format: online and in-person.
+More information (https://library.stanford.edu/events/cidr-r-introduction-machine-learning-0) . Register (https://appointments.library.stanford.edu/event/9022341) .
+
+DHQ: Call for Proposals
+Digital Humanities Quarterly Special Issue
+Working on and with Categories for Text Analysis: Challenges and Findings from and For Digital Humanities Practices
+Abstracts due June 6, 2022. More Information. (http://www.digitalhumanities.org/dhq/submissions/cfps.html)
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

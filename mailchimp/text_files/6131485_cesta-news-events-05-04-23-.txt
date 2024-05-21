@@ -1,0 +1,99 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Applications are open for the 2023-2024 Mellon Sawyer Postdoctoral Fellowship (https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-giovanna-ceserani) . The postdoctoral fellow will play a leading role in organizing, administering and participating in the Mellon Sawyer seminar entitled "The Data that Divides Us: Recalibrating Data Methods for New Knowledge Frameworks Across the Humanities."
+Next Week at CESTA
+
+
+** Saving Ukrainian Cultural Heritage Online: Socially-Engaged Digital Humanities  (https://cesta.stanford.edu/events/saving-ukrainian-cultural-heritage-online-socially-engaged-digital-humanities)
+------------------------------------------------------------
+Tuesday, May 9 | 12:00 -1:15 | Wallenberg 433A
+
+The Russian invasion of Ukraine has put cultural heritage right in the line of fire. Saving Ukrainian Cultural Heritage Online (SUCHO) is an online grassroots initiative of more than 1,500 volunteers which supports the digital preservation of Ukrainian culture. SUCHO started as an emergency web-archiving effort, preserving more than 50TB of cultural data from over 5,000 websites of Ukrainian museums, libraries and archives. In recent months SUCHO, has expanded its efforts to donating digitization hardware to Ukrainian institutions and creating online platforms for the preservation and exhibition of digitized and born-digital heritage. In this keynote, the three SUCHO co-founders and long-term volunteers will discuss what it takes to turn remote volunteers into digital activists. Furthermore, the speakers will outline the crucial role Open Access plays for the digital preservation of culture in emergency scenarios such as wars and natural disasters.
+
+This event is cosponsored with the Freeman Spogli Institute for International Studies.
+
+The presentation will include lunch and take place at the Stanford Center for Spatial and Textual Analysis in Wallenberg 433A. A Zoom link is available upon request from Center Manager, Jonathan Clark (jclark93@stanford.edu (mailto:jclark93@stanford.edu) ).
+
+About the Speakers:
+
+Quinn Dombrowski is the Academic Technology Specialist in the Division of Literatures, Cultures, and Languages, and in the Library, at Stanford University. Prior to coming to Stanford in 2018, Quinn’s many DH adventures included supporting the high-performance computing cluster at UC Berkeley, running the DiRT tool directory with support from the Mellon Foundation, writing books on Drupal for Humanists and University of Chicago library graffiti.Quinn has a BA/MA in Slavic Linguistics from the University of Chicago, and an MLIS from the University of Illinois at Urbana-Champaign. Since coming to Stanford, Quinn has supported numerous non-English DH projects, taught courses on non-English DH, developed a tabletop roleplaying game to teach DH project management, explored trends in multilingual Harry Potter fanfic, and started the Data-Sitters Club (https://datasittersclub.github.io/site/books) , a feminist DH pedagogy and research group focused on Ann M. Martin’s 90’s girls series “The
+Baby-Sitters Club”. Quinn is currently co-VP of the Association for Computers and the Humanities (http://ach.org/)  along with Roopika Risam, and advocates for better support for DH in languages other than English.
+
+Anna Kijas is the head of Lilly Music Library (https://tischlibrary.tufts.edu/our-locations/tisch-branches/lilly-music-library)  at Tufts University. Her academic training includes master’s degrees in library and information science from Simmons College, music with a concentration in musicology from Tufts University, as well as a bachelor of arts in music literature and performance from Northeastern University. She is the co-founder of Saving Ukrainian Cultural Heritage Online (https://www.sucho.org/) , an initiative focused on safeguarding and preserving the digital cultural heritage of Ukraine during the Russo-Ukrainian War.
+
+Sebastian Majstorovic advises institutions and researchers on Digital History methods and multimedia storytelling and has a professional background in software development and media production.
+
+Andreas Segerberg works in Digital Preservation at ES Solutions and is a lecturer at University of Gothenburg in archival science.
+
+
+** Rethinking the Long Eighteenth-Century: Social, Literary and Political History in Pre- and Post- Revolutionary France (https://cesta.stanford.edu/events/seminar-rethinking-long-eighteenth-century)
+------------------------------------------------------------
+Tuesday, May 11 | 2:30 - 6:00 PM | Wallenberg 433A
+
+Home of the Enlightenment and a magnet for all of Europe, eighteenth-century France is a rich field for the study of ideas and society. The abrupt break caused by the French Revolution in 1789 and the subsequent Napoleonic era have sometimes been seen as implicit temporal boundaries to this field of study. This has been reinforced by the chosen areas of specialization of many scholars, which in many cases separate the study of the eighteenth century from the revolutionary and Napoleonic periods. In contrast, this seminar aims to rethink our understanding of the long eighteenth century in France from a broader perspective, fostering dialogue between scholars of the late seventeenth century through to the post-revolutionary period. Among the topics addressed, special attention is given to cultural practices, networks, the circulation of ideas, gender issues, inequalities, and social dynamics. Through different approaches and perspectives, the seminar sheds new light on a period characterized
+by political, social and cultural changes, considering both elements of continuity and rupture.
+
+To see the full schedule of panels and speakers, visit the CESTA webpage. (https://cesta.stanford.edu/events/seminar-rethinking-long-eighteenth-century)  This seminar is co-sponsored by The Europe Center. (https://tec.fsi.stanford.edu/) The event has been sponsored by the project NapApps. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie Grant Agreement No. 101018470.
+Coming Up This Quarter at CESTA
+
+May 16 | 12:00-1:15 PM
+Elisabetta Scirocco
+Mapping Sacred Spaces in Medieval Southern Italy (https://cesta.stanford.edu/events/elisabetta-scirocco-mapping-sacred-spaces-medieval-southern-italy)
+Wallenberg Hall, Room 433A
+
+May 26 | 8:30 AM-6:00 PM
+CESTA Digital Humanities Research Showcase 2023 (https://cesta.stanford.edu/events/cesta-digital-humanities-research-showcase-2023)
+Wallenberg Hall, Room 433A
+
+May 30 | 12:00-1:15 PM
+Alex Sherman
+Four Theses on the Real and Imaginary British Empire, 1697-1829 (https://cesta.stanford.edu/events/alex-sherman-four-theses-real-and-imaginary-british-empire-1697-1829)
+Wallenberg Hall, Room 433A
+
+Upcoming Events Elsewhere
+
+May 10 | 10:00 AM
+CIDR Workshop
+SSDS Intro to Qualtrics  (https://events.stanford.edu/event/ssds_intro_to_qualtrics?utm_campaign=widget&utm_medium=widget&utm_source=Stanford+University)
+Velma Denning Room (Green Library 120F)
+
+May 10 | 11:30 AM - 1:30 PM
+Digital Tools for Japan Studies Workshop
+Tools for Text Analysis (https://docs.google.com/forms/d/e/1FAIpQLSeYHkYBPjPU50oOT2b1tw3F4z3WX7G3t4O2sL0kL1KK7s-d_A/formrestricted)
+East Asia Library, Room 224
+
+May 12 | 9:30 AM - 4:45 PM
+CIDR Workshop
+SSDS R Bootcamp (https://events.stanford.edu/event/ssds_r_bootcamp?utm_campaign=widget&utm_medium=widget&utm_source=Stanford+University)
+Tierney Room (Green Library 121A)
+
+May 19 | 10:00 AM - 12:00 PM
+Teaching in the Age of Gernerative AI: A Grad Instructor Round Table
+Wallenberg Hall, Room 433A, Register here (https://docs.google.com/forms/d/e/1FAIpQLSczb8ZKST_UT9ZUO9LprcZfd85W5WTPr6E4f2gkictYqpHxYQ/viewform)
+
+May 24 | 12:00 PM
+Stanford Archaeology Center
+Kelly Nguyen: Building the Vietnamese Refugee Archive Exhibit (https://archaeology.stanford.edu/events/building-vietnamese-refugee-archive-exhibit-critical-refugee-studies-praxis) : Critical Refugee Studies in Praxis  (https://archaeology.stanford.edu/events/building-vietnamese-refugee-archive-exhibit-critical-refugee-studies-praxis)
+Building 500, Seminar Room
+
+News and Announcements
+
+Mellon Sawyer Postdoctoral Fellowship
+
+CESTA is also seeking applications for a one-year Mellon Sawyer Postdoctoral Fellowship in Digital Humanities. The postdoctoral fellow will play a leading role in organizing, administering and participating in the Mellon Sawyer seminar entitled “The Data that Divides Us: Recalibrating Data Methods for New Knowledge Frameworks Across the Humanities.” We seek recent humanities PhDs whose research operates at the intersection of a relevant data-based field, including, but not limited to, the digital humanities, data science, computational linguistics or social science, or information science. Applications are due May 15th. For more information and to apply, visit the Mellon Sawyer Fellowship webpage (https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-giovanna-ceserani) .
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

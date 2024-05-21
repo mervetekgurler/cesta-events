@@ -1,0 +1,137 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Applications for this year's Digital Humanities Graduate Fellowship are open! Stanford graduate students and postdoctoral fellows in the humanities and humanistic social sciences are invited to apply. Learn more. (https://cesta.stanford.edu/graduate-programs/digital-humanities-graduate-fellowship)
+Events at CESTA
+DIGITAL HUMANITIES PUBLIC LECTURE
+Nora Barakat and David Wrisley
+"Beyond the National Archive: Digital Futures for Gulf Studies" (https://cesta.stanford.edu/events/nora-barakat-and-david-wrisley-beyond-national-archive-digital-futures-gulf-studies)
+October 18 | 12-1.15 PM | Wallenberg Hall Rm 433A and online via Zoom (https://stanford.zoom.us/webinar/register/WN_7QZNMaDTQY-GT3Mt4eOifw)
+About this event:  What are the historical connections between the Persian Gulf, the Arabian Peninsula, and the Indian Ocean Rim? How can scholars approach this historical space from a fragmented postcolonial vantage point of nation states and their archives? This lecture presents the process and results of research collaboration that aims to reframe and expand Gulf Studies beyond dominant narratives of nation-building and fossil fuels. Barakat and Wrisley argue that digital practices provide ways to bring disparate archives in different languages into an explicit dialogue that marks the future of historical inquiry in Gulf Studies and offers insight for similar sites of postcolonial research globally. The talk will feature examples of handwritten text recognition, mapping and textual analysis, and a discussion on how research projects can be managed and developed transnationally and between institutions. Lunch will be provided.
+
+About this series: Every Tuesday lunchtime (12-1.15 PM) during the academic quarter, CESTA hosts events on topics relevant to the digital humanities. For information about upcoming events in this series, visit our website (https://cesta.stanford.edu/events/cesta-seminar-series) .
+
+Register for the Zoom link (https://stanford.zoom.us/webinar/register/WN_7QZNMaDTQY-GT3Mt4eOifw)
+
+SPECIAL EVENT SERIES
+New Horizons in DH
+
+Featuring guests from the Venice Centre for Digital and Public Humanities (VeDPH), Virginia Tech, the University of Tübingen, and NYU Abu Dhabi
+
+Wednesday, October 19 | 3:30-4:30 PM | Wallenberg Hall Rm 433A
+New Horizons in DH: Roundtable with guests from the Venice Center for Digital and Public Humanities (https://cesta.stanford.edu/events/new-horizons-dh-roundtable-guests-venice-center-digital-and-public-humanities)
+About this event: A roundtable discussion of presentations by Flavia Bruni, Daniele Fusi and Tiziana Mancinelli, with Franz Fischer serving as discussant.
+* Flavia Bruni (University of Venice, VeDPH): “Early Modern Broadsheets Online: a Digital History Project”
+* Daniele Fusi (University of Venice, VeDPH): “Designing for Integration and Expansion: More Applications Around and Beyond the Cadmus Hub”
+* Tiziana Mancinelli (University of Venice, VeDPH): “Between the Digital Library and Digital Humanities in Italy: Challenges and Opportunity”
+
+Thursday, October 20 | 9:00 AM-4:30 PM | Wallenberg Hall Rm 433A
+New Horizons in DH: Research Presentations and Roundtable Discussion (https://cesta.stanford.edu/events/new-horizons-dh-research-presentations-and-roundtable-discussion)
+
+
+** 9:00 AM-11:00 AM (PT) | Current Research Highlights
+------------------------------------------------------------
+* Benedetta Bessi (VeDPH/CESTA) and Daniele Fusi (VeDPH), “Mapping the Aegean: Cristoforo Buondelmonti's Liber insularum (15th Century) and the Origins of Classical Archaeology”
+* Valentina Dal Cin (VeDPH/CESTA), “Napoleonic Job Applications: from Personal Pleas to Modern Curriculum Vitae in Early 19th-Century Europe”
+* Rachel Midura (Virginia Tech), “Mapping Early Modern Travel: Data to Platform Design”
+* Mateusz Fafinski (University of Tübingen) will offer a response to all three papers, followed by a discussion and audience questions.
+
+
+** 2:00-4:30 PM (PT) | Roundtable Discussion on Topics in DH
+------------------------------------------------------------
+
+2:00-3:00 PM   Handwritten Text Recognition and Transkribus
+
+Introductory remarks and moderation by Nicole Coleman (Stanford Libraries). Featuring a field report by David Wrisley (NYU Abu Dhabi). Optional suggested readings:
+* Hodel, “Supervised and Unsupervised Approaches to Machine Learning for Textual Entities (https://www.degruyter.com/document/doi/10.1515/9783839455845-007/html) ”
+* Gueville and Wrisley, “Transcribing Medieval Manuscripts for Machine Learning (https://arxiv.org/abs/2207.07726) ”
+
+3:10-3:50 PM   Sustainability
+Introductory remarks and moderation by Alix Keener (CESTA/Stanford Libraries).
+
+3:50-4:30 PM   Collaboration
+Introductory remarks and moderation by Will Fenton (CESTA). Featuring a report on CESTA’s Community College Internship Program by Jonathan Clarke (CESTA).
+Upcoming This Quarter at CESTA
+
+October 25 | 12-1.15 PM
+CESTA SEMINAR SERIES
+Will Fenton
+"Ghost River: From Colonial Past to Native Present" (https://events.stanford.edu/event/ghost-river)
+Wallenberg 433A and online via Zoom (https://stanford.zoom.us/webinar/register/WN_WY5YKcT-TBKfsaBMQB7wSQ) .
+
+October 28 | 9 AM-12 PM
+CESTA WORKSHOP
+Svenja Guhr
+"Introduction to CATMA 6 - Software for Digital Text Annotation and Analysis" (https://cesta.stanford.edu/events/svenja-guhr-introduction-catma-6-software-digital-text-annotation-and-analysis)
+Wallenberg 433A.
+
+November 1 | 12-1.15 PM
+CESTA SEMINAR SERIES
+CESTA/CIDR DH Lightning Talks (https://cesta.stanford.edu/events/cestacidr-dh-lighting-talks)
+Wallenberg 433A. Sign up here (https://forms.gle/wans8qa4HuTrCRLXA) .
+
+November 8 | 12-1.15 PM
+CESTA SEMINAR SERIES: DEMOCRACY DAY LECTURE
+Ran Abramitzky
+"Streets of Gold: America’s Untold Story of Immigrant Success" (https://events.stanford.edu/event/streets-of-gold)
+Wallenberg 433A and online via Zoom (https://stanford.zoom.us/webinar/register/WN_CISGloyeRwWkRjy0Z4whpQ) .
+
+November 15 | 12-1.15 PM
+CESTA SEMINAR SERIES
+Anne Ladyem McDivitt
+"Digital Storytelling and Accessibility of Digital Humanities" (https://cesta.stanford.edu/events/digital-storytelling-and-accessibility-digital-humanities)
+Wallenberg 433A and online via Zoom (https://stanford.zoom.us/webinar/register/WN_9ihlbshzR5KPb8DzGRXXhA) .
+
+November 29 | 12-1.15 PM
+CESTA SEMINAR SERIES
+Evelyn Gius
+Structure as Meaning? Conflict as a Text Feature in German Literature (https://cesta.stanford.edu/events/evelyn-gius-structure-meaning-conflict-text-feature-german-literature)
+Wallenberg 433A.
+
+Upcoming Events Elsewhere on Campus
+
+October 17 | 9:00 AM - 12:00 PM
+CIDR Workshops
+R Visualization (https://appointments.library.stanford.edu/event/9596708)
+Velma Denning Room, 120F Green Library or on Zoom, Register here. (https://appointments.library.stanford.edu/event/9596708)
+
+October 18 | 4:00 PM
+Ruha Benjamin
+Viral Justice: Grow the World We Want (https://shc.stanford.edu/events/ruha-benjamin-viral-justice-how-we-grow-world-we-want)
+Levinthal Hall, Stanford Humanities Center. RSVP here. (https://docs.google.com/forms/d/e/1FAIpQLSfVgUy5QvUZKcyM7tgWftAaPmoQxpDcdZre9CRdEZdcrXDDYg/closedform)
+Register for Zoom Webinar here.  (https://stanford.zoom.us/webinar/register/WN_dNbrY0AKT7yIWPUx214Ntw)
+
+October 19 | 2:00 - 5:00 PM
+CIDR Workshops
+Python Visualization (https://library.stanford.edu/events/cidr-python-visualization-1)
+Velma Denning Room, 120F Green Library or on Zoom, Register here. (https://library.stanford.edu/events/cidr-python-visualization-1)
+
+October 19 | 12:00 - 1:15 PM
+Rachel Midura
+Trusted Messengers, Postmastery and the Invention of Public Privacy (https://cmems.stanford.edu/events/rachel-midura-virginia-tech)
+CMEMS Workshop (https://cmems.stanford.edu/cmems-workshop) , Building 260, Room 252
+To receive pre-circulated paper, contact cmemsinfo@stanford.edu (mailto:cmemsinfo@stanford.edu) .
+
+News & Announcements
+
+Applications are now open for this year's
+Digital Humanities Graduate Fellowship (https://cesta.stanford.edu/graduate-programs/digital-humanities-graduate-fellowship) !
+
+The fellowship will run from January to June 2023 and supports graduate students and postdoctoral fellows to produce publishable research using DH methods and approaches. The support of a research assistant will be available to all fellows.
+
+Learn more about the program on our webpage (https://cesta.stanford.edu/graduate-programs/digital-humanities-graduate-fellowship)  or start your application now (https://forms.gle/qQNhLSstbbpUDjLN8) . Applications close at 11.59 PM Pacific Time, November 11 2022.
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

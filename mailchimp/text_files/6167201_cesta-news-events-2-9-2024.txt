@@ -1,0 +1,97 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+Sawyer Graduate Reading Group:
+Work of Anne Ladyem McDivitt
+
+Thursday, February 13 | 12:00 - 1:30 PM | Wallenberg Hall, Room 433A
+
+We will be discussing two projects by Anne Ladyem McDivitt: Networking the Early Video Game Industry (https://anneladyem.org/digital-history-projects/clio-3-project/)  and Reconstruction of Sanford Grammar School and Hopper Academy: A Visualization of Two Florida Schools (https://reconstructionclio.wordpress.com/)  over lunch.
+These reading group sessions are ways for graduate students and postdoctoral scholars to talk about digital humanities methods and projects - community members from all backgrounds and levels of expertise are invited. You are also invited back on Tuesday, February 20--same time, same place--for a chat with Anne Ladyem about the two projects. If you have any questions, please reach out to eeyurek@stanford.edu.
+Please RSVP for lunch for 02/13 by filling out this form: https://docs.google.com/forms/d/e/1FAIpQLSdJm2ZR8nFdxMhGSaBpjiRfWqPd0abgKcKdfyX9Lm8QAPJs8Q/viewform?usp=sharing
+Anne Ladyem McDivitt is a historian with a focus on digital and public history, specialized in digital storytelling, and the Academic Technology Specialist for the History Department. She has a PhD in History from George Mason University, and her research focuses on the history of the video game industry with a focus on gender.
+
+Thank you for your continuous participation in the Mellon Sawyer Seminar Series: Data That Divides Us. Yesterday's seminar was delightful. The next seminar is on Recuperating Forgotten Narratives with Ayesha Hardison (https://english.ku.edu/people/ayesha-hardison)  (University of Kansas) and Marlene Daut (https://english.ku.edu/people/ayesha-hardison)  (Yale University) on February 29th. We will again have in person and online options available. Please be on the lookout for more information about the next seminar sessions. If you have any questions, concerns, or comments about the previous sessions, please contact Eren (eeyurek@stanford.edu).
+
+Thursday, February 12-16 | See Full Schedule of E (https://lovedataweek.sites.stanford.edu/events/workshop) vents (https://lovedataweek.sites.stanford.edu/events)
+
+Love Data Week (http://lovedata.stanford.edu/)  returns to Stanford from February 12-16, 2024. The Libraries are organizing this second annual, Stanford-wide event to showcase and celebrate all things related to research data: analysis, curation, generation, management, preservation, visualization and more!
+
+Over the course of Valentine’s Day week, members of the Stanford community will see workshops (https://lovedataweek.sites.stanford.edu/events/workshop)  on topics ranging from AI training data and copyright law to NIH data management plans; from crunching data with R or Python to turning handwritten text into computable data with Transkribus.
+
+The flagship event will be the Love Data Week Fair (https://events.stanford.edu/event/love_data_week_fair_2024)  on Wednesday, February 14th from 11:30 AM to 3:30 PM in the Mackenzie Room on the 3rd floor of Huang Engineering Center in the Science and Engineering Quad. The fair will feature data resources and data service providers from across Stanford, interactive activities and (of course) tasty treats, concluding with an exciting lineup of lightning talks.
+
+Throughout the week, community members can also join the Love Data Week BioBlitz (https://lovedataweek.sites.stanford.edu/bioblitz)  to contribute observations of biodiversity at Stanford’s Palo Alto campus and the Hopkins Marine Station. This year also marks the first ever Love Data Week Raffle (https://lovedataweek.sites.stanford.edu/raffle) : Raffle entrants can win the opportunity to capture a high-resolution satellite image of a specific place and time, a custom-knitted design from the Textile Makerspace (https://making.stanford.edu/textile-makerspace) , and other incredible prizes.
+Upcoming this Quarter at CESTA
+
+February 20 | 12:00 - 1:15 PM
+Sawyer Graduate Reading Group (#sawyer)
+Wallenberg Hall, 434
+
+February 29 | 5:30 - 7:00 PM
+Mellon Sawyer Seminar Series
+Marlene Daut and Ayesha Hardison
+Recuperating Forgotten Narratives  (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-recuperating-forgotten-narratives-marlene-daut-and-ayesha)
+Wallenberg Hall, 433A
+
+Upcoming Elsewhere
+
+February 12 | 11:00 - 12:30 PM
+CIDR Workshops
+Handwritten Text Recognition with Transkribus (http://https://events.stanford.edu/event/handwritten_text_recognition_with_transkribus?utm_campaign=widget&utm_medium=widget&utm_source=Stanford+University)
+Green Library, Bing Wing, Velma Denning Room
+
+February 12 | 12:00 - 1:30 PM
+Stanford University Libraries
+Love Data Week: Generative AI Technologies and Copyright Law (https://events.stanford.edu/event/generative_ai_technologies_and_copyright_law)
+Hohbach Hall, Presentation Palace
+
+February 23 | 12:00 - 1:30 PM
+Stanford Global Studies Division
+Global Dialogues: Indigenous Data Sovereignty  (https://sgs.stanford.edu/events/global-dialogues-indigenous-data-sovereignty)
+Zoom Webinar, Register Here (https://sgs.stanford.edu/events/global-dialogues-indigenous-data-sovereignty)
+
+News & Announcements
+
+CESTA's Public Calendar (https://outlook.office365.com/calendar/published/ff891b6e41924b1d9e7a58a3ddca8915@o365.stanford.edu/2808d267a6dc464e9b7c7f178c260a402076343503151103964/calendar.html)
+
+This is a calendar for Stanford faculty, staff, students, and outside of campus partners to see what events CESTA is hosting every week. This will be updated regularly with the events' detailed information. We will also let you know if there will be a Zoom participation available. The link to access is http://goto.stanford.edu/cestapublic. Please let Eren (eeyurek@stanford.edu) know if you have any questions or concerns.
+
+Libraries Team Awarded NEH Preservation and Access Grant (https://library.stanford.edu/news/libraries-team-awarded-national-endowment-humanities-preservation-and-access-grant)
+
+A team from Stanford Libraries, including Michael Keller, CESTA Digital Scholarship Coordinator Alix Keener, Henry Lowood, Jessica Riskin, and Sarah Sussman has been awarded a $100,000 two-year research and development grant by the National Endowment for the Humanities Division of Preservation and Access for their project  "Sustaining early disciplinary websites of lasting importance: The case of history of science." Learn more about their project here (https://library.stanford.edu/news/libraries-team-awarded-national-endowment-humanities-preservation-and-access-grant) . Congratulations, all!
+
+Introducing the Sawyer Graduate Reading Group
+
+Happy New Year, digital-enthusiast humanists of Stanford!
+The Sawyer Graduate Reading Group is convening in the Winter and Fall to discuss applications of “The Data that Divide Us.” Our programming compliments the Mellon Sawyer Seminar (https://cesta.stanford.edu/news/stanford-receives-major-mellon-foundation-award-be-hosted-center-spatial-and-textual-analysis?search=mellon+sawyer)  offerings, with a focus on bringing graduate students in the humanities into the conversation.
+
+In Winter, we will discuss the work of two Stanford researchers: Quinn Dombrowski and Anne Ladyem McDivitt. Quinn’s work focuses on multilingual computational text analysis. Anne Ladyem is a historian with a focus on digital and public history. After reading and discussing their work, the data they use, the challenges it presents, and the methods they use to overcome those challenges, we will meet with Quinn and Anne Ladyem to ask questions and hear firsthand their perspectives and experiences on the management of textual and geospatial data, and the broader use of data in humanistic research.
+
+In the Spring, we will turn to the research of the Sawyer Seminar's invited speakers (Dagomar Degroot, Jessica Otis, Greg O'Malley, Alex Borucki, Lauren Klein), again focusing on the theoretical issues engendered by these scholars' data sources and the practical methods that these researchers avail themselves of in their approach to data.
+
+All Stanford Humanities graduates are welcome! Mark your calendars for January 16, January 23, February 13, February 20, April 2, April 16, and May 7. These are all Tuesdays, and meetings will take place between 12:00-1:15. Wallenberg 434. Lunch will be provided.
+
+Looking forward to seeing you there!
+
+Your Mellon Sawyer Dissertation Fellows,
+
+Chloé Brault (PhD Candidate in Comparative Literature) and
+Matt Warner (PhD Candidate in English)
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

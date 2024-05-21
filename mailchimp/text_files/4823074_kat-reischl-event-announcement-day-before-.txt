@@ -1,0 +1,37 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Happening tomorrow!
+
+Soviet Illustrated Periodicals as Data
+Kat Hill Reischl
+Acting Assistant Professor of Slavic Languages and Literatures
+Stanford University
+
+Tuesday, October 19, 2021. 12:00 to 1:15 PM Pacific. Online, via Zoom
+Register here for Zoom info! (https://stanford.zoom.us/meeting/register/tJEuceyqpj0iG9DHwTGKgQBVhhj_yCSpvGPr)
+About this event: This talk will survey a collaborative, interinstitutional digital humanities project: “The Pages of Early Soviet Performance.” Given the complexities of early Soviet journals’ graphic environments (including twenty-six distinct titles and over a hundred thousand articles, poems, editorial commentaries, advertisements, theater listings as well as images representing a variety of genres and media), extracting data from this source material presents an enormous set of challenges. Our process and application of machine learning seeks to highlight the informative patterns that might be obscured in the simple process of manual or habitual reading, including issues’ editorial design to the larger-still structures of journal titles as complete entities. Through the abstraction of journal elements as data, we might produce representations that will make not only the journals’ contents, but also those big picture structures available to distant reading and analysis for
+researchers—be they scholars of Soviet periodicals, theater, performance, or media studies more broadly.
+
+Kat Hill Reischl is Acting Assistant Professor in the Slavic Department at Stanford and Co-Editor-in-Chief of Canadian-American Slavic Studies. She is the author of Photographic Literacy: Cameras in the Hands of Russian Authors (Cornell UP) and project co-director of two ongoing digital humanities projects related to Soviet periodicals and illustrated children’s books. Her work on the intersections of text, image, and materiality also includes publications on Soviet children’s literature and digital media. She received her Ph.D. from the University of Chicago (2013) and has held positions at the University of New Mexico, the Herder Institute for Historical Research (Marburg, Germany), and Princeton University.
+Later this week...
+
+CRITICAL DATA PRACTICES WORKSHOP
+Topic: The ethics of data collection and the problem of missing data.
+Panellists: Mark Algee-Hewitt, Nicole Coleman, Leo Barletta, Alex Sherman
+Join Zoom here (https://stanford.zoom.us/j/92893428061?pwd=RnB6WWNmcjVEYnhtYzJpRm9ia2t1Zz09)  or email Matt Warner (mailto:mattgw@stanford.edu?subject=Critical%20Data%20Practices%20workshop)
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

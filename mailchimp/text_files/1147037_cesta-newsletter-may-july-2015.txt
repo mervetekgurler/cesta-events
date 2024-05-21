@@ -1,0 +1,148 @@
+CESTA Stanford Monthly Newsletter
+
+View this email in your browser (*|ARCHIVE|*)
+
+Center for Spatial
++ Textual Analysis
+
+MAY + JUNE + JULY NEWSLETTER
+[LATEST NEWS]
+Welcome to the latest edition of the CESTA newsletter. This is an opportunity for us to highlight some of the people, projects, and events that make our Center such a thriving and inspirational place in which to pursue digital humanities research. If you have any questions or feedback regarding this newsletter or any of our other social network platforms, don't hesitate to let us know. CESTA community participants are encouraged to send any newsletter items for upcoming broadcasts to mattbryant.stanford@gmail.com
+
+Motley Crew: Celena Allen, Matt Bryant, Zephyr Frank, Fred Freitas, Ryan Heuser, Thomas Nygren, Nick Bauch, and Brian Johnsrud.
+[HUMANITIES + DIGITAL TOOLS]
+The Stanford Humanities Center (http://shc.stanford.edu/about) and the Center for Spatial and Textual Analysis (http://cesta.stanford.edu/) (CESTA) at Stanford recently co-hosted a public event and produced a series of very nice videos collectively called Humanities + Digital Tools (http://shc.stanford.edu/events/humanities-digital-tools) .
+
+From visualizations of complex information and interactive teaching platforms to digitization projects and textual analysis, humanities scholars across campus are harnessing the power of digital tools to push the boundaries of their research. Likewise, the unique properties of humanities scholarship are pushing the boundaries of digital tools.
+CESTA Director Zephyr Frank, Text Technologies Director Elaine Treharne,
+and Department of History Chair Paula Findlen
+The panel discussion included Stanford scholars and technical experts who spoke about their work in the digital humanities, and was moderated by Humanities Center Director Caroline Winterer and CESTA Director Zephyr Frank.
+
+The Stanford Humanities Center has also produced a series of very nice videos that feature particular Stanford digital humanities projects. A big thank you to Corrie Goldman, Director of Humanities Communication, for making the public discussion event and videos happen. To see all the videos and to access an archived link to the webcast of the public event mentioned above, go HERE. (http://shc.stanford.edu/humanities-digital-tools)
+
+[LACUNA STORIES]
+Brian Johnsrud and Daniel Bush, both Phd researchers in CESTA's Poetic Media Lab, attended the University of Victoria's Digital Humanities Summer Institute, for a week of "Drupal for Digital Humanists." Look out for a couple new projects in the lab being launched soon as a result of this great week!
+
+Amir Eshel and Brian Johnsrud received a Stanford Hoagland Award for Innovations in Undergraduate Education. This grant, along with a seed grant from the Vice Provost for Teaching and Learning, will support the launch of a new project in the Poetic Media Lab: Poetic Thinking. Poetic Thinking will be a learning and research platform that will provide students, instructors, and researchers with the tools, resources, and instruction to critically analyze and creatively construct media. The platform's design and affordances will promote users to analyze and respond to imaginative works creatively in ways that challenge the confines of the traditional argumentative essay.
+
+[ENCHANTING THE HUMANITIES]
+On May 5, the Stanford Humanities Center (SHC) hosted a roundtable panel with the theme “Humanities + Digital Tools.”  The panel included a number of projects and speakers from the CESTA community, including Enchanting the Desert.  In preparation for the roundtable, Enchanting author Nicholas Bauch worked closely with the Humanities Center communications team – led by Corrie Goldman – to produce a seven-minute video that would spark conversation about the role of digital humanities on the Stanford campus and beyond.
+
+Video made by the Stanford Humanities Center to promote Enchanting the Desert for
+their May roundtable panel discussion about digital humanities on campus.
+
+The subsequent write-up for the May 5 event (http://shc.stanford.edu/digital-humanities) , featuring other CESTA projects including Geography of the Post, Lacuna Stories, and Palladio, was represented on the home landing page of Stanford University with a photograph of Enchanting undergraduate research assistant Delenn Chin, along with Bauch.
+
+Stanford’s home page featured two members of the Enchanting the Desert team – Delenn Chin and Nicholas Bauch – as Chin
+explains some of the finer points of programming the interactive map to Bauch.  The image linked to an article about the
+broader role of digital humanities at Stanford.
+At the end of May, the Enchanting team conducted its first formal, large-group user testing event.  Orchestrated by Bauch, with the advice of CESTA member Brian Johnsrud, the event was beautifully emceed by CESTA DH Coordinator Sarah Ogilvie.  With 20 participants broken into teams, the two-hour’s worth of feedback has been invaluable in the subsequent design of the project’s web application, set for its initial official review with Stanford University Press at the end of August.
+
+Participants in Enchanting’s first formal user testing event offered insights that only a robust community
+of digital humanities scholars could have.  Their feedback has already proven extremely useful.
+
+Finally, a special and continued thanks to the Enchanting team programmers, undergraduate research assistants Delenn Chin and Frank Zheng.  Both part of Stanford’s CS-Plus major; Delenn is a Computer Science + Linguistics major, and Frank is a Computer Science + History major.  They are each the heart and lifeblood of the project.
+[ROME PROJECT RECEIVES GRANT]
+The Forma Urbis Project team has received a grant from the Kress Foundation to digitize and publish some 3,000 images from the archives of Rodolfo Lanciani in Rome. This corpus of images is comprised of drawings, engravings, and photographs, many of which are one-of a-kind exemplars, and some of which have never been published before and represent the source material used by Lanciani to create his famous archeological map of the city. The Stanford, University of Oregon and Dartmouth College team seeks to republishing Lanciani's map in a seamless digital interactive form.  This grant will provide a wealth of primary source material on the archeology of the city.
+
+[HUMANITIES + DESIGN]
+Writing Rights goes to Rotterdam!
+
+The Writing Rights team (Keith Baker, Dan Edelstein, Nicole Coleman, Jacqueline Kasunic, Kate Sweetapple) will be presenting their research on the writing of the Declaration of the Rights of Man and the Citizen at the end of the month at Rotterdam. The project brings faculty from the School of Design at the University of Technology at Sydney together with Stanford faculty to explore the art and process of writing a revolutionary document. Writing Rights draws upon draft declaration proposals as well as the blow-by-blow record of the Assembly debates during what must have been a very hot August in Paris (see the French Revolution Digital Archive (http://frda.stanford.edu/) ).
+
+This is the inaugural project of Humanities + Design’s new initiative to bring design researchers and humanities researchers together to pursue complementary research agenda around a shared topic. Much of this project has happened remotely, via regular video conferences and occasional in person meetings. It will all come together for two panels at the 14th International Congress for Eighteenth-Century Studies. Watch this space for a post-conference update.
+[VISITING SCHOLARS]
+We'd like to introduce you to some of the visitors who are working in CESTA over the summer in various capacities...
+
+[CHERYL GILGE]
+Cheryl Gilge received her PhD from the College of Built Environments at the University of Washington. Her dissertation research focused on the user practices of Google Street View, and examined the tensions between socio-cultural and political-economic forces of Google’s production and the way in which users adopt its tools.
+
+As a further extension of her dissertation research, her summer project in CESTA focuses on developing a web platform to capture the user stories that surface from the idiosyncratic visual platform of Street View. Through open-ended narratives, the underlying goal of the project is to capture critical qualitative information regarding how this wayfinding tool influences how we understand the built environment and develop sense of place as a result.
+
+
+[BENJAMIN HEIN]
+Benjamin Peter Hein is completing a PhD in modern European and global history at Stanford. He is interested in the histories of Atlantic mass migration, European industrialization, and global economic development at the end of the nineteenth century. His research focuses on questions of political economy and the relationships between culture and economic history. Before coming to Stanford, Benjamin studied history and economics at Emory University and completed a thesis that explored identity politics among German and Polish coal miners in Germany's industrial Ruhr Valley. After earning his BA, he spent a year developing Emory University’s relationships with numerous social justice organizations in greater metropolitan Atlanta, GA.
+
+Benjamin has worked at CESTA since spring 2015 as the principal investigator of the “Geographies of Capital” project. Drawing on historical data from private banks headquartered in Frankfurt, Germany, this project traces the geographical evolution of Frankfurt’s financial hinterland during the peak period of industrialization, 1860-1900. The project promises to offer new insight about the historical origins of a greater European economy. It also offers a spatial interpretation of German-American capital and debt relations at a time when the German Empire and the United States were the world’s two fastest-growing emerging economies.
+
+[DOUGLAS LIBBY]
+Douglas Libby is Professor of History at the Universidade Federal de Minas Gerais.  His research has focused on multiple aspects of slave societies in he Americas, particularly in Brazil.  This summer he in finishing up a book-length text dealing with demographic and economic history of the Parish of São José do Rio das Mortes, with a special emphasis on family history, in particular families of Afro-Brazilian descent in the eighteenth and nineteenth centuries.
+
+[LUCIANO FIGUEIREDO]
+Luciano is Associate Professor at the Federal Fluminense University (UFF) in Rio de Janeiro.  For more than twenty years now he has been studying rebellions in Portuguese America with an emphasis on political discourse and Iberian political culture.
+
+During his recent post-doctoral stint at Stanford Professor Figueiredo has attempted to examine rebellions in British and Portuguese America in light of issues raised by special history and digital humanity.
+
+Professor Figueiredo received his PhD at the University of São Paulo in 1996, defending a dissertation dealing with fiscal policies and rebellion in colonial Brazil.  He was awarded a Lampadia Foundation grant as a visiting research fellow at Brown University and studied at Boston College with a scholarship from the Fulbright Commission.  The work undertaken at those institutions led to comparative studies of rebellions in British and Portuguese America.
+
+He is a Research of the Brazilian National Council of Research and a member of Companhia das Índias the Nucleus of Colonial Iberian History in the Early Modern Era at the UFF. He is the author of Rebeliões no Brasil colônia (Rio de Janeiro, 2005), a number of other books and numerous articles in academic journals.  He is also the founder and editor of the website Impressões Rebeldes that posts documents and discussions relating to political conflict in Brazilian history.
+
+[JACK SWAB]
+Jack Swab is currently a junior at Penn State in the Schreyer Honors College double majoring in Geography and History. This summer he is currently working on his own project comparing the burnt districts of Baltimore and San Francisco after their fires in the early 20th Century. By measuring the differences in lot size, building material, and business locations between the two cities, Jack hopes to be able to shed more light on the spatial dynamics of cities during this era. Back at Penn State, he has been working on a project to the map the relationship between the early suburbs of Baltimore and the expansion of the streetcar system from 1890-1920. Outside of the lab he enjoys reading, Netflix, collecting license plates, and of course Penn State sports.
+
+[GUILHERME BARBOSA]
+Guilherme is a senior Architecture and Urban Planning majoring at Santa Catarina State University, Brazil. Born and rised in São Paulo and currently in the U.S. as part of the Brazilian Scientific Mobility Program, he was an exchange student of Temple University, Philadelphia, prior to be an intern of CESTA, Stanford University. Passionate about photograph, languages and travel, Guilherme have been working with Brazilian architectural heritage since 2012. He worked in some architecture and engineering offices, where he accomplished some skills with computer aided design. He is fluent in Portuguese, English and Spanish. Some of his software proficiency includes AutoCad, 3D Studio Max, Revit, Photoshop and Corel Draw.
+
+Awhile in the U.S. under the auspices of the Brazilian government, he is researching at CESTA, working from May/2015 until July/2015 with the Spatial History Project. His focus is based on the development of the city of Rio de Janeiro during the XIX century.
+[THE FOREST FOR THE TREES]
+Stanford History graduate student and CESTA researcher George Philip LeBourdais currently has an exhibit up through July 20 at the Cantor Art Museum, entitled Arboreal Architecture: A Visual History of Trees. His exhibit was recently featured in the Stanford News:
+
+The exhibition gathers an eclectic range of artwork that spans thousands of years from the museum's collections, including a sixth-century Egyptian medallion, a lukasa memory board from the Republic of Congo and a lithograph of a tree colored in by young Leland Stanford Jr.
+
+LeBourdais organized this new exhibit to investigate "the tree-like structures of knowledge that help us make sense of the world by providing visual models that teach basic ideas like growth and connection," citing the idea of the "family tree" as a popular example of the concept.
+
+Arboreal Architecture serves as a natural extension of LeBourdais' ongoing scholarship to explore, from an art historical perspective, the line between nature and culture as both "chasm" and "bridge."
+
+For the full Stanford News article by Fabrice Palumbo-Lu, go HERE (http://news.stanford.edu/news/2015/april/trees-cantor-exhibit-041415.html) .
+
+To see the exhibition catalog, please go HERE. (https://www.academia.edu/12512151/Arboreal_Architecture_A_Visual_History_of_Trees)
+Sketch by Leland Stanford, Jr.
+[LITERARY LAB GOES DOWN UNDER]
+At this year's international Digital Humanities conference in Sydney—DH2015—the Literary Lab presented work
+from several ongoing projects, including work related to the affect of suspense, viral texts, and emotions in London.
+[THE EYES HAVE IT]
+Reading Rights: Eye-tracking the close reading of historians and students
+Thomas Nygren is in his ongoing project ‘Historical Thinking and Empathy in Human Rights Education’ studying how high school students, Stanford students, and historians read primary sources regarding civil rights from the time of the French Revolution. Preliminary findings from eye-tracking reading patterns indicate differences in what people with different educational levels in the humanities read and understand.
+
+Figure 1. Focus maps of two students and a historian reading 'the Declaration of the Rights of Woman,' by Marie Gouze (1791)
+[GREENER PASTURES]
+After being a designer and researcher at the Politecnico di Milano (Italy) and Stanford University, focusing on data visualization tools and methods for supporting humanities research, Giorgio Caviglia (Humanities + Design) is going to join the design team at Trifacta, working on the User Experience and Interface of tools to manipulate and transform (big) data.
+Trifacta (http://www.trifacta.com) is a company based in San Francisco and focused on enabling users to easily transform raw, complex data into clean and structured inputs for analysis. Leveraging decades of innovative work in human-computer interaction, scalable data management, and machine learning, Trifacta aims at creating a bidirectional partnership between user and machine, with each component learning from the other and becoming smarter through use. The company has been founded in 2012 by Jeffrey Heer (director of the Interactive Data Lab at the University of Washington and former Stanford professor in Computer Science), Joe Hellerstein (Professor of Computer Science at Berkeley) and Sean Kandel (former PhD at Stanford, creator of Data Wrangler).
+[SOME PEOPLE!]
+Each month we will feature brief CESTA participant profiles so that you can get to know us a little better. Now for this month's featured VIP....the one, the only...
+
+ERIK STEINER
+
+Yeaux peeps! I’m a geographer, designer, lazy programmer, and “creative” director at CESTA where I’ve been trying to get to the bottom of stuff since 2007. I work on a wide range of projects through my role in Spatial History, and have a special interest in projects that blend empirical and humanistic methods and are bound together by design. My soul type is “lover-creator” which values strong interpersonal connections and a desire to realize a vision. I feel incredibly blessed that I can fulfill both goals through our collaborations at CESTA.
+
+Outside of the lab… I am an east coast transplant who lives in Eugene, Oregon with my wife Bethany (who teaches at the University of Oregon) and our kids Sabine (“older than 4 and a half”) and Jasper (almost 2). Since becoming a Dad, my former hobbies of triathlon, canoeing, backpacking, have been replaced by toy tinkering, bedtime chaos, and fort building. That and home ownership: I can repair a washing machine, dig an irrigation trench, and prune an apple tree like the best of them.
+[SHOW AND TELL]
+Students from CESTA Director Zephyr Frank's spring quarter Spatial History visualization course show off their final projects at the end of the session. A big thanks to Creative Director Erik Steiner and GIS Specialist Celena Allen for helping out with the course!
+
+
+[SUMMER RESEARCH ASSISTANTS]
+We have a lot of undergraduate and graduate research assistants working in the Center this summer, and we'll make it a point to take a little time out here and there for some socializing, like this pizza lunch that gave students a chance to get to know one another and to hear about what everyone is working on...
+
+...and a typical day in the Center where almost all workspace are taken!
+
+A big welcome to all the new research assistants, as well as the seasoned ones that have returned for more fun and excitement.
+
+============================================================
+Copyright © 2014 Stanford University, All rights reserved.
+
+Contact us: mattbryant DOT stanford AT gmail DOT com
+
+** unsubscribe from this list (*|UNSUB|*)
+** update subscription preferences (*|UPDATE_PROFILE|*)
+** Facebook (https://www.facebook.com/cesta.stanford)
+** Facebook (https://www.facebook.com/cesta.stanford)
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Website (http://cesta.stanford.edu)
+** Website (http://cesta.stanford.edu)
+
+This email was sent to *|EMAIL|* (mailto:*|EMAIL|*)
+why did I get this? (*|ABOUT_LIST|*)     unsubscribe from this list (*|UNSUB|*)     update subscription preferences (*|UPDATE_PROFILE|*)
+*|LIST_ADDRESSLINE_TEXT|*
+
+*|REWARDS_TEXT|*

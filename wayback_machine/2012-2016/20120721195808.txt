@@ -1,0 +1,448 @@
+
+
+Center for Spatial and Textual Analysis | Spatial History Project — Mapping the Republic of Letters — Literary Lab
+
+Center for Spatial and Textual Analysis
+
+Spatial History Project — Mapping the Republic of Letters — Literary Lab
+
+Home
+About CESTA
+CONTACT
+
+Filter
+
+All
+
+Events
+
+News
+
+Individual CESTA Lab Links
+
+Literary Lab
+
+Mapping the Republic of Letters
+
+Spatial History Project
+
+Events of Interest
+
+CESTA Presents: Javascript InfoViz Library D3 – July 19th
+
+Posted in: 
+Events
+
+CESTA Presents: Storyboarding Visualizations – July 12th
+
+Posted in: 
+Events
+
+Gephi Workshop This Week at UC Berkeley
+
+Posted in: 
+Events
+
+CESTA Presents: Data Visualization with Tableau – June 28
+
+Posted in: 
+Events
+
+June 6 – Daniel Strum
+
+Posted in: 
+Events
+
+Project Updates and News
+
+Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library
+
+Posted in: 
+News
+
+Job Announcement: Academic Technology Specialist
+
+Posted in: 
+News
+
+Welcome to the new CESTA Blog!
+
+Posted in: 
+News
+
+A Decade of Fire in Western Australia
+
+Posted in: 
+News
+
+Tags
+CESTA Presents
+
+Gephi
+
+InfoViz
+
+Javascript
+
+job announcements
+
+Lab Announcements
+
+Spatial History Project
+
+SSHW
+
+storyboarding
+
+workshop
+
+Recent Posts
+
+Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library
+
+CESTA Presents: Javascript InfoViz Library D3 – July 19th
+
+Job Announcement: Academic Technology Specialist
+
+CESTA Presents: Storyboarding Visualizations – July 12th
+
+Gephi Workshop This Week at UC Berkeley
+
+Recent Comments
+Archives
+
+July 2012
+
+June 2012
+
+May 2012
+
+	                	Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library	                
+
+Hi, all,
+
+We’re hiring for a new position here at Stanford.  Please consider applying or passing along to those who you believe to be qualified and interested.  It is posted as a one-year term position.  We will be working hard to get this turned into a fully funded, continuing position thereafter.
+
+You must apply through the 
+jobs.stanford.edu
+ site.  At the search box, type in the job ID, 48583, and click on the apply button at the bottom.  We are hoping to fill the job quickly, by September 4th if possible.
+
+Best,
+
+Julie
+
+**
+
+Job ID
+
+ 48583
+
+Job Location
+
+ University Libraries
+
+Job Category
+
+ Library
+
+Salary
+
+ 4P2
+
+Date Posted
+
+ Jul 13, 2012
+
+Geospatial Instruction and Reference Specialist, Branner Library
+
+Status: One year fixed term, full-time
+
+Classification: 4P2
+
+Salary: Compensation will be based on relevant qualifications and experience.
+
+Apply by: Position will remain open until filled.
+
+Organization: Stanford University, Branner Earth Sciences Library
+
+Responsible to: Geospatial Manager
+
+General description
+
+The Stanford University Libraries seek an inspirational and enthusiastic individual to serve as the Geospatial Instruction and Reference Specialist. In support of campus research and instructional needs, the Geospatial Instruction and Reference Specialist designs and delivers instruction to geospatial users, assisting with the integration of geospatial skills into the curriculum. She/he will work closely with the Geospatial Manager to run the wide-ranging geospatial workshops covering both propriety and open source software. The Specialist will also manage and coordinate the hourly staff handling the bulk of reference questions asked by the users, taking on the more challenging questions as need be.
+
+Responsibilities include planning, scheduling, and teaching Geospatial workshops; providing excellent reference service face to face and online; preparing workshop materials, web pages, and handouts; and providing outreach services to the Stanford community.
+
+The Geospatial Instruction and Reference Specialist is a member of the Science and Engineering Resource Group (SERG) of the Stanford University Libraries (SUL). Together with the Geospatial Manager, this position sustains and strengthens the GIS program as the primary provider of GIS-based services, research consultation, and user education to Stanford University (SU) students, faculty and staff from all departments across campus.
+
+This position is based in the Branner Earth Sciences Library, but the Geospatial Instruction and Reference Specialist collaborates with and provides support to all users interested in geospatial education across the campus. Since s/he will provide geospatial support to users from a wide-range of academic disciplines (Earth Sciences to History to Epidemiology) the ideal candidate will have demonstrable experience in applying GIS methods to a variety of disciplines.
+
+Specific Duties and Responsibilities
+
+1. Designs, creates and delivers geospatial training and documentation to patrons and staff across a wide range of disciplines. Content of the training varies from group to group, ranging from accessing geospatial imagery and data to teaching specific GIS software applications, both proprietary and open source. This includes giving workshops ranging in size from a few individuals to classrooms of fifty people or more.
+
+2. Provides expert geospatial technology consultation services to users with varying needs and abilities ranging from basic GIS skills to research level analysis involving manipulating, customizing, querying, or modeling of data. This may at times be in greater depth for patrons needing special assistance for courses or projects heavily using GIS.
+
+3. Works with the Geospatial Manager to develop relevant teaching materials and targeted workshops for specific disciplines and projects. Customizes content based upon need in order to build up a suite of training materials for specific disciplines.
+
+4. Manages the nine computers in the GIS lab including handling testing, updates, troubleshooting for the machines and acts as the Expert Partner for the lab.
+
+5. Helps to maintain the Branner library GIS web site, creating instructional materials delivered in person and over the Web.
+
+6. Supervises student or hourly workers who assists with geospatial reference, Website editing and various tasks in support of geospatial services.
+
+7. Works in conjunction with the Geoportal team to identify and add relevant datasets to Stanford’s Geoportal instance.
+
+8. Maintains awareness of current trends in GIS & related technologies by attending user conferences and regional meetings, communicating with staff and faculty from geospatial labs at other universities, and through communication with the Stanford campus administrative units using GIS, such as the Planning and Facilities Offices.
+
+Qualifications
+
+1. Required technical qualifications:
+
+• Minimum two years’ work experience or academic background with ESRI and Google geospatial products. This includes the ability to use, test, analyze (at an advanced level), document and provide training for geographic information systems software.
+
+• The ability to manage geospatial projects from start to finish a must.
+
+• Knowledge of spatial data formats and metadata issues.
+
+2. Desired technical qualifications:
+
+• Familiarity with other GIS (Grass, GeoDa) or GES (World Wind) products.
+
+• Some knowledge of geodatabases and ArcServer.
+
+• Some GIS programming/scripting experience (VBA, Python).
+
+• Knowledge of geospatial technologies such as GPS (Garmin/Trimble) and remote sensing software (ENVI/Erdas).
+
+3. Bachelor’s degree (Masters preferred) in Geography, or a related Engineering, Physical, Social or Computer science discipline.
+
+4. Demonstrated experience in teaching where training others is necessary. Strong desire to help others learn how to use geospatial technologies to further their research and teaching.
+
+5. Desired experience with web page creation, preferably using Drupal software and having knowledge of HTML and/or JavaScript.
+
+6. High degree of computer literacy and interest in current advances in new technologies.
+
+Experience with Windows operating systems, including installation and configuration of hardware & software in a networked computing environment, and in applying diagnostic techniques for troubleshooting.
+
+7. Ability to manage multiple projects simultaneously, working collaboratively with all levels of users and staff.
+
+8. Excellent oral and written communication skills and superb interpersonal skills. The ability to work effectively with a diverse clientele.
+
+9. Highly competent in handling a great deal of interpersonal interactions on a regular basis.
+
+***
+
+Julie Sweetkind-Singer
+
+Assistant Director of Geospatial, Cartographic and Scientific Data & Services
+
+Head Librarian, Branner Earth Sciences Library & Map Collections
+
+Stanford University
+
+397 Panama Mall; MC 2211
+
+Stanford, CA 94305
+
+(650)725-1102
+
+News
+
+Shortlink
+
+	                	CESTA Presents: Javascript InfoViz Library D3 – July 19th	                
+
+Greetings,
+
+Please join us this Thursday for our next CESTA Presents event:
+
+Javascript InfoViz Library D3
+
+Elijah Meeks, Digital Humanities Specialist, Stanford
+
+Thursday, July 19th @ Noon
+
+Grand Central Room, 4th Floor Wallenberg Hall
+
+Stairwell doors will be unlocked for this event for those who do not have access cards.
+
+For more information, please contact Matt Bryant at mpbryant@stanford.edu, or (650)721-1385
+
+Javascript InfoViz Library 3D
+
+D3 is a JavaScript information visualization library that relies on scalable vector graphics (SVG) to display interactive and dynamic content. D3 is a robust framework that not only allows for traditional plots of categorical and quantitative information, but also the display of geospatial and network data. This presentation will touch on the data formats commonly used for D3 such as JSON and GeoJSON, the general structure of how D3 processes data and interaction events, performance and compatibility issues, and resources to learn D3.
+
+The following sites provide an overview of D3, as well as examples and tutorials:
+
+http://d3js.org/
+
+https://github.com/mbostock/
+d3/wiki/Gallery
+ – Gallery
+
+groups.google.com/group/d3-js
+ – Google Group for D3 Developers and Users
+
+http://vogievetsky.github.com/
+IntroD3/#1
+ – Intro to D3 by Vadim Ogievetsky
+
+http://alignedleft.com/
+tutorials/d3/
+ – D3 Tutorials by Scott Murray
+
+http://stackoverflow.com/
+questions/tagged/d3.js
+ – Stack Overflow D3 Category
+
+Events
+
+Shortlink
+
+	                	Job Announcement: Academic Technology Specialist	                
+
+The Stanford University Library in partnership with the Department of History seeks a digital historian for the position of Academic Technology Specialist (ATS).  The ATS collaborates with faculty and graduate students in the History Department at Stanford University, developing and deploying innovative technological solutions in support of research, pedagogy, and publication.  This position requires an advanced degree in history.
+
+For complete qualifications and full job description, please see 
+jobs.stanford.edu
+. Enter the job id 48502 in the keyword search.  Contact Nicole Coleman 
+cncoleman@stanford.edu
+ with any questions about the position.
+
+News
+
+Shortlink
+
+	                	CESTA Presents: Storyboarding Visualizations – July 12th	                
+
+Greetings,
+
+Please join us this Thursday for our next CESTA Presents event:
+
+Storyboarding Visualizations
+
+Fred Freitas, Dept. of History at Stanford
+
+Thursday, July 12th @ Noon
+
+Grand Central Room, 4th Floor Wallenberg Hall
+
+Stairwell doors will be unlocked for this event for those who do not have access cards.
+
+For more information, please contact Matt Bryant at mpbryant@stanford.edu, or (650)721-1385
+
+Storyboarding Visualizations
+
+Storyboarding is an exercise that helps the organization of a visual argument and the definition of the user interactions that are part of a visualization. Fred Freitas will be presenting a workshop on storyboarding as a tool to think through the workflow of creating visualizations and to define the dimensions of the final design. These dimensions include: the purpose of a visualization, the desired functionality, the properties of individual elements of the display, and the composition of the elements into a usable application.
+
+Events
+
+Shortlink
+
+	                	Gephi Workshop This Week at UC Berkeley	                
+
+Greetings All,
+
+Elijah Meeks from Stanford will be giving a Gephi workshop at UC Berkeley this week, please see details below.
+
+****************
+
+Dear friends,
+
+We are pleased to be hosting a summer workshop introducing 
+Gephi
+, an open source spatial analysis and network visualization software, with Elijah Meeks, the Digital Humanities Specialist at Stanford University.  See 
+this video
+ for an example of Gephi being used to track how Wikipedia was edited during the recent revolutions in the Arab World.
+
+The Gephi workshop will be Wednesday, July 11, from 1pm to 4pm in 124 Mulford Hall. If you are interested in attending the workshop, please write to 
+dhc-history@berkeley.edu
+.
+
+Sincerely,
+
+Chris Church
+
+Scott Paul McGinnis
+
+—
+
+Christopher M. Church
+
+Digital Humanities Coordinator
+
+UC Berkeley, Department of History
+
+2205 Dwinelle, 
+dhc-history@berkeley.edu
+
+Events
+
+Shortlink
+
+	                	CESTA Presents: Data Visualization with Tableau – June 28	                
+
+CESTA will supplement its busy summer season with an ongoing series of talks and mini-workshops called CESTA Presents. Each week, we’ll feature presentations by members and friends of the CESTA community. These presentations will vary in content and format, and are meant mainly as a somewhat informal exchange of information, ideas, and feedback for all lab participants, regardless of individual lab or project affiliation.
+
+Some of the presentations will be more technical in nature, concentrating more on particular software, methods, etc., whereas other presentations will take the form of informal discussions about someone’s research. All members of the CESTA community are encouraged to attend these valuable discussions.
+
+Our first presentation takes place this Thursday!
+
+Data Visualization with Tableau
+
+Ryan Heuser, Literary Lab, CESTA
+
+Thursday, June 28th @ Noon
+
+Grand Central Room, 4th Floor Wallenberg Hall
+
+Stairwell doors will be unlocked for this event for those who do not have access cards.
+
+For more information, please contact Matt Bryant at mpbryant@stanford.edu, or (650)721-1385
+
+Events
+
+Shortlink
+
+	                	Welcome to the new CESTA Blog!	                
+
+Greetings everyone! We would like to officially welcome you to the new CESTA blog. This will be our new common web presence for all things CESTA. The individual labs will of course continue to maintain their own unique websites (see links on the main sidebar), but this will be the venue where we share any common information that relates to CESTA as a whole.
+
+We will also communicate with everyone within the CESTA community via a mailing list, so be on the lookout for that as well. That mailing list and this blog are meant to work hand in hand in improving and streamlining communication among the three labs.
+
+We’ll continue to update, expand, and tweak the site as we go, and we welcome any comments, suggestions, or questions regarding this blog or the mailing list.
+
+News
+
+Shortlink
+
+	                	June 6 – Daniel Strum	                
+
+Next week’s Social Science History Workshop speaker will be Daniel Strum, Stanford University. He will be presenting his paper, “Marketplaces, Rulers and Diasporas Governing Early Modern Trade: Jews and Conversos along the sugar route revisited (Brazil, Portugal and the Netherlands, 1595/1618)” on Wednesday, June 6, from 12:00-1:30 pm in room 223 (Bubble Room) of the Landau Economics Building. Please note the change in time and place. http://economics.stanford.edu/seminars/tba-264
+
+Events
+
+Shortlink
+
+	                	A Decade of Fire in Western Australia	                
+
+The Spatial History Project’s 
+A Decade of Fire in Western Australia
+ has received a significant visualization update. Please check out the updated project 
+here
+.
+
+Brief Project Description:
+
+This application is based on a combination of ethnographic and ecological research undertaken by Stanford faculty and students in collaboration with Martu, Aboriginal owners of an expansive Native Title located in the Great and Little Sandy Desert bioregions of Western Australia. Ethnographic field work included interviews with Martu and quantitative observations of Martu hunting and burning. Ecological research included on-the-ground monitoring of areas at different stages of regrowth following a fire and spatial (GIS) analysis of satellite (Landsat) imagery to classify burns over a ten-year period from 2000-2010.
+
+News
+
+Shortlink
+
+Copyright © 2012  
+
+            Powered by 
+Shaken Grid Premium
+

@@ -1,0 +1,537 @@
+
+
+Center for Spatial and Textual Analysis | Spatial History Project — Humanities + Design — Literary Lab
+
+Center for Spatial and Textual Analysis
+
+Spatial History Project — Humanities + Design — Literary Lab
+
+Home
+About CESTA
+CONTACT
+
+Filter
+
+All
+
+Courses
+
+Events
+
+Job Announcements/Opportunities
+
+News
+
+Publications
+
+Individual CESTA Lab Links
+
+Humanities + Design
+
+Literary Lab
+
+Spatial History Project
+
+Events of Interest
+
+CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago) – Friday May 3, 12-2pm RSVP
+
+Posted in: 
+Events
+
+CESTA Presents: Between Two Booms: The Human and Environmental Consequences of Brazilian Ethanol Production
+
+Posted in: 
+Events
+
+The View and The Value: Historical Geography of Signs in San Francisco
+
+Posted in: 
+Events
+
+Spatial History Project’s Rebooting History Research Team Presents Three New Films
+
+Posted in: 
+Events
+
+[Visualizing Complexity & Uncertainty] Reviel Netz: “Making Sense of Greek Culture: Maps, Numbers, Thoughts” – March 7
+
+Posted in: 
+Events
+
+CESTA Presents: Matteo Lorenzini and Mark Philipson – Friday March 1st
+
+Posted in: 
+Events
+
+Project Updates and News
+
+CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories
+
+Posted in: 
+News
+
+New Publication by Matthew Booker
+
+Posted in: 
+News
+, 
+Publications
+
+New Faces Around CESTA
+
+Posted in: 
+News
+
+New Humanities + Design Graduate Fellows
+
+Posted in: 
+News
+
+Press for Rebooting History East Palo Alto Project
+
+Posted in: 
+News
+
+Press Release: Erik Steiner and Spatial History Project Participates in National “Designing Ingelligent Environments” Workshop
+
+Posted in: 
+News
+
+Maria Santos Featured in New Publication: “A Look at the Portuguese Carnivores”
+
+Posted in: 
+News
+, 
+Publications
+
+Visualizing Evidence Winter Workshop in Progress
+
+Posted in: 
+Courses
+, 
+Events
+, 
+News
+
+Job Announcement: GIS Software Developer, Digital Library Systems and Services, Stanford
+
+Posted in: 
+News
+
+Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library
+
+Posted in: 
+News
+
+Job Announcements/Opportunities
+
+Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History
+
+Posted in: 
+Job Announcements/Opportunities
+
+Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project
+
+Posted in: 
+Job Announcements/Opportunities
+
+Glen Worthey: Digital Humanities, or Seven Decades of the New New Thing – CESTA, Aug. 17th
+
+Posted in: 
+Job Announcements/Opportunities
+
+Tags
+ArcGIS
+
+California
+
+Cameron Blevins
+
+CESTA
+
+CESTA Presents
+
+China
+
+courses
+
+diaspora
+
+digital history
+
+digital methods
+
+East Palo Alto
+
+Gephi
+
+GIS
+
+Holocaust
+
+Illustrator
+
+InfoViz
+
+Javascript
+
+Jean-Pierre Dupuy
+
+job announcements
+
+Johanna Drucker
+
+knowledge
+
+KQED
+
+Lab Announcements
+
+mapping
+
+Mapping the Republic of Letters
+
+Maria Santos
+
+national parks
+
+Nicole Coleman
+
+open house
+
+ORBIS
+
+Python
+
+Rebooting History
+
+Rome
+
+Spatial History Project
+
+SSHW
+
+Stanford Humanities Center
+
+storyboarding
+
+symposium
+
+Time + Networks
+
+Visualizing Complexity
+
+Visualizing Evidence
+
+wildlife
+
+workshop
+
+Yellow River
+
+Zephry Frank
+
+Recent Posts
+
+CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago) – Friday May 3, 12-2pm RSVP
+
+CESTA Presents: Between Two Booms: The Human and Environmental Consequences of Brazilian Ethanol Production
+
+CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories
+
+New Publication by Matthew Booker
+
+New Faces Around CESTA
+
+Recent Comments
+Archives
+
+May 2013
+
+April 2013
+
+March 2013
+
+February 2013
+
+January 2013
+
+November 2012
+
+October 2012
+
+August 2012
+
+July 2012
+
+June 2012
+
+May 2012
+
+	                	CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago) – Friday May 3, 12-2pm RSVP	                
+
+Dear All,
+
+Our next event will take place at lunchtime next Friday, May 3. We will welcome
+ Robert Morrissey
+ (University of Chicago, French), the founder and director of the ARTFL project. In his talk, entitled 
+From Books and Data (and Back)
+, he will discuss various innovations that ARTFL has introduced with PhiloLogic, their search engine and text-mining service, as well as new developments with the digital 
+Encyclopédie
+.
+
+Please 
+RSVP
+ regarding your attendance. There is no reading for this event.
+
+Exceptionally, this event, co-sponsored by the Center for Spatial and Textual Analysis will take place 
+12-2pm on ***Friday, May 3
+. Also exceptionally, we will hold it in the “Gold and Honey” room on the 
+4th floor of Wallenberg hall
+. In order to access the space, 
+please use the building’s elevator
+.
+
+We will start with informal lunch 12-12:30pm, followed by the talk and discussion, lasting until 2pm. We look forward to seeing you next week!
+
+all best,
+
+JP, Dan, Biliana
+
+Events
+
+Shortlink
+
+	                	CESTA Presents: Between Two Booms: The Human and Environmental Consequences of Brazilian Ethanol Production	                
+
+The Center For Spatial and Textual Analysis and The Department of History presents
+
+Between Two Booms:
+
+The Human and Environmental Consequences of Brazilian Ethanol Production
+
+a talk by
+
+Thomas D. Rogers
+
+Assistant Professor of Modern Latin American History
+
+Emory University
+
+May 9,  2013 at 4:15pm
+
+at the
+
+Center For Spatial And Textual Analysis
+
+4th Floor,  Wallenberg Hall,  450 Serra Mall,  Stanford University
+
+Abstract: Brazil has experienced two booms in sugarcane ethanol production in the past 40 years,  the first taking place under an authoritarian military regime that used the power of the state to foment production and the second taking place under the tutelage of the Workers’ Party’s government in its search for a new developmental model. Inflation-plagued and debt-ridden administrations intervened between the two booms, during which time the framework of the first surge—including several state agencies—was dismantled. This talk will assess the environmental and political consequences of the first ethanol boom and place it in historical context.
+
+Professor Rogers is the author of
+ The Deepest Wounds: A Labor and Environmental History of Sugar in Northeast Brazil
+ (The University of North Carolina Press, 2010). The book was awarded the Warren Dean Prize from the Conference on Latin American History and the Henry A. Wallace Prize from the Agricultural History Society.
+
+Events
+
+Shortlink
+
+	                	CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories	                
+
+Here is a recent article
+ on the Curating the Bay: Crowdsourcing a New Environmental History exhibit at the California Historical Society.
+
+AP Photo/Eric Risberg
+
+News
+
+Shortlink
+
+	                	New Publication by Matthew Booker	                
+
+Matthew Booker, a close affiliate and collaborator with CESTA, has a new publication out. It contains materials created at the Spatial History Lab, and Matthew’s work in the lab helped contribute to the final version of the book.
+
+Here is the link:
+
+http://www.ucpress.edu/book.
+php?isbn=9780520273207
+
+There will likely be an official book launch at the California Historical Society in July – we’ll post details once we have them.
+
+Congrats, Matthew!
+
+News
+, 
+Publications
+
+Shortlink
+
+	                	New Faces Around CESTA	                
+
+In addition to our new graduate fellows in Humanities + Design, we would also like everyone to be aware of some new or new-ish folks in the CESTA lab:
+
+Celena Allen
+ – GIS Specialist and project assistant
+
+Gabriel Wolfenstein
+ – Project Manager for the Mellon crowdsourcing projects (Year of the Bay, Living with the Railroads, 500 Novels)
+
+Melanie Conroy
+ – Lab Manager for Humanities + Design (not a new face, but we want to introduce her nonetheless!)
+
+Jason Hepler
+ – Academic Technology Specialist
+
+And we have an army of new undergraduate research assistants for the spring quarter!
+
+Sarah Sadlier
+
+Alec Powell
+
+Annalise Lockhart
+
+Anne Evered
+
+Diego Valiente
+
+Eric Eichelberger
+
+Jocelyn Hickcox
+
+Laura Zehender
+
+Matthew Walter
+
+Raina Sun
+
+Van Tran
+
+Willys DeVoll
+
+Varun Gupta
+
+We hope that you all get to meet one another at some point, and be on the look out for social mixers over the summer!
+
+News
+
+Shortlink
+
+	                	New Humanities + Design Graduate Fellows	                
+
+The CESTA community would like to welcome the new Humanities + Design graduate fellows! The new grad fellows are Nicole DeBenedictis, Claude Willan, Maria Teodora Comsa, Marcelo Alejandro Aranda, and Hannah Marcus.
+
+Beyond the exciting work that the fellows will be doing within Humanities + Design, this marks a new effort by CESTA to support graduate professional development as well as our already very strong undergraduate program.
+
+News
+
+Shortlink
+
+	                	The View and The Value: Historical Geography of Signs in San Francisco	                
+
+Hello All,
+
+Join me next Friday, April 12th, at 10:15 A.M. for a presentation of my senior thesis project. I will be speaking in CESTA’s Gold + Honey room, on the fourth floor of Wallenberg Hall (Bldg 160). See flyer below:
+
+The View and The Value: 
+
+Historical Geography of Signs in San Francisco
+
+A senior thesis in the Department of History
+
+[Photo: A survey from the enforcement of the 1965 Highway Beautification Act (HBA)]
+
+My research examines signs in the public view of San Francisco, from the 1890s to the present. This curious and surprising line of local history indicates how cultural values influence the organization of space, relying upon maps identifying 
+where 
+and 
+when 
+signs have existed and textual sources that compare the laws of public versus private signage. With this case study, I hope to demonstrate the points at which property rights intersect and conflict with the freedom of speech.
+
+During the past decade, corporate expenditures for advertising completed the shift away from print media and toward digital formats. Outdoor advertising experienced no such decline. I argue that the outdoor medium will become increasingly relevant, but the industry will become unrecognizable in the digital age. Soon, the development of virtual spaces for public and private speech will raise new questions about the management of real space. Can the ongoing controversy over online privacy inform the future of public control over open spaces? The answer requires proof that billboards create value for cities–or proof of the opposite.
+
+Events
+
+Shortlink
+
+	                	Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History	                
+
+Curating the Bay: Crowdsourcing a New Environmental History
+
+April 7, 2013 – August 25, 2013
+
+Opening Celebration, Sunday, April 7th, 4:00PM – 6:00PM
+
+Free event, please RSVP at 
+curatingthebayopening.eventbrite.com
+.
+
+California Historical Society is embracing 21st-century technology to celebrate the Year of the Bay in 2013, by offering its extensive collections to a crowdsourcing experiment in its gallery and at 
+yearofthebay.org
+.
+
+In a year that is bringing the high-profile America’s Cup yacht races to the Bay, the opening of a new Bay Bridge span, and the celebration of the 150th anniversary of the Port of San Francisco, the California Historical Society is staging an experimental exhibition of many items from its collections not publicly exhibited before. Many of these artifacts — photographs, paintings, and documents — present historical mysteries still to be solved. The historical society is welcoming the public into this rich collection of materials to contribute their own stories, knowledge, photographs, and other sources to create a richer, more diverse history of the San Francisco Bay.
+
+The exhibition takes risks by asking visitors to fill in the blanks rather than presenting them with a finished narrative. It opens up the process of curating — usually reserved for trained professionals — to the public both in the exhibition and online as part of 
+yearofthebay.org
+, a dynamic crowdsourcing experiment with researchers at Stanford University and Historypin, an innovative global social technology partner.
+
+This exhibition has been generously supported by our funding sponsors: S.D. Bechtel, Jr. Foundation, Placer Partners, Port of San Francisco, and Wells Fargo. Exhibition partners include: Center for Spatial and Textual Analysis at Stanford University, EcoCenter at Heron’s Head Park, Golden Gate Audubon, Heyday, Historypin, Literacy for Environmental Justice, Port of San Francisco, San Francisco Bay Conservation and Development Commission, and San Francisco Maritime National Historical Park. In-kind support is being provided by: The CBW Group, Hafner Vineyard, Herglotz Public Affairs, Lagunitas Brewing Company, and Sherwin-Williams. Institutional support to CHS is provided from the Hearst Foundation, Hewlett-Packard, The James Irvine Foundation, and San Francisco Grants for the Arts.
+
+Website: http://www.californiahistoricalsociety.org/exhibitions/curating_the_bay.html
+
+Job Announcements/Opportunities
+
+Shortlink
+
+	                	Press for Rebooting History East Palo Alto Project	                
+
+Be sure to check out 
+the article
+ on the Spatial History Project’s East Palo Alto Rebooting History film premiere in the San Francisco BayView newspaper!
+
+News
+
+Shortlink
+
+	                	Spatial History Project’s Rebooting History Research Team Presents Three New Films	                
+
+The Spatial History Project’s 
+Rebooting History
+ research team has been hard at work!
+
+Premier of Three New Films to share Struggles for Environment, Justice and Community in East Palo Alto
+
+On Monday, March 18 from 6:30 to 8:30 pm East Palo Alto youth, community organizations, and Stanford University’s Program on Urban Studies will premier 
+Homegrown: Cultivating Dreams through Action – 
+three unique hip hop documentary films highlighting powerful stories from East Palo Alto. This free, community event will take place in East Palo Alto City Hall, 2145 University Ave.
+
+The films merge hip hop music video and historical documentary approaches and are a product of a unique ten week collaboration between Stanford Urban Studies students and East Palo Alto youth lyricists. Coming together as part of a class about EPA environmental issues, the teams of Stanford students and youth lyricists partnered to edit films and create sound tracks that tell three important stories in a fresh new way:
+
+Youth United for Community Action’s (YUCAs) campaign to close the Romic hazardous wastes recycling in an effort lasting nearly a decade and leading to state action to close the plant forever
+
+Peoples’ irrepressible desire to farm the land in East Palo Alto, and cross race, culture and time in the effort to grow their own local food -  from a time when African American community activists farmed the “Back 40” to today’s efforts by Collective Roots.
+
+The Weeks Neighborhood Plan and East Palo Alto Historical and Agricultural Society’s vision to use the plentiful land to build self-sufficiency and community through a locally-based food system.
+
+Films are a product of a partnership between Stanford University’s Program on Urban Studies, Youth United for Community Action, Collective Roots, Mural Music & Arts Project, Live in Peace, and the East Palo Alto Youth Action Team.
+
+The films are an output from Urban Studies 166, 
+East Palo Alto: Reading Urban Change, 
+which is being co-taught by Michael Levin with Rebooting History, one of the Spatial History Project’s research groups.
+
+In addition to the film screenings, this event will feature free food, live music, and a unique glimpse into the beauty and power of the East Palo Alto community.
+
+Support for this project is provided by partner organizations above, as well as Stanford University affiliates including Haas Center for Public Service, Institute for Diversity in the Arts, John W. Gardner Center for Youth and Their Communities, Program on Urban Studies, School of Humanities and Sciences, Stanford Arts Institute, and the Vice Provost for Undergraduate Education.
+
+Events
+
+Shortlink
+
+←
+ Older
+
+Copyright © 2013  
+
+            Powered by 
+Shaken Grid Premium
+

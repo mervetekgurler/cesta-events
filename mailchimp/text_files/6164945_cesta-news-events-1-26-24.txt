@@ -1,0 +1,110 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+Tuesday, January 30 | 12:00 - 1:00 PM | Wallenberg Hall, Room 433A
+
+The 2023 CESTA Research Anthology is out! We are grateful to the faculty, staff, DH Fellows and Undergraduate Research Interns that carried out and supported DH work at CESTA in 2023. To celebrate its release, we invite you to a luncheon at CESTA where we will unveil the Anthology and discuss both the history and future of CESTA publications. Nicole Coleman, Digital Research Architect at Stanford libraries, will talk about Quarto, an open source publishing system as a model for CESTA project publications in the future, and Alix Keener, Digital Scholarship Coordinator at CESTA and Stanford Libraries, will share perspectives on the current state of digital publishing and where it is going. We will then hold an open forum to hear your thoughts on the future of digital research publication!
+
+An RSVP is required for this event:  https://forms.gle/4iEAB3hqgAgj5L1o7
+You can alsoview the CESTA anthology online (https://drive.google.com/file/d/10QbSZYGn-umgbS50KaWZxZ4PBI3EHyOn/view) .
+Upcoming this Quarter at CESTA
+
+February 8 | 5:30 - 7:00 PM
+Mellon Sawyer Seminar Series
+Jo Guldi and Erik Fredner
+Challenging 19th Century Data Legacies (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-challenging-19th-century-data-legacies-jo-guldi-jacqueline)
+Wallenberg Hall, 433A
+
+February 13 | 12:00 - 1:15 PM
+Sawyer Graduate Reading Group (#sawyer)
+Wallenberg Hall, 434
+
+February 20 | 12:00 - 1:15 PM
+Sawyer Graduate Reading Group (#sawyer)
+Wallenberg Hall, 434
+
+February 29 | 5:30 - 7:00 PM
+Mellon Sawyer Seminar Series
+Marlene Daut and Ayesha Hardison
+Recuperating Forgotten Narratives  (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-recuperating-forgotten-narratives-marlene-daut-and-ayesha)
+Wallenberg Hall, 433A
+
+Upcoming Elsewhere
+
+January 31 | 1:00 - 2:00 PM
+Stanford Research Computing
+Python Multiprocessing and Resource Utilization (https://srcc.stanford.edu/events/lunch-learn/python-multiprocessing-and-resource-utilization)
+Online Event, More information here (https://srcc.stanford.edu/events/lunch-learn/python-multiprocessing-and-resource-utilization)
+
+February 1 | 12:00 - 1:30 PM
+Office of the Vice Provost for Graduate Education
+Quick Bytes+: Design Thinking in Research (https://events.stanford.edu/event/quick_bytes_design_thinking_in_research)
+Tresidder Memorial Union, Oak West
+
+February 2 - 3| Full Schedule (https://events.stanford.edu/event/galileos_letters_experiments_in_friendships)
+Stanford Humanities Center
+Program in History and Philosophy of Science and Technology
+Galileo's Letters: Experiments in Friendships
+Stanford Humanities Center, More information here (https://events.stanford.edu/event/galileos_letters_experiments_in_friendships)
+
+News & Announcements
+
+Center for Comparative Studies in Race and Ethnicity: Undergraduate Fellowships (http://https://ccsre.stanford.edu/undergraduate-resources/undergraduate-fellowships)
+
+The CCSRE Community-Based Research (CBR) Fellowship (https://ccsre.stanford.edu/undergraduate-resources/undergraduate-fellowships/community-based-research-fellowship)  gives undergraduate students the opportunity to join a Stanford faculty member’s ongoing community-based research project focused on racial justice, lead a component of the research project, and assist with additional research tasks.
+
+The CCSRE Praxis Fellowship (https://ccsre.stanford.edu/undergraduate-resources/undergraduate-fellowships/praxis-fellowship)  gives undergraduate students the opportunity to work directly with a community organization focused on racial justice, lead a praxis project or project component, and assist with other organizational and programming tasks.
+
+Pre-arranged projects include:
+* Museum of Storytelling: building digital platforms for South African museums with Professor Grant Parker.
+* Feminist geospatial data creation: finding spatial justice through digital collective practices of care in Latin America: researching feminist geospatial data and creating an atlas of safe spaces for marginalized communities with Fellow Sele Yang.
+* And more!
+
+Fellows receive a summer stipend of $7,500 + up to $1,500 financial need.
+
+To learn more:
+* Attend an info session on Thursday, January 18th (ZOOM) or Tuesday, January 30 (IN PERSON). RSVP HERE (https://forms.gle/udc53xg8NZ64iw4o7) !
+* Read about our 2024 faculty (https://ccsre.stanford.edu/undergraduate-resources/undergraduate-fellowships/community-based-research-fellowship)  (CBR) and community (https://ccsre.stanford.edu/undergraduate-resources/undergraduate-fellowships/praxis-fellowship)  (Praxis) partnerships on the CCSRE website. Check back on December 15 and January 20 for updated pre-arranged partnership lists.
+
+Call for Papers: Code as Conversation Conference (https://www.cdh.cam.ac.uk/about/news/code-as-conversation/)
+
+This one-day conference on the dynamic field of critical code studies will expand on the conversations begun by the Cultural Politics of Code reading group at Cambridge. The Keynote will be delivered by David Berry (https://profiles.sussex.ac.uk/p125219-david-berry) , Professor of Digital Humanities at the University of Sussex.
+
+We welcome submissions of code readings, critiques, papers, and explorations that engage with code as a phenomenon that is simultaneously communicative and functional. We would be particularly excited to read contributions from those on the margins of critical code studies: both humanities practitioners new to the interpretation of code, and those from STEM disciplines interested in humanities analysis. We hope that this will lead to a day of conversation that is authentically cross-disciplinary and productive of new approaches to critical code studies.
+
+Read the convenors’ reflections on the Cultural Politics of Code in their recent blogpost. (https://www.cdh.cam.ac.uk/media/blog/ccs-in-conversation/)
+
+Introducing the Sawyer Graduate Reading Group
+
+Happy New Year, digital-enthusiast humanists of Stanford!
+The Sawyer Graduate Reading Group is convening in the Winter and Fall to discuss applications of “The Data that Divide Us.” Our programming compliments the Mellon Sawyer Seminar (https://cesta.stanford.edu/news/stanford-receives-major-mellon-foundation-award-be-hosted-center-spatial-and-textual-analysis?search=mellon+sawyer)  offerings, with a focus on bringing graduate students in the humanities into the conversation.
+
+In Winter, we will discuss the work of two Stanford researchers: Quinn Dombrowski and Anne Ladyem McDivitt. Quinn’s work focuses on multilingual computational text analysis. Anne Ladyem is a historian with a focus on digital and public history. After reading and discussing their work, the data they use, the challenges it presents, and the methods they use to overcome those challenges, we will meet with Quinn and Anne Ladyem to ask questions and hear firsthand their perspectives and experiences on the management of textual and geospatial data, and the broader use of data in humanistic research.
+
+In the Spring, we will turn to the research of the Sawyer Seminar's invited speakers (Dagomar Degroot, Jessica Otis, Greg O'Malley, Alex Borucki, Lauren Klein), again focusing on the theoretical issues engendered by these scholars' data sources and the practical methods that these researchers avail themselves of in their approach to data.
+
+All Stanford Humanities graduates are welcome! Mark your calendars for January 16, January 23, February 13, February 20, April 2, April 16, and May 7. These are all Tuesdays, and meetings will take place between 12:00-1:15. Wallenberg 434. Lunch will be provided.
+
+Looking forward to seeing you there!
+
+Your Mellon Sawyer Dissertation Fellows,
+
+Chloé Brault (PhD Candidate in Comparative Literature) and
+Matt Warner (PhD Candidate in English)
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

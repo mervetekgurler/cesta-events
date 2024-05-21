@@ -1,0 +1,97 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+This Week at CESTA
+
+
+** CESTA's 2023 DH Research Showcase (https://cesta.stanford.edu/events/cesta-digital-humanities-research-showcase-2023)
+------------------------------------------------------------
+Featuring presentations by:
+The Digital Humanities Graduate Fellows &
+Undergraduate Research Interns
+Friday, May 26 | 8:30 AM - 5:00 PM | Wallenberg 433A
+
+Every year, CESTA's Digital Humanities Fellows Program supports graduate students developing humanities research projects that apply computational tools and methods. Attend this day-long showcase to hear directly from this year's cohort about the projects they pursued through the program. Many will present together with the undergraduate students with whom they collaborated. In the afternoon, in a dedicated poster session, a selection of students from this year's CESTA Undergraduate Research Internship Program (https://cesta.stanford.edu/people/2023-undergraduate-research-interns)  will present their contributions to CESTA faculty research projects.
+
+The showcase will include lunch and refreshments and take place at the Stanford Center for Spatial and Textual Analysis in Wallenberg 433A. Join us for this day of celebration of CESTA research. A Zoom link is available upon request from Center Manager, Jonathan Clark (jclark93@stanford.edu (mailto:jclark93@stanford.edu) ).
+
+Program
+
+8:30–9:00 AM: Coffee, pastries and welcome
+
+9:00–10:30 AM: Text Lives: Essence and Narrative in  Archives and Corpora
+
+Introduction and moderation by Will Fenton, with presentations from:
+* Merve Tekgürler, (History) “Ottoman Court Histories in the Long Eighteenth-Century”
+* Valentina Dal Cin (CESTA Postdoc) and Alessandra Rister Portinari Maranca,  “Applying for a Job in Early 19th-Century Europe”
+* Chloé Brault MacKinnon (Comparative Literature) and Clare Chua, “Belatedly Canceled: White N-words of America in the Press”
+* Taranee Cao (East Asian Languages and Cultures), “Examining Linguistic Politeness: Evidence from Discourse”
+
+Followed by Q&A
+
+10:30–10:45 AM: Break with light refreshments
+
+10:45–12:15 PM: Ancient World, Modern Methods
+
+Introduction and moderation by Andrew Patrick Nelson, with presentations from:
+* James Macksoud (Classics) and Abigail Matsumoto, “Organizational Isomorphism among Private Associations in the Roman World”
+* Ümït Öztürk (Classics) and Sophie Wu, “Social Lives of Fiscal Institutions in the Eastern Mediterranean (6th-2nd centuries BCE)”
+* Serena Crosson (Archaeology) and Claudia Sung, “Looking-through-Labor in Pompeian Wall Paintings”
+* Sinead Brennan-McMahon (Classics), “Developing an N-Gram Viewer for the Latin Language”
+
+Followed by Q&A
+
+12:00–1:30 PM: Lunch
+
+1:30 - 3:00 PM: Placing Data at Scale
+
+Introduction and moderation by Nicole Coleman, with presentations from:
+* Sunny Persad (Religious Studies) and Molly Graybill, “A Late Ancient Biography of Bones”
+* Kimberley Connor (Anthropology) and Grace Sperber, “From Emigrant to Settler: Food in 19th Century Institutions of Immigration”
+* Sierra Nota (History), “Monetizing Mezhyhirya: Commercial Property Stewardship in the Russian Empire, 1786-1858”
+
+Followed by Q&A
+
+3:00 - 5:00 PM: Poster Session and Reception
+
+3:00-4:00: A selection of posters and presentations about their work on CESTA faculty projects from interns who participated in the Undergraduate Research Internship Program:
+* Isabel Cai, "Global Medieval Sourcebook" (Global Medieval Sourcebook (https://cesta.stanford.edu/research/global-medieval-sourcebook) )
+* Michael Carragee and Enkhjin Munkhbayar, "Making and Unmaking Imperial Space: OpenGulf" (OpenGulf (https://cesta.stanford.edu/research/opengulf) )
+* Christina Cheng, "Slave Liberations in French Colonial Senegal" (Senegalese Liberations Project (https://cesta.stanford.edu/research/senegal-liberations-project) )
+* Hana Dao and Caroline Wang, "EpicConnect" (EpicConnect (https://cesta.stanford.edu/research/epicconnect) )
+* Lily Forman, "Oral History Text Analysis Project" (Oral History Text Analysis Project (https://cesta.stanford.edu/research/oral-history-text-analysis-project-ohtap) )
+* Shannon Gifford, "Mapping Shared Sacred Sites" (Mapping Shared Sacred Sites (https://cesta.stanford.edu/research/mapping-shared-sacred-sites) )
+* Molly Graybill, "A Late Ancient Biography of Bones"
+* Alessandra Rister Portinari Maranca, "Applying for a Job in Early 19th-Century Europe"
+* Abigail Matsumoto, "Mapping Ancient Roman Associations"
+* Andy Wang, "Co-Design and Co-Creativity in Digital Music Spaces" (Considering Disability in Online Cultural Experiences (https://cesta.stanford.edu/research/considering-disability-online-cultural-experiences) )
+* Tracy Wei, "Visualizing Data About the Militarization of Police" (Know Systemic Racism (https://sites.google.com/stanford.edu/knowsystemicracism/home) )
+* Katherine Wong, "Analyzing Triadic Sonorities in Renaissance Music" (Josquin Research Project (https://cesta.stanford.edu/research/josquin-research-project) )
+* Sophie Wu, "From Historical Texts to Modern Data"
+
+4:00-5:00: A celebration of the work done at CESTA this year.
+This Thursday at CESTA
+
+Dr. Michele Mauri in Conversation (https://cesta.stanford.edu/events/critical-data-practices-michele-mauri)  with Lindsay King, Beleicia Bullock and CESTA-affiliated Faculty (https://cesta.stanford.edu/events/critical-data-practices-michele-mauri)
+Thursday, May 25 | 5:00-7:00 PM | Wallenberg 433A
+
+Dr. Michele Mauri will share Density Design Lab (https://densitydesign.org/) ’s work with the visualization of two very different archives, followed by a discussion of the opportunities and challenges of visual representation of objects in a digital archive with Lindsay King, Head of Bowes Art and Architecture Library, Beleicia Bullock, a Stanford PhD student in Computer Science/Human Computer Interaction, and CESTA-affiliated faculty.
+
+Mauri will share DensityDesign Lab’s work on the privately held ANGELO Archive (https://www.angelovintage.com/it-PK/magazine/archivio)  which consists of over 120,000 garments and accessories dating from the late 19th century to the early 2000s and WLM Observatory (https://data.wikilovesmonuments.it/)  platform designed by Density for the Wikimedia Foundation’s “Wiki loves monuments” contest, serving an open community of contributors across the world who gather and document images of cultural heritage monuments.
+
+This event will include dinner and take place at the Stanford Center for Spatial and Textual Analysis in Wallenberg 433A.
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

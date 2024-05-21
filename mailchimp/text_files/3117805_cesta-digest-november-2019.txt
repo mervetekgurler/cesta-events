@@ -1,0 +1,118 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+
+
+** CESTA Digest, November
+------------------------------------------------------------
+CESTA Highlights (#CESTA Announcements)
+Campus Events and Opportunities (#Campus Events and Opportunities)
+Other Announcements (#Other Announcements)
+CESTA Announcements
+
+Early Modern Recipe Online Collective Transcribathon
+Tuesday, Nov. 5, 10AM - 1PM at CESTA (https://emroc.hypotheses.org/)
+
+Along with scholars and students from around the world, we will help create a searchable digital text of a manuscript receipt book with more than 600 medical recipes for the plague, scurvy, consumption, and more. No experience required; bring your own laptop. Refreshments provided.
+
+CESTA Summer Research Anthology Now Available Online!
+
+The capstone project for our Summer undergraduate research interns is now available online. V (https://cesta.stanford.edu/news/anthology-2019) isit our website (https://cesta.stanford.edu/news/anthology-2019) to view the 2019 CESTA Summer Research Anthology, a collection of stories by interns describing their work on faculty-led projects over the summer break.
+
+Congrats to the CRRW team!
+
+The Chinese Works and the Railroad Traveling Exhibit has been awarded a 2019 Preservation Design Award and Trustees Award for Excellence by the California Preservation Foundation.  For more, see californiapreservation.org (https://californiapreservation.org/awards/chinese-workers/) and Stanford News (https://news.stanford.edu/thedish/2019/10/13/chinese-railroad-workers-project-exhibit-honored-by-california-preservation-foundation/) .
+
+CESTA Seminars
+
+CESTA Seminars have concluded for Fall 2019. Thank you to our amazing lineup of presenters and to all who joined us as audience members. Our series resumes in Winter, on January 21, 2020 at 12pm.
+
+Campus Events and Opportunities
+Humanities Research Intensive for Stanford Freshman and Sophomores
+Application deadline - Monday, Nov. 4 at 11:59PM (https://humsci.stanford.edu/current-students/humanities-research-intensive)
+
+Stanford Libraries Workshops
+Full schedule and details here. (https://library.stanford.edu/workshops)
+Introduction to R  - Nov 5
+Text Analysis with Python - Nov. 6
+Version Control with Git - Nov. 6
+Intermediate Python: Going Beyond Basic Commands - Nov. 12
+A Cloud Computing Primer - Nov. 13
+Zotero and Tropy - Nov. 13
+SQL 102: Slight More Advanced SQL Workshop - Nov. 18
+Intermediate R: Visualization with ggplot2 - Nov. 19
+
+CIDR hosts drop-in digital humanities consulting on Mondays from 2-4pm in the Velma Denning Room (Green Library 120F). (https://library.stanford.edu/research/cidr/consulting)
+
+There is also drop-in research consulting at Branner Library on a wide variety of software, coding, and data issues. View the schedule, including a list of consultants and their specific areas of expertise. (https://library.stanford.edu/research/data-management-services/consulting-training-and-other-services)
+
+
+** Brown Institute for Media Innovation Fall Lectures
+------------------------------------------------------------
+Location: Gates 174, 353 Serra Hall, Stanford (https://brown.columbia.edu/event/4712/)
+
+Nov. 5: Innovating with AI | Xiao Ma, Director of Engineering, Medium
+Nov. 12: Innovating with Platforms | Stacy-Marie Ishmael, Senior Editor, Apple News
+
+DH Methods Reading Group: Measuring Modernisms
+Wednesday, Nov. 6, 6PM - 8PM (https://dlcl.stanford.edu/events/dh-methods-reading-group-measuring-modernisms)
+Location: Pigott Hall (Bldg. 260), Room 308
+
+Archives-Based Training Intensive with Tom Mullaney
+Branner Map Library (Nov. 8 & 15) | Registration required (https://www.eventbrite.com/e/archives-based-teaching-intensive-branner-map-library-tickets-70553406137)
+Cantor Arts Center (Nov. 22 & 6) | Registration required (https://www.eventbrite.com/e/archives-based-teaching-intensive-cantor-tickets-70532501611)
+For Stanford PhD students in the Humanities and Social Sciences - acquire hands-on, practice-based skills in archives-based undergraduate teaching. Get to know colleagues and the inside workings of the Branner Map Library and the Cantor Arts Center, and how they think about acquiring and using collections. Partake in a groundbreaking pedagogical pilot in archives-based undergraduate education, called "Massively Multiplayer Humanities"
+
+
+** Events and Opportunities at the Rumsey Map Center
+------------------------------------------------------------
+GISDay@Stanford | Nov. 13, 1PM (http://gisday.stanford.edu/)
+California Map Society Student Essay Competition 2020: Now Open! (https://stanford.us14.list-manage.com/track/click?u=bc280d099b8c85ba9fd6e0bb0&id=0daa6356d0&e=76caacd0b7)
+Workshop Future of Academic Publishing: What Grad Students Need to Know
+Thursday, Nov. 21 at 1PM (https://www.eventbrite.com/e/the-future-of-academic-publishing-what-grad-students-need-to-know-tickets-77522906099)
+Stanford is currently "Ground Zero" for a major debate unfolding across the United States over the future of university press publishing, and its place within increasingly corporatized universities. This workshop is here to help PhD students in the Humanities and the Social Sciences understand how this debate affects them, and how they might want to get involved.
+Fantastic Futures: 2nd Int'l Conference on AI for Libraries, Museums, and Archives
+December 4-6, 2019 | Register Now (https://library.stanford.edu/projects/fantastic-futures)
+What role will libraries, archives, and museums play, as trusted sources of information, when more and more of the information we consume is algorithmically generated? How will the values of neutrality, privacy, authority, and preservation that these institutions advance help shape AI. How will our institutions adapt these values to a changing landscape? How can we put AI to work for us, to transform and elevate our services beyond 20th century modalities? Hosted by Stanford Libraries and the National Library of Norway.
+
+Our colleague and collaborator, Dr. Katie McDonough (now at the Alan Turing Institute), will return to Stanford to present at this conference. We'll also have Katie talk about the Living with Machines project (http://livingwithmachines.ac.uk/latest/)  at CESTA on Tuesday, December 2 - more details coming soon!
+Other Announcements
+
+
+** CFP: Revealing Meaning: Feminist Methods in Digital Scholarship
+------------------------------------------------------------
+Abstract due Nov. 22 (https://hfroehli.ch/2019/08/25/call-for-papers-revealing-meaning-feminist-methods-in-digital-scholarship/)
+Proposed by Kim Martin and Heather Froehlich, this volume seeks proposals for chapters in which digital methodologies engage with intersectional feminist scholarship.
+
+CFP: Building Legal Literacies for Text Data Mining
+Applications due: Dec. 20 (https://buildinglltdm.org/news/)
+This NEH-funded Institute for Advanced Topics in DH is designed for DH researchers & professionals to gain skills in navigating law, policy, ethics, and risk in DH text and data mining projects
+
+CFP:GRANTS-IN-AID funded by the Andrew W. Mellon Foundation, via Recovering the US Hispanic Heritage Program / US Latino Digital Humanities (USLDH)
+Applications due: Dec. 20 (https://artepublicopress.com/recovery-program/grantsinaid/)
+
+The University of Houston US Latino Digital Humanities (USLDH) program is a digital scholarship/research undertaking to provide training and research on US Latino recovered materials. Proposals must draw from recovered primary and derivative sources produced by Latinas/os in what is now the United States, dating from the Colonial Period to 1980 (such as Recovering the US Hispanic Literary Heritage collections, other repositories and/or the community).
+
+Women Writers Project
+Deadline - Jan. 24 (https://www.wwp.northeastern.edu/outreach/seminars/)
+Northeastern's Women Writers Project is hosting a series of NEH-funded seminars on using word embedding models in teaching and research.
+CFP: Journal of Open Humanities Data
+Currently inviting submissions. (https://openhumanitiesdata.metajnl.com/announcement/)
+The Journal of Open Humanities Data features peer reviewed publications describing humanities data, software, and ontologies with high potential for reuse. The JOHD's new Editor in Chief is Dr. Barbara McGillivray and is published by Ubiquity Press, an open access publisher.
+https://cesta.stanford.edu/
+https://twitter.com/cesta_stanford
+https://www.youtube.com/channel/UCok8JHwa7L9XR1FN6bftGyw/videos?view_as=subscriber
+Want to change how you receive these emails?
+You can update your preferences (*|UPDATE_PROFILE|*) or unsubscribe from this list (*|UNSUB|*) .
+Previous Digests (https://us9.campaign-archive.com/home/?u=d3edfb9438089c6e3817bee4d&id=ae053ecd6e)
+Copyright ©2019 |The Center for Spatial and Textual Analysis
+
+
+
+============================================================
+
+This email was sent to *|EMAIL|* (mailto:*|EMAIL|*)
+why did I get this? (*|ABOUT_LIST|*)     unsubscribe from this list (*|UNSUB|*)     update subscription preferences (*|UPDATE_PROFILE|*)
+*|LIST_ADDRESSLINE_TEXT|*
+
+*|REWARDS_TEXT|*

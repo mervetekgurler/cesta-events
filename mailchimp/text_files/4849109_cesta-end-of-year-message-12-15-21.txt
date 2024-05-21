@@ -1,0 +1,85 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+A Message from the Director
+
+Dear CESTA friends,
+
+With this last newsletter of 2021, we at CESTA send our warmest wishes for a restorative winter break.
+This Autumn, we finally reopened our physical space and welcomed a fantastic team of postdocs, visiting scholars (https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcesta.stanford.edu%2Fabout-us%2Fpeople%2Fpostdoctoral-and-visiting-scholars&data=04%7C01%7Ccrovee%40lsu.edu%7C67295ceb6373414f91cf08d9bebcc62c%7C2d4dad3f50ae47d983a09ae2b1f466f8%7C0%7C0%7C637750540248812457%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=VqXNGbu49kjVrux9WERzq840lrbAxFX16jX%2FtLPFuTw%3D&reserved=0)  and graduate students (https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcesta.stanford.edu%2Fpeople&data=04%7C01%7Ccrovee%40lsu.edu%7C67295ceb6373414f91cf08d9bebcc62c%7C2d4dad3f50ae47d983a09ae2b1f466f8%7C0%7C0%7C637750540248812457%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=lW4bSM2ijIjcJlrUykTyE8vo%2BDv%2F4ZbxBiZDJK7iDIc%3D&reserved=0) . We have launched, finally in-person
+again, this year’s DH Graduate Fellowship (https://cesta.stanford.edu/about-us/people/dh-graduate-fellows-2021-22)  program, and we are also working to bring back in-person the Undergraduate Research Internships, which will animate our open space even more starting in January. Our in-person meetings this past quarter have been immensely touching, often bringing together project members who had previously only worked together virtually.
+
+Like everyone else, we continue to adjust. For our talks and seminars, for example, we are experimenting with hybrid formats--hoping to maintain the faraway connections that Zoom made possible--while also recuperating the energy that comes from sharing space in direct conversation. Our Critical Data Practices workshop, launched remotely in 2020, has been using our large, long-unoccupied conference room. We will keep you updated about events and initiatives in the new year, which will include our CESTA Seminar Tuesday lunch talks, a new season of DH Long View lectures (in collaboration this coming year with Uppsala DH as well as UCL DH), and more.
+
+Finally, as we wrap up our business for the Fall quarter, we are in the midst of printing the 2020-2021 CESTA Anthology, attesting to the vibrancy of our ongoing collaborative work. We can’t wait to share this year's anthology with you--and to see you in 2022!
+
+With warmest wishes,
+Giovanna Ceserani
+New Cohort of Digital Humanities Graduate Fellows
+https://cesta.stanford.edu/about-us/people/dh-graduate-fellows-2021-22
+CESTA welcomes our new cohort of Digital Humanities Graduate Fellows! This year's cohort includes graduate students and postdocs from anthropology, art history, classics, East Asian studies, English, and sociology. Click here (https://cesta.stanford.edu/about-us/people/dh-graduate-fellows-2021-22) to learn more about our new fellows and their research projects.
+New Publications from Our Members
+
+Perceptions of Medieval Manuscripts: The Phenomenal Book
+Elaine Treharne
+
+Congratulations to Elaine Treharne on the release of her new book Perceptions of Medieval Manuscripts (OUP, 2021)!
+
+View the book on the Oxford University Press website (https://oxford.universitypressscholarship.com/view/10.1093/oso/9780192843814.001.0001/oso-9780192843814?rskey=DyUjke&result=7)
+
+The Registers of Slave Liberation in Colonial Senegal: Preliminary Analysis of the Evidence from 1894 to 1903
+Joshua Goodwin, Erica Ivins, Richard Roberts and Rebecca Wall
+
+Congratulations to the Senegal Liberations Project on the publication of their article!
+
+View the article (https://journals.openedition.org/slaveries/5495)
+
+Mark Your 2022 Calendar
+
+Digital Horizons, a new CESTA/SHC lecture series
+will launch on April 5, 2022, with a talk by Sylvester Johnson:
+Will Intelligent Machines Become Human? The History of the Fetish, the Future of the Cyborg, and Necropolitics
+From Aristotle’s ancient conception of the soul to Ibn Rushd’s 12th-century analytics of the intellect to the information theory underlying neural networks, scholars have queried the agency of things and the relationship between matter and its other (spirit?). Does agency inhere in material things? Can an assemblage of machine parts be a person? What distinguishes humans from mere objects? In this talk, Sylvester Johnson takes up these questions and proposes that the use of intelligent machines (in the form of artificial intelligence or machine-learning applications) for human enhancement has crystallized these age-old conundrums in a new key.
+
+Calling All Undergraduates!
+
+Applications are open for our 2022 Undergraduate Research Internship program!
+
+We have 24 different research projects seeking interns, many of them new this year. The 2022 program has two formats: a two-quarter part-time internship (January-June) and a part-time or full-time summer program (late June through August).
+
+Apply (https://forms.gle/wpJwaQkT48zqRKsCA)  for our internship program today! (https://forms.gle/wpJwaQkT48zqRKsCA)
+
+Applications will be reviewed on a rolling basis, so students are strongly encouraged to apply early. An important change: students who have previously interned for CESTA are required to fill out a new application form.
+
+For more information and to apply, visit our webpage (https://cesta.stanford.edu/news/undergraduate-research-opportunities-cesta-winter-spring-andor-summer-2022) .
+Applications close at 11.59 PM PT, January 5 2022.
+Questions? Send us an email. (mailto:cesta_stanford@stanford.edu)
+Happening Elsewhere
+
+SSDS Text Analysis & Machine Learning (TAML) Group
+Weekly meetings begin January 12, 2022. 2-4PM PST.
+Are you interested in learning to work with text data and machine learning but do not know how to get started? Join the SSDS Text Analysis & Machine Learning (TAML) Group (https://ssds.stanford.edu/taml) ! This community caters to beginners and advanced practitioners alike. Here, you can learn to navigate the text and machine learning landscapes in casual, informal ways that are right for your pace and learning abilities. This group will meet in the Velma Denning Room (120F Green Library) from 2-4PM on Wednesdays, but you can also join via Zoom.
+More Information. (https://ssds.stanford.edu/taml)
+
+Call for Papers
+
+Deadline: January 15, 2022, 11:59:59 PM (GMT-12)
+The Association for Computers and the Humanities (https://ach.org/) (ACH) and the Canadian Society for Digital Humanities (https://csdh-schn.org/)  will hold DH Unbound (https://dhunbound2022.ach.org/) , a collaborative virtual conference, from May 17-19, 2022.
+DH Unbound 2022 is guided by ACH and CSDH/SCHN’s commitments to equity and justice. The conference recognizes that digital humanities scholarship is inextricably sociopolitical. Therefore, we have chosen to forgo a theme to emphasize the inherent sociopolitical nature of the work and encourage all proposal writers to explicitly address the sociopolitical stakes of their work.
+More Information. (https://dhunbound2022.ach.org/cfp-dh-unbound-2022/)
+
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

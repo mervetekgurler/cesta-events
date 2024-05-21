@@ -1,0 +1,31 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Tomorrow at noon!
+
+"Getting Digital on Medieval Manuscripts"  (https://cesta.stanford.edu/events/stewart-brookes-getting-digital-medieval-manuscripts)
+
+Stewart Brookes
+Bodleian Library, Oxford University
+
+Tuesday, November 1 | 12-1.15 PM | Wallenberg Hall Rm 433A
+About this event: There are now many millions of high-resolution images of medieval manuscripts on-line. This is a huge step forward for public accessibility, but presents us with the challenge of what we might we do with this material beyond browsing with the “Turning the Pages” and IIIF viewers provided by repositories. How might, for instance, letter-forms or iconographic motifs be catalogued, curated and compared to support evidence-based scholarship? How fine-grained should our descriptions be? And do digital humanities projects and machine learning change the scope or even the nature of our research questions? In this seminar, we will look at a number of tools and approaches, exploring the ideas behind computer-assisted research.
+
+About the speaker: Dr. Stewart J. Brookes is a researcher at the Bodleian Library, Oxford, working on the retro-conversion and XML/TEI mark-up of the Bodleian’s online catalogue of medieval manuscripts (funded by the Tolkien Trust). He is a co-designer of Archetype (http://www.archetype.ink/) , an integrated suite of open-source, web-based tools for the study of medieval handwriting, art and iconography. Stewart is co-Director, with Joanna Tucker (Glasgow), of Models of Authority (http://www.modelsofauthority.ac.uk/) , and is on the Executive Board of Digital Medievalist. His publications include chapters on studying medieval handwriting from a Digital Humanities perspective and handwriting variation in Aldred’s gloss to the Lindisfarne Gospels. He is currently working with Elaine Treharne on a Catalogue of Manuscripts Containing Early English (Oxford University Press), a major revision and update of N.R. Ker’s highly influential volume of similar title.
+
+About this series: Every Tuesday lunchtime (12-1.15 PM) during the academic quarter, CESTA hosts events on topics relevant to the digital humanities. For information about upcoming events, visit our website (https://cesta.stanford.edu/events/cesta-seminar-series) .
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

@@ -1,0 +1,77 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+Tuesday, January 18, 12:00 to 1:15PM PST
+CESTA Seminar Series
+
+Yuliya Ilchuk
+
+"The Network Shape of the Russian Novel"
+Online, via Zoom. Register here. (https://stanford.zoom.us/meeting/register/tJApc-utrjMqH9Zxru_VGZJSPjTgERUQlrIi)
+
+About this talk: The Russian novel has been traditionally regarded as the novel of ideas, in which the conflicting views on the national identity and Russia’s relationship with the “other” are presented in the dramatized narrative. After Mikhail Bakhitn’s pioneering ideas of dialogism and polyphony of Fyodor Dostoevsky’s novels it became especially common to view the novel as a balanced dramatization of conflicts among polar opposites. In my ongoing research project on the network analysis of Russian realist and modernist novels, I approach the character networks as models of an emerging liberal society which, on the one hand, captured the socio-political trends of the time and, on the other, provided Russian society with ideas on how to shape a horizontal, heterarchical structure of social structure. The different network shapes of the Russian novels from realism to modernism  correspond to the underlying aesthetic and social changes of the Russian society before and after the revolution
+of 1917.
+
+About the speaker: Yuliya Ilchuk's research interests fall under the broad heading of cultural exchange, interaction, and borrowing between Russia and Ukraine. Her first book, Nikolai Gogol: Performing Hybrid Identity (University of Toronto Press, 2021), revises Gogol’s identity and texts as ambivalent and hybrid by situating them in the in-between space of Russian and Ukrainian cultures. In her ongoing research projects and teaching, she integrates traditional humanistic approaches to the text with computer assisted methods. Some of her recent projects include distant network analysis of the Russian realist novels as models of the emerging liberal society; geo-spatial analysis of the post-Soviet transformation of the city as a rhizome with multiple, non-hierarchical relationship between the old and new urban cultures; a study of Ukrainian atomopolises as spaces for the intensive implementation of lost utopian Socialist ideals; and a study of memory and space in protracted displacement in
+contemporary Ukrainian literature and film on/by refugees.
+Upcoming at CESTA
+
+January 25, 2022. 12:00-1:15PM PST.
+Eric Harvey
+"Beyond Compliance: Thinking Accessibly About the Digital Humanities"
+Online, via Zoom. Register here (https://stanford.zoom.us/meeting/register/tJcsdumrqzMoG9SHrQ5M6jiDRitgAq64A-EZ) .
+
+February 1, 2022. 12:00-1:15PM PST.
+Cecil Brown and Tylar Campbell, GMS Project
+"Liberty: Revival of African American Folk Culture in the Age of Digital Technology"
+Online, via Zoom. Register here (https://stanford.zoom.us/meeting/register/tJ0sf-CrqT0vGtPIJHalJgUVd-59ogO8cxzf) .
+
+February 8, 2022. 12:00-1:15PM PST.
+Angèle Christin
+"Algorithms in Practice"
+Online, via Zoom. Register here (https://stanford.zoom.us/meeting/register/tJEkdeispj0qE9T0zBy_m7uG7Fh0gU9EM-L0) .
+
+February 15, 2022. 12:00-1:30PM PST.
+DH Careers Series
+"DH Careers: Beyond the Professoriate"
+Online, via Zoom. Register here (https://stanford.us9.list-manage.com/track/click?u=d3edfb9438089c6e3817bee4d&id=cf041868ea&e=dcee313e6d) .
+Please note that this event runs later than other CESTA Seminars.
+
+Announcing the 2020-2021 CESTA Anthology
+
+It is our pleasure to announce the publication of the 2020-2021 CESTA Anthology, showcasing our research through students' contributions to CESTA projects!
+Find the CESTA 2020-2021 Anthology online here. (https://cesta.stanford.edu/news/cesta-summer-2021-research-anthology-online)
+Happening Elsewhere
+
+Call for Papers
+Deadline: January 15, 2022, 11:59:59 PM (GMT-12)
+The ACH (https://ach.org) and the CSDH (https://csdh-schn.org)  invite proposals for DH Unbound (https://stanford.us9.list-manage.com/track/click?u=d3edfb9438089c6e3817bee4d&id=002fb290ad&e=dcee313e6d) , a collaborative virtual conference to be held from May 17-19, 2022. More Information. (https://stanford.us9.list-manage.com/track/click?u=d3edfb9438089c6e3817bee4d&id=88d47a1e2c&e=dcee313e6d)
+
+Introduction to R
+
+January 18, 2022. 2-4PM PST.
+Online. More information (https://library.stanford.edu/events/cidr-introduction-r) . Register (https://appointments.library.stanford.edu/calendar/ssds/cidr-r-intro) .
+
+Python Visualization
+January 25, 2022. All day.
+Online. More information (https://library.stanford.edu/events/cidr-python-visualization) . Register (https://appointments.library.stanford.edu/calendar/ssds/cidr-python-viz) .
+
+New York Times TDM Archive
+The New York Times TDM Archive  (https://searchworks.stanford.edu/view/13937231) (1980-2020) is now available to Stanford University researchers for text data mining (TDM) research projects. More information (https://library.stanford.edu/blogs/stanford-libraries-blog/2021/12/breaking-news-new-york-times-tdm-archive-open-research) .
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

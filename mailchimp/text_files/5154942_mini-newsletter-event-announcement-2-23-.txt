@@ -1,0 +1,57 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+Tuesday, March 1, 12:00 to 1:15PM PST
+Leo Barleta
+"Simulating the Past: Agent-Based Modeling and Environmental Change in Early Brazil"
+Hybrid Event: In-Person at CESTA and via Zoom. Register for Zoom attendance here (https://stanford.zoom.us/meeting/register/tJYrd-uprzMiGtWXHZZBuOCeiYVF5hCDZXVS) .
+
+Note: This is our first in-person seminar since 2020. We are looking forward to welcoming you back into our space! A box lunch will be available to in-person attendees for takeaway.
+
+About this talk: This talk examines the use of computer simulations—particularly agent-based modeling (ABM)—as part of the digital humanists’ toolkit. ABM is a technique to simulate the behavior of individual agents, measuring the consequences of the interactions of these agents within a modeled environment. In this particular case study, the method served to replicate virtually the spatial dynamic of the expanding agricultural frontier in early Brazil. As argued by extensive literature, colonists’ adoption of slash-and-burn farming methods increased the pressure over the Atlantic rainforest, leading to deforestation. The agent-based model created for this study thus permits assessing the scale of this process in a situation in which primary evidence is scarce and mostly anecdotal. The presentation of the simulation and some results foregrounds a broader discussion of some potentials and limitations of ABM among digital humanities practitioners.
+
+About the speaker: Leonardo Barleta is a Postdoctoral Scholar at Stanford Data Science. He is a historian of Latin America, whose research interests focus mostly on the historical production of space, including topics ranging from territorial formation and geographic mobility to land tenure and environmental change to urbanization—all of which prominently feature digital methods. He earned his Ph.D. in History at Stanford University in 2021 with a dissertation entitled “Empire in the Backlands: Mobility and the Interiorization of the Portuguese Colonization in Brazil, 17th and 18th centuries.”
+Happening Elsewhere This Week
+
+Thursday, February 24, 10:00 to 11:00AM PST
+
+Intangible and Tangible Heritage in Mauritius and Southern Africa
+
+Online, via Zoom. Register here. (https://stanford.zoom.us/meeting/register/tJwkduCqrj4jHdFNvu6K4ZeZ89OFDF2g8bXq)
+
+Rose Boswell (Nelson Mandela U)
+"Disseminating, Popularising and Texturizing ICH in southern Africa and the Indian Ocean Region"
+
+Krish Seetah (Stanford)
+"Studying labouring lifeways can be a pathway to policy intervention: Archives and epidemics in the Indian Ocean World"
+
+About these talks: Prof. Rose Boswell’s talk will examine how Southern Africa and the southwest Indian Ocean islands of Mauritius, Zanzibar and Madagascar are rich in cultural heritage, specifically Intangible Cultural Heritage (ICH). However, this ICH is not well documented or disseminated in these regions, mainly because national governments there have tended to focus on the conservation, management and science communication of tangible heritage (TH). The presentation will acknowledge the potential importance of big data for comparative work, offer a discussion on the challenges of accessing multiple sources of data in southern Africa and the Indian Ocean islands noted above, and the relevance of collecting primary data to reflect the dynamic nature of ICH in these regions for more incisive cultural policymaking and implementation. Prof. Krish Seetah will present work that targets developments in data science tools, alongside rapid digitization of archival sources, and how have
+revolutionized big data approaches within studies of tangible heritage. The presentation will outline how data science tools can help improve our understanding of historical populations, with potential benefits for modern communities.
+
+This event is part of the “Reframing Enslaved Pasts” series, which is organized by Grant Parker and James T. Campbell. "Reframing Enslaved Pasts" is a Global Research Workshop (https://sgs.stanford.edu/news-eventsevents/global-research-workshops)  which discusses critical data practices around enslaved pasts, focusing on the methods and choices that underlie digital data projects.
+
+Friday, February 25, 12:00 to 1:00PM PST
+Kevin Fisher (U British Columbia)
+"Steps Toward a Digital Archaeology: New Approaches to Ancient Built Environments"
+Online, via Zoom. Register here. (https://stanford.zoom.us/meeting/register/tJYsdemupz4rGtw_EH83U5Ihp5qndUtI6IPa)
+
+About this talk: This talk will discuss some of the new digital/geospatial methods for detecting, recording and visualizing past built environments at various scales from specific excavation contexts, to individual buildings and entire urban landscapes. Research in Cyprus with the Kalavasos and Maroni Built Environments (KAMBE) Project as well as other digital initiatives will illustrate the use of various remote sensing technologies (archaeological geophysics, photogrammetry and terrestrial LiDAR) and methods of visualizing past built environments through 3D modeling and extended reality (i.e. virtual, augmented, and mixed reality). This talk addresses the potential and limitations of these methods to illuminate aspects of the material past.
+
+This workshop is funded by the Stanford Humanities Center and is part of a series titled “The Future of the Past: Classics + Technology.”
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

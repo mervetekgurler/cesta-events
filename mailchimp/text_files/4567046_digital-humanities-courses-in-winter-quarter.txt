@@ -1,0 +1,46 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Winter 2021
+Digital Humanities Courses
+Sharing with you a sampling of DH-related
+undergraduate courses coming up next quarter.
+CLASSICS 115 | HISTORY 238C | ITALIAN 115 | ENGLISH 115: Mapping the Grand Tour: Digital Methods for Historical Data
+Instructor: Giovanna Ceserani
+Classical Italy attracted thousands of travelers throughout the 1700s. Referring to their journey as the "Grand Tour," travelers pursued intellectual passions, promoted careers, and satisfied wanderlust, all while collecting antiquities to fill museums and estates back home. What can computational approaches tell us about who traveled, where and why? We will read travel accounts; experiment with parsing; and visualize historical data. Final projects to form credited contributions to the Grand Tour Project, a cutting-edge digital platform. No prior programming experience necessary.
+
+ENGLISH 184E: Literary Text Mining
+Instructor: Matt Warner
+Computational methods have made it possible to analyze literature in new ways and at new scales. This course trains students in theories and methods of computational literary studies. It requires no background in computer programming or literary criticism. We begin with fundamentals of the Python programming language before moving on to computational analyses of literary texts. Our analyses will be informed by critical readings. While programming distinguishes this course from many other humanities classes, this course is fundamentally about literature, and what we can learn about it at the new scales afforded by computation.
+
+ENGLISH 200C: Introduction to Manuscript Studies
+Instructor: Ivan Lupic
+An introduction to manuscript studies as an interdisciplinary field. Students will learn to read original manuscripts from the medieval and Renaissance periods in different scripts, be able to situate them materially, culturally, and intellectually, and will work on final projects focused on specific manuscript objects from the Stanford Special Collections.
+
+HISTORY 200M: Doing Digital History
+Instructors: Gordon Chang & Marie Saldana
+What is Digital History (DH)? We are living in a time in which teaching and learning is increasingly practiced through digital media. Is this simply history, done digitally? Or is there a fundamental shift happening in the way historians study and interpret the past? This course will attempt to unpack this question through a series of hands-on exercises designed to introduce students to the practice, theories, and methods of digital history.
+
+Through readings, discussions, and workshops, students will become familiar with current projects and debates in digital history. A series of tutorials will provide hands-on experience with a range of common digital history tools. The course will culminate in a final project in which students apply DH methodologies to their own research interests.
+
+No prior experience with the study of history, traditional or digital, or with digital technologies is required.  The course is organized around discussion and is limited in enrollment.  In the exploratory and collaborative spirit of DH, students are encouraged to engage with the course and suggest ways it might better address their interests.
+Course website (http://doingdigitalhistory.su.domains/)
+
+Learn about the Minor in Digital Humanities (https://dhminor.stanford.edu/)
+Apply now for a CESTA Research Internship
+in Winter, Spring, and/or Summer 2021
+CESTA's Research Internship Program provides opportunities for Stanford undergraduate students to collaborate on faculty-led projects throughout the academic year. Through structured research training, experimentation with cutting-edge technologies, and mentorship, Research Interns develop valuable academic and professional skills. Applications for Winter, Spring, and Summer 2021 positions are now being accepted. The deadline to apply is Monday, January 6, 2021 (by 11:59 pm).
+View the Full Announcement and Apply (https://cesta.stanford.edu/news/undergraduate-research-opportunities-cesta-winter-spring-andor-summer-2021)
+Subscribe to get weekly updates from CESTA (*|LIST:SUBSCRIBE|*)
+
+============================================================
+** Twitter (http://www.twitter.com/cesta_stanford)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

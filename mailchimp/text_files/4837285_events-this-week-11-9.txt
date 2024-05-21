@@ -1,0 +1,45 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Events this Week
+
+November 10, 5:30-7:30PM
+
+Critical Data Practices Workshop
+
+Outliers: The Unusual and The Regular
+Hybrid format. Register here (https://docs.google.com/forms/u/1/d/e/1FAIpQLSfZ4-irytWJSxGLDubl74UbeCQ7oeroADrGPj_3DbSfwTiWrQ/viewform?usp=send_form) .
+
+Presenters: Alison McQueen (Assistant Professor of Political Science), Giovanna Ceserani (Associate Professor of Classics), Nick Gardner (PhD Candidate, Classics), and Maciej Kurzynski (PhD Candidate, East Asian Languages & Cultures).
+
+About this workshop: One of the disciplinary differences that has surfaced in our turn to computation is the question of what we do about outliers. For fields that are interested in means, averages and majorities, outliers potentially represent noise within the data. For fields that primarily study individual works or people, outliers are often the subject of study themselves, whether because they are exemplary or simply because they are unusual. And for fields whose data is fragmented by time or access, simply differentiating outliers within a sample can be a challenge. How do we handle the appearance of outliers in our data? Do we use them to drive our attention or discard them as unrepresentative of our sample? Have computational methods changed our disciplinary approaches to bring our work closer together, or have they pushed us farther apart?
+The Critical Data Practices Workshop Series explores the unique challenges that face the arts and humanities as we ground data-driven insights in real-world human complexity, and in various social, cultural, and historical contexts.  The workshop gives particular attention to what the humanities have to say to data practices in the current moment and urges us to critically examine the issues of representation, equity, accessibility, and discoverability.
+
+November 11, 12-1PM
+
+Laure Thompson, UMass Amherst
+
+Magic and its Limits: Computational Categorization and Magical Gems
+Virtual (Zoom). Register here (https://stanford.zoom.us/meeting/register/tJMudumqrjgrH93RboYMlaK7_lwwOkUlFpcm) .
+
+Laure Thompson (Computer Science, University of Massachusetts Amherst) presents an investigation of how image-based computational methods can be used to study the modern category of Graeco-Roman "magical gems".
+
+About the speaker:
+Dr. Laure Thompson is an assistant professor in the College of Information & Computer Sciences at the University of Massachusetts Amherst and a member of UMass NLP. Her research bridges machine learning and natural language processing with humanistic scholarship. She builds tools and creates methodologies that enable scholars to use machine learning and statistical methods for studying humanities collections at scale. Her research focuses on understanding what computational models actually learn and how we can intentionally change what they learn. Since her work is centered on humanities applications, she works with a wide range of cultural heritage corpora: from texts of science fiction novels and medieval manuscripts to images of avant-garde journals and magical gems from the ancient Mediterranean.
+
+This event is part of "The Future of the Past", a Stanford Humanities Center Workshop hosted by Rachel Dubit, Annie Lamar, and Hans Bork.
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

@@ -1,0 +1,111 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Applications are now open for both CESTA's graduate and undergraduate programs! Applications for the Graduate Digital Humanities Fellows Program (https://cesta.stanford.edu/graduate-programs/digital-humanities-fellows-program) are due October 31st, and applications for the Undergraduate Research Program (https://cesta.stanford.edu/students/undergraduate-programs/undergraduate-research-internship-program) are due November 22nd! Learn more about the DH Fellows program at next week’s Lunch & Learn (https://cesta.stanford.edu/events/lunch-and-learn-cesta-dh-fellows-program)  and explore both programs on the CESTA webpage (https://cesta.stanford.edu/news/applications-now-open-cestas-undergraduate-graduate-programs) .
+Next Week at CESTA
+
+Lunch & Learn: The CESTA DH Fellows Program (https://cesta.stanford.edu/events/lunch-and-learn-cesta-dh-fellows-program)
+
+Tuesday, October 17 | 12:00-1:15 PM | Wallenberg Hall, 4th Floor
+
+CESTA's Digital Humanities Fellows Program (https://cesta.stanford.edu/graduate-programs/digital-humanities-fellows-program)  is designed to prepare graduate students for a future where digital scholarship is the norm. This year the program is tailored to advanced graduate students (ABD) and recent PhDs with digital projects that would benefit from integration into a community of scholars and practitioners, participation in curated workshops, and, perhaps most importantly, receive two quarters (up to 150 hours) of dedicated support from an undergraduate research intern.
+
+In advance of the upcoming application deadline (October 31), prospective applicants are encouraged to attend this workshop to learn more about the application process, expectations, and benefits of the DH Fellows Program. Participants will have an opportunity to meet and pose questions to  program director Will Fenton (https://profiles.stanford.edu/william-fenton)  and past program director, Nicole Coleman (https://profiles.stanford.edu/nicole-coleman) ; hear from recent fellows about their experience working with undergraduate research interns; and learn more about CESTA's support for graduate students.
+
+This workshop will include lunch and take place at the Stanford Center for Spatial and Textual Analysis in Wallenberg 433A. A Zoom link is available upon request from Office Management Intern, Daniela Perez (perezd20@stanford.edu (mailto:perezd20@stanford.edu) ).
+This Quarter at CESTA
+
+October 24 | 12-1:15 PM
+CESTA SEMINAR SERIES
+Estelle Freedman & Natalie Marine-Street
+Data-Mining, Meta-Data, Encoding, and More: Mixed Methods Analyses of Oral History Narratives (https://cesta.stanford.edu/events/estelle-freedman-and-natalie-marine-street-data-mining-meta-data-encoding-and-more-mixed)
+Wallenberg Hall 433A, lunch will be served, Co-Sponsored by the Department of History (http://history.stanford.edu/)
+
+November 2 | 5:30-7 PM
+MELLON SAWYER SEMINAR SERIES
+Alan Liu & Roopika Risam
+The Place of Data (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-place-data-alan-liu-and-roopika-risam)
+Wallenberg Hall 433A
+
+November 7 | 12-1:15 PM
+CESTA SEMINAR SERIES
+Maurice Lee & Brad Rittenhouse
+Experimenting with Emerson (https://cesta.stanford.edu/events/maurice-lee-and-brad-rittenhouse-experimenting-emerson)
+Wallenberg Hall 433A, Lunch will be served
+
+November 14 | 12-1.15 PM
+CESTA SEMINAR SERIES
+Svenja Guhr
+Sound in 19th Century Fiction (https://cesta.stanford.edu/events/svenja-guhr-sound-19th-century-fiction)
+Wallenberg 433A, lunch will be served, Co-Sponsored by the Department of English (https://english.stanford.edu/)
+
+November 16 | 9-12 PM
+Evelyn Gius & Svenja Guhr
+Introduction to CATMA 7 - Software for Digital Text Annotation and Analysis (https://cesta.stanford.edu/events/evelyn-gius-and-svenja-guhr-introduction-catma-7-software-digital-text-annotation)
+Wallenberg Hall 433A, Co-Sponsored by the Department of English (https://english.stanford.edu/)
+
+November 30 | 5:30-7 PM
+MELLON SAWYER SEMINAR SERIES
+Jennifer Morgan & Brad Pasanek
+Counting Before Computation (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-counting-computation-jennifer-morgan-brad-passanek)
+Wallenberg Hall 433A
+
+Upcoming Events Elsewhere
+
+October 16 | 2:00-4:00 PM
+CIDR Workshop
+CIDR: Introduction to R (https://events.stanford.edu/event/cidr_introduction_to_r_5828?utm_campaign=widget&utm_medium=widget&utm_source=Stanford+University)
+120F Green Library (Velma Denning Room)
+
+October 12 | 10:00-10:40 AM
+Stanford Research Computing Center
+Code & Coffee Session: (https://srcc.stanford.edu/events/code-coffee/code-coffee-basic-python)  Basic Python (https://srcc.stanford.edu/events/code-coffee/code-coffee-basic-python)
+Polya Hall 162
+
+October 18-20 | Full Schedule  (https://ruderman.sites.stanford.edu/schedule)
+David Rumsey Map Center
+Barry Lawrence Ruderman Conference on Cartography (https://events.stanford.edu/event/barry_lawrence_ruderman_conference_on_cartography)
+David Rumsey Map Center, Green Library
+
+CESTA News & Announcements
+Applications Now Open: The Digital Humanities Fellows Program (https://cesta.stanford.edu/graduate-programs/digital-humanities-fellows-program)
+
+Over two quarters (Winter and Spring), fellows will enter a community of practice that features workshops with special guests tailored to the needs of the cohort, works-in-progress presentations from fellows, and guidance from scholars and practitioners across campus. Each DH Fellow will benefit from two quarters of support from an undergraduate research intern whose interests and expertise closely align with the research project.
+
+To foster a community of practice, fellows gather for weekly meetings with their cohort. The program of meetings typically includes:
+* Skills workshops
+* Seminars from DH practitioners
+* Works-in-progress presentations
+* Graduate reading group
+
+Learn about last year's cohort (https://cesta.stanford.edu/people/dh-fellows)  or see the full list of fellows' projects (https://cesta.stanford.edu/graduate-programs/alumni) .
+Applications Now Open: (https://cesta.stanford.edu/students/undergraduate-programs/undergraduate-research-internship-program) Undergraduate Research Internship Program (https://cesta.stanford.edu/students/undergraduate-programs/undergraduate-research-internship-program)
+
+The Undergraduate Research Internship (https://cesta.stanford.edu/students/undergraduate-programs/undergraduate-research-internship-program) program empowers students to apply technologies across the Humanities and Social Sciences in ways that enhance our understanding of the world. Applications for the 2023-24 program are due November 22, 2023.
+
+The Undergraduate Research Internship provides opportunities for undergraduates to work on CESTA research projects throughout the academic year. Through structured research training, experimentation with cutting-edge technologies, and faculty mentorship, students develop valuable academic and professional skill sets. Work on lab projects allows students to apply their developing expertise in data science, GIS, and web development in tandem with humanities skills in critical thinking, creative problem-solving, and ethical decision-making.
+
+You can read about the experiences of recent interns in CESTA's 2022 Research Anthology (https://issuu.com/stanfordhumanities/docs/cesta_anthology_2022?fr=sN2Q0YzU2NDAzMTA) .
+
+The Humanities Research Intensive (https://humanexperience.stanford.edu/undergraduates/humanities-research-intensive)
+
+This seven-day course, taught over spring break, introduces freshmen and sophomores to the excitement of humanities research. It will prepare you to develop an independent summer research project, to work as a research assistant for a Stanford professor, or to apply for undergraduate research grants. Your laboratories will be the archives and museum collections at Stanford, where you’ll work closely with Professors Usha Iyer (Film and Media Studies), John Kieschnick (Religious Studies), Emanuele Lugli (Art and Art History), and Rose Salseda (Art and art History), doing hands-on research on ancient and modern books, manuscripts, images, and maps. Students who complete this course become Humanities Research Intensive Fellows and are eligible to apply for special HRI grants (https://humanexperience.stanford.edu/undergraduateshumanities-research-intensive/hri-fellowships)  to support follow-up research during the summer or following academic year.
+
+Application Deadline: Sunday, November 5, 11:59 pm.
+
+https://humanexperience.stanford.edu/undergraduates/humanities-research-intensive
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

@@ -1,0 +1,136 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+Tuesday, February 15, 12:00 to 1:30PM PST
+DH Careers Series
+"DH Careers: Beyond the Professoriate"
+Online, via Zoom. Register here (https://stanford.zoom.us/meeting/register/tJAkde6prT8sHNZ2zIQfQ01fAAqv2AtH01Xk) .
+Please note that this event runs later than other CESTA Seminars.
+
+Are you a graduate student looking for a career in the digital humanities, but feeling unsure about how to proceed?
+
+This panel showcases four graduates from humanities PhD programs who are now pursuing DH careers beyond the tenure track. They have generously agreed to share reflections on their professional trajectories to date, the day-to-day of their current work, and what graduate students hoping to follow in their footsteps need to know.
+
+Following a one-hour panel, attendees will have the opportunity to join the panelists in break-out rooms for an informal Q&A. This event is primarily intended for graduate students and early career researchers but is open to anyone who registers, regardless of institutional affiliation or career stage.
+
+Our panelists are:
+
+Ashley Champagne
+Head of Digital Scholarship Project Planning, Brown University Library
+PhD in English, University of California Santa Barbara
+
+Will Fenton
+Program Officer, Office of Challenge Programs, National Endowment for the Humanities
+PhD in English, Fordham University
+
+Emily McGinn
+Humanities Computing Curriculum Specialist, Center for Digital Humanities, Princeton University
+PhD in Comparative Literature, University of Oregon
+
+Katie McDonough
+Senior Research Associate, The Alan Turing Institute
+PhD in History, Stanford University
+DH Careers is a quarterly panel series showcasing the many professional paths for graduates with training in the digital humanities. You can watch our previous panel here (https://www.youtube.com/watch?v=NAw1vpXPU9A) . Our next panel, later this spring, will be on “DH Careers Beyond Academia".
+
+February 23, 2022. 5:30-7PM PST.
+Critical Data Practices Workshop
+Topic: Premodern Language
+Hybrid workshop (in person and remote). Email Matt Warner (mailto:mattgw@stanford.edu?subject=Critical%20Data%20Practices%20workshop)  to RSVP.
+
+As digital humanists, we work in modern languages, but we do not necessarily work on them. The technologies and resources we work with are often designed not just for particular modern languages (e.g. the focus of natural language research on English), but for particular language paradigms that are not historically immutable. For scholars working on early printed material, aligning modern tools with premodern conventions such as irregular spelling, now archaic language or rubrication is simply another part of doing work in the digital humanities, while for scholars working with manuscript sources, the problems—abbreviations, mixed use of scripts, variant letterforms and more—are even more numerous and inescapable. How do we approach these problems? What technical solutions are available, and what do we lose in implementing them? What can our work on pre-modern language teach us about how to work with modern language?
+DH Longview Seminar Series Launches March 10!
+
+This seminar series is co-hosted by scholars living in three countries, nine time zones apart. Building upon the successful “Digital Humanities Longview” series (2021), this is a further bridging of trans-Atlantic digital humanities centres to promote a global conversation. We are committed to fostering rich international discussions from a diverse range of perspectives, with an emphasis on reflective practice.
+
+Co-hosted by UCL Centre for Digital Humanities, the Centre for Digital Humanities, Uppsala, & the Center for Spatial and Textual Analysis, Stanford.
+March 10, 2022. 9:00AM PST.
+Nirmala Menon
+"Decolonizing Knowledge Infrastructures: Open Access and Multilingual Scholarly Publishing"
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_GvXS4WrzSHWAL7oecw46SQ) .
+
+April 7, 2022. 9:00AM PST.
+Grant Parker
+"Curating Enslaved Pasts of the Cape of Good Hope"
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_V1wQuBbkTUaZQRwIJ00DHQ) .
+
+April 21, 2022. 9:00AM PST.
+Ale Pålsson
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_tkkkashxRuKdqnZ8jljdQA) .
+
+May 5, 2022. 9:00AM PST.
+Roopika Risam
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_w8R3zm0SS66KpJ9WHHCQ-A) .
+
+May 19, 2022. 9:00AM PST.
+Tim Williams
+"Central Asia and the Role of Digital Heritage Inventories"
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_Ko_LDqfrRKeigtE5S4Ci2w) .
+Upcoming at CESTA
+
+March 1, 2022. 12:00-1:15PM PST.
+Leo Barleta
+“Simulating the Past: Agent-Based Modeling and Environmental Change in Early Brazil”
+Online, via Zoom. Register here (https://stanford.zoom.us/meeting/register/tJYrd-uprzMiGtWXHZZBuOCeiYVF5hCDZXVS) .
+
+March 8, 2022. 12:00-1:15PM PST.
+Mateusz Fafinski and Elaine Treharne
+"Networks of Memory: Automating Script in Time and Space"
+Online, via Zoom. Register here (https://cesta.stanford.edu/events/mateusz-fafinski-and-elaine-treharne-networks-memory-automating-script-time-and-space) .
+
+April 5, 2022. 4-6PM PST.
+Digital Horizons
+Sylvester Johnson
+"Will Intelligent Machines Become Human?"
+
+Happening Elsewhere
+
+Tableau Data Analysis & Visualization Workshops
+Monday evenings on 2/14 and 2/21 from 3-6PM PST.
+Online. More information (https://science.gmu.edu/news/free-tableau-data-analysis-visualization-power-start-workshop-series) . Register (https://us02web.zoom.us/meeting/register/tZcpf-yprTgiHNRk-yZin4bDp5Lgw6HeMoqN) .
+
+ACLS Digital Justice Grants
+
+Application Deadline: February 15, 2022. 9PM EST.
+These grants promote and provide resources for projects that diversify the digital domain, advance justice and equity, and/or contribute to public understanding of racial and social justice issues.
+More information (https://www.acls.org/programs/acls-digital-justice-grants/) .
+
+R Introduction to Text Analysis
+February 15, 2022. 2-4PM PST.
+Online. More information (https://library.stanford.edu/events/cidr-r-introduction-text-analysis) . Register (https://appointments.library.stanford.edu/calendar/ssds/r-text) .
+
+Digital Black Feminism: Toward a Black Feminist Technoculture
+February 16, 2022. 1-3PM PST.
+Online, via Zoom. More information (https://dhn.utoronto.ca/event/cdhi-visiting-speaker-series-catherine-knight-steele-on-digital-black-feminism/) . Register (https://utoronto.zoom.us/meeting/register/tZYsfu2vpzopGNBwF_tJk9_-kfQ0tFjxeh2Z) .
+
+Python Introduction to Machine Learning
+February 22, 2022. 2-4PM PST.
+Online. More information (https://library.stanford.edu/events/cidr-python-introduction-machine-learning) . Register (https://appointments.library.stanford.edu/calendar/ssds/python-ml) .
+
+Steps Toward a Digital Archaeology: New Approaches to Ancient Built Environments
+February 25, 2022. 12-1PM PST.
+Online, via Zoom. Register (https://stanford.zoom.us/meeting/register/tJYsdemupz4rGtw_EH83U5Ihp5qndUtI6IPa) .
+
+Under-Mapped Spaces Public Lecture 1: Pancakes & Silver: Historic Map Reading, Data Extraction
+February 28, 2022. 4:45-6PM PST.
+Online. More information (https://events-legacy.stanford.edu/events/941/94142/) . Register (https://stanford.zoom.us/webinar/register/WN_bObnyi9qT5-THHyQPe6ysg) .
+
+University of Oxford Launches MSc in Digital Scholarship
+Application Deadline: March 1, 2022.
+University of Oxford is offering a new MSc in Digital Scholarship. More information (https://www.humanities.ox.ac.uk/mscdigsch) .
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

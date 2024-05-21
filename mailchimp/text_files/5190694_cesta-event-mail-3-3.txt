@@ -1,0 +1,71 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+Tuesday, March 8, 12:00 to 1:15PM PST
+Mateusz Fafinski and Elaine Treharne
+"Networks of Memory: Automating Script in Time and Space"
+Hybrid Event: In-Person at CESTA and via Zoom. Register for Zoom attendance here (https://stanford.zoom.us/meeting/register/tJckdOmpqzssHdOqnoQEN9dJJTnituBauKeW) .
+
+Note: This seminar will be a hybrid event. We are looking forward to welcoming you back into our space! A box lunch will be available to in-person attendees for takeaway. Zoom attendees can register using the link above.
+
+About this talk: This seminar will introduce participants to a new digital project on two major manuscripts surviving from the earlier thirteenth century that attest to the commemoration of senior female religious figures. We have created an interactive map that displays historical and geographical data, coupled with palaeographical and contextual investigation, of some four hundred religious houses. From this have emerged extensive networks of religious association that are beginning to yield rich results, encouraging an essential reappraisal of the development of writing from 1200-1250 and a reassessment of our understanding of literacy and memorialization in this period.
+
+About the speakers: Elaine Treharne, the Roberta Bowman Denning Professor in the Stanford Department of English, is a Welsh medievalist with specializations in manuscript studies, archives, information technologies, and early British literature. Recent publications include Perceptions of Medieval Manuscripts: The Phenomenal Book (Oxford University Press, 2021) and, with Claude Willan, Text Technologies: A History (Stanford University Press, 2019). Her newest work concerns the application of machine learning and AI to investigate medieval manuscripts and the transmission of textual culture. Two new book projects are underway: an Introduction to Manuscript Studies; and a new collaboration with Greg Walker, Landscapes of Immortality, which investigates sacred sites, memorialisation, and the human desire to be remembered.
+
+Mateusz Fafinsk is a historian and digital humanist, currently a postdoc at University of Lausanne, and an Assistant Lecturer at Freie Universität Berlin. Previously, he was a TextTechnologies Postdoctoral Fellow at Stanford University. Mateusz  works on the nature of historical sources in the digital sphere, mapping medieval Latin manuscripts, and the role of urban space in Early Medieval societies as well as the inheritance of Rome in the post-Roman world. He is the author of Roman Infrastructure in Early Medieval Britain: The Adaptations of the Past in Text and Stone (Amsterdam University Press, 2019).
+Critical Data Practices
+
+March 9, 2022. 5:30-7PM PST.
+Critical Data Practices Workshop:
+Best Practices for Presenting Technical Results
+Hybrid workshop: register here (https://forms.gle/ZJbqXSzcbNC7cStS6)  (in-person and remote)
+
+Interdisciplinary work is often considered in terms of differences of subject matter or methodology, but when it comes to sharing and presenting scholarly labour, disciplinary conventions vary enormously as well. As scholars in the digital humanities we have to negotiate between these various presentational practices, especially in the context of presenting work grounded in technical methods to traditional humanistic audiences. Do we include tables, equations or data visualizations in our writing—should we draw on the writing practices of more technical disciplines, or eschew them? Are there particular humanistic affordances to plotting and visualizing data, and how to we combine these methods with the writing styles favoured by humanists (and our journals, conferences and publications)? And, when we do present our work to scholars for whom the volume of writing is the metric by which labour is judged, how do we convey the work involved in the production and presentation of our results?
+Equally, how do we avoid creating an aura of mystique around our computational and mathematical practices? We all know that our use of data requires new humanistic technologies and methods for analysis, but what new methods are required to share that work?
+DH Long View Seminar Series Launches March 10
+
+This seminar series (https://cestastanford.github.io/) is co-hosted by scholars living in three countries, nine time zones apart. Building upon the successful “Digital Humanities Longview” series (2021), this is a further bridging of trans-Atlantic digital humanities centres to promote a global conversation. We are committed to fostering rich international discussions from a diverse range of perspectives, with an emphasis on reflective practice.
+
+Co-hosted by UCL Centre for Digital Humanities, the Centre for Digital Humanities, Uppsala, & the Center for Spatial and Textual Analysis, Stanford.
+
+March 10, 2022. 9:00AM PST.
+Nirmala Menon
+"Decolonizing Knowledge Infrastructures: Open Access and Multilingual Scholarly Publishing"
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_GvXS4WrzSHWAL7oecw46SQ) .
+
+This talk will examine the emerging areas of research in Digital Humanities in India by an examination of the term “Digital Humanities” and its uneven and uncertain trajectory in the Indian research ecosystem. As with other systems around the world, DH in India is complex and contextual and each of us involved in the disciplinary practice encounter resistance and skepticism. Resistance to what is perceived as a deliberate distancing from the larger Humanities queries, scepticism about appropriating the rhetoric of STEM disciplines merely as a tool for greater legitimacy and validation. But of course DH is far more than a sum of its criticisms and scepticisms. I will address why it is imperative that the digital be harnessed, critiqued, deconstructed and dissected precisely so that the issues that Humanities scholars have been invested in continue to be at the centre of the development, deployment and dissemination of technology.
+Upcoming at CESTA
+
+March 15, 2022. 12:00-1:15PM PST.
+Mark Ravina
+"Rethinking Borders in a Digital Age"
+Hybrid Event: In-Person at CESTA and via Zoom. Register for Zoom attendance here (https://stanford.zoom.us/meeting/register/tJYqdOCvpz0jG9X-VsjxrFiQH8-76StohKn4) .
+
+April 5, 2022. 4-6PM PST.
+Digital Horizons
+Sylvester Johnson
+"Could a Robot Feel Pain? Race, Technology, and the Political Problem of Personhood"
+More information (https://cesta.stanford.edu/events/first-digital-horizons-talk-sylvester-johnson-could-robot-feel-pain-race-technology-and) .
+
+Happening Elsewhere
+
+Accessing and Analyzing Large Corpora in the HathiTrust Research Center
+March 8, 2022. 2-4PM PST.
+Online. More information (https://library.stanford.edu/events/accessing-analyzing-large-corpora-hathitrust-research-center) . Register (https://appointments.library.stanford.edu/calendar/ssds/corpora-htrc) .
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

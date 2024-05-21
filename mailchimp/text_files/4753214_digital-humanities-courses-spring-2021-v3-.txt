@@ -1,0 +1,66 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Spring 2021 Courses
+Check out these undergraduate courses offered by various CESTA faculty and advanced researchers next quarter, some of which may count for the Digital Humanities minor (https://dhminor.stanford.edu/) .
+
+Visit ExploreCourses (https://explorecourses.stanford.edu/) for complete and up-to-date course details.
+(Descriptions below may be abbreviated.)
+AFRICAAM 145B | HISTORY 45B | HISTORY 145B
+Africa in the 20th Century
+Instructor: Joel Cabrita
+CREATIVITY. AGENCY. RESILIENCE. This is the African history with which this course will engage. African scholars and knowledge production of Africa that explicitly engages with theories of race and global Blackness will take center stage. TRADE. RELIGION. CONQUEST. MIGRATION. These are the transformations of the 20th century which we shall interrogate and reposition. Yet these groundbreaking events did not happen in a vacuum. As historians, we also think about the continent's rich traditions and histories prior to the 20th century. FICTION. NONFICTION. FILM. MUSIC. Far from being peripheral to political transformation, African creative arts advanced discourse on gender, technology, and environmental history within the continent and without. We will listen to African creative artists not only as creators, but as agents for change.
+
+Prof. Joel Cabrita directs "Visible Bodies: A Digital Archive of Twentieth-Century African Female Writers" at CESTA.
+AFRICAST 115 | AFRICAST 215
+Excavating Enslavement
+Instructor: Grant Parker
+This is a project-based course, intended to scaffold a joint initiative, Aftermaths of Enslavement: curating legacies publicly. Both course and project seek to better understand enslaved pasts by (a) curating materials that advance scholarly research, using technologies that maximize access and utility; and (b) by developing learning materials for schools and popular audiences by working with heritage professionals and teachers. The focus is on the Indian Ocean World, particularly the Cape (South Africa) and Mauritius, within global and comparative frameworks. Readings for each week will juxtapose Cape and other slave systems.
+
+Prof. Grant Parker directs "Aftermaths of Enslavement: Curating Legacies Publicly" at CESTA.
+ARCHLGY 134 | ARCHLGY 234 |  ARTHIST 284B
+Museum Cultures: Material Representation in the Past and Present
+Instructor: Christina Hodge
+Students will open the "black box" of museums to consider the past and present roles of institutional collections, culminating in a student-curated exhibition. Today, museums assert their relevance as dynamic spaces for debate and learning. Colonialism and restitution, the politics of representation, human/object relationships, and changing frameworks of authority make museum work widely significant and consistently challenging. Through thinking-in-practice, this course reflexively explores "museum cultures": representations of self and other within museums and institutional cultures of the museum world itself.
+
+Dr. Christina Hodge directs "Before Stanford" and "Women in Provenance" at CESTA.
+
+Note: If you're trying to enroll in the Spring Museum Cultures Course but are told it's full,  please email the Student Services Coordinator at Archaeology for assistance, Olivia Bethel (ofbethel@stanford.edu (mailto:ofbethel@stanford.edu) ).
+COMPLIT 283A | COMPLIT 383A | GERMAN 283A | GERMAN 383A | RELIGST 283A | RELIGST 383A
+Modern Notions of 'The Holy'
+Instructor: Amir Eshel
+This course explores the question, "What may we call 'holy' in the modern era?" by focusing on key writers and thinkers, who in various ways, and in different times raised this question: Friedrich Hölderlin, Hermann Cohen, Franz Kafka, Martin Heidegger, Martin Buber, Franz Rosenzweig, Else Lasker-Schüler, Walter Benjamin, Ernst Bloch, Hannah Arendt, Margarete Susman, Nelly Sachs, Paul Celan, and Judith Butler. This course will be synchronous-conducted, but will also use an innovative, Stanford-developed, on-line platform called Poetic Thinking. Poetic Thinking allows students to share both their scholarly and creative work with each other. Based on the newest technology and beautifully designed, it will greatly enhance their course experience.
+
+Prof. Amir Eshel directs the Poetic Media Lab (https://poeticmedia.stanford.edu/) and the "Poetic Thinking" project at CESTA.
+CS 275B | MUSIC 254
+Computational Music Analysis
+Instructors: Craig Sapp and Eleanor Selfridge-Field
+Leveraging off three synchronized sets of symbolic data resources for notation and analysis, the lab portion introduces students to the open-source Humdrum Toolkit for music representation and analysis. Issues of data content and quality as well as methods of information retrieval, visualization, and summarization are considered in class. Grading based primarily on student projects. Prerequisite: 253 or consent of instructor.
+
+Dr. Craig Sapp co-directs the Josquin Research Project (https://josquin.stanford.edu/) with Prof. Jesse Rodin at CESTA.
+ENGLISH 50B
+A Humanist's Guide to Art, Community, Design, and the Earth
+Instructors:  Lisa Hicks, Dan Kim, and Elaine Treharne
+This short, intensive seminar features Humanities Scholar & Artist in Residence Clare Whistler (visiting from England April 15-30) and will meet for dialogue, workshop, creation, and improvisation. This workshop will help students to think through methods of humanistic inquiry as ways of integrating meaning and purpose into their lives; it will focus on projects, research, collaborations, walking explorations, and relationships. This course will be of interest to students who would like to maintain humanistic values, make a decent living, find good mentors and collaborators, and create communities that are attentive to their constructed and natural environments. This year's course will center on personal assignments and will focus in particular on the theme of gardens.
+
+Prof. Elaine Treharne directs Text Technologies (https://texttechnologies.stanford.edu/) at CESTA.
+HISTORY 200J | AMSTUD 200J
+Doing Oral History
+Instructors: Estelle Freedman & Natalie Marine-Street
+Students explore exemplary historical works based on oral histories and develop a range of practical skills while completing their own interviews. Topics include oral history and narrative theory, interview techniques, transcript preparation, and digital archiving. Students also learn how to analyze interviews using both qualitative and quantitative methods, practice writing history using oral evidence, and experiment with digital humanities approaches for disseminating oral history, including the Stanford Oral History Text Analysis Project. This course forms part of the "Doing History" series: rigorous undergraduate colloquia that introduce the practice of history within a particular field or thematic area.
+
+Prof. Estelle Freedman & Dr. Natalie Marine-Street co-direct the Oral History Text Analysis Project at CESTA.
+Learn about the Digital Humanities Minor (https://dhminor.stanford.edu/)
+
+============================================================
+** Twitter (http://www.twitter.com/cesta_stanford)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+** Subscribe to get weekly updates from CESTA (*|LIST:SUBSCRIBE|*)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

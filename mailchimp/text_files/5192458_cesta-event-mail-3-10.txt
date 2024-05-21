@@ -1,0 +1,76 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+Tuesday, March 15, 12:00 to 1:15PM PST
+Mark Ravina
+"Rethinking Borders in a Digital Age"
+Hybrid Event: In-Person at CESTA and via Zoom. Register for Zoom attendance here. (https://stanford.zoom.us/meeting/register/tJYqdOCvpz0jG9X-VsjxrFiQH8-76StohKn4)
+
+Note: This seminar will be a hybrid event. We are looking forward to welcoming you back into our space! A box lunch will be available to in-person attendees for takeaway. Zoom attendees can register using the link above.
+
+About this talk: The rise of “born digital” maps requires a rethinking of how we draw borders. Digital maps are algorithmic: the smooth lines of borders result from mathematical rules. While border lines on maps were once freehand patterns in graphite or ink, borders created by software assume exact spatial coordinates connected by formulas. But whose data and which formulas? Over the past few decades, researchers have created a rich vocabulary for discussing frontiers, contact zones, and other shared and contested spaces, but our cartographic vocabulary still favors simple linear borders. Born digital maps thus invite a combination of data science and critical theory, exploring the power relations and assumptions behind seemingly objective mundane or practices. This paper explore these questions in terms of early modern Japan: how can we draw maps that depict confusion, ambiguity, or contestation?
+
+About the speaker: Mark Ravina is Professor of History at the University of Texas at Austin. His specialty is Japanese history, especially the transnational and international dimension of state-building. His third book, To Stand with the Nations of the World: Japan’s Meiji Restoration as World History was published in 2017 by Oxford University Press and won the best book prize of the Southeast Conference of the Association for Asian Studies. He is currently working on two digital humanities projects. The first employs text mining to explore changes in Japanese political vocabulary in the 1870s and 1880s. The second focuses on the challenge of mapping changing political and administrative borders in nineteenth-century Japan.
+DH Long View Seminar Series
+
+This seminar series (https://cestastanford.github.io/) is co-hosted by scholars living in three countries, nine time zones apart. Building upon the successful “Digital Humanities Longview” series (2021), this is a further bridging of trans-Atlantic digital humanities centres to promote a global conversation. We are committed to fostering rich international discussions from a diverse range of perspectives, with an emphasis on reflective practice.
+
+Co-hosted by UCL Centre for Digital Humanities, the Centre for Digital Humanities, Uppsala, & the Center for Spatial and Textual Analysis, Stanford.
+April 7, 2022. 9:00AM PST.
+Curating Enslaved Pasts of the Cape of Good Hope
+Grant Parker
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_V1wQuBbkTUaZQRwIJ00DHQ) .
+
+April 21, 2022. 9:00AM PST.
+SWECARCOL. Swedish Caribbean Colonialism 1784–1878: Research, Challenges and Opportunities for Caribbean Digital History
+Ale Pålsson and Victor Wilson
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_tkkkashxRuKdqnZ8jljdQA) .
+
+May 5, 2022. 9:00AM PST.
+Roopika Risam
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_w8R3zm0SS66KpJ9WHHCQ-A) .
+
+May 19, 2022. 9:00AM PST.
+Central Asia and the Role of Digital Heritage Inventories
+Tim Williams
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_Ko_LDqfrRKeigtE5S4Ci2w) .
+
+June 2, 2022. 9:00AM PST.
+Indigenous Knowledge in Digital Humanities
+Jessie Loyer
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_eXAu9r6XSu-nsFYlVNCYPw) .
+Preserving Ukrainian Cultural Heritage
+
+SUCHO Volunteers Preserve Ukrainian Digital Content
+Saving Ukrainian Cultural Heritage Online (SUCHO) is a group of cultural heritage professionals – librarians, archivists, researchers, programmers – working together to identify and archive at-risk sites, digital content, and data in Ukrainian cultural heritage institutions while the country is under attack.
+For more information or to volunteer, visit SUCHO here (https://www.sucho.org/) .
+
+Upcoming at CESTA
+
+April 5, 2022. 4-6PM PST.
+Digital Horizons
+Sylvester Johnson
+"Could a Robot Feel Pain? Race, Technology, and the Political Problem of Personhood"
+More information (https://cesta.stanford.edu/events/first-digital-horizons-talk-sylvester-johnson-could-robot-feel-pain-race-technology-and) .
+
+In Case You Missed it
+Watch Cecil Brown and Tylar Campbell present “Liberty!: Revival of African American Folk Culture in the Age of Digital Technology" onCESTA's YouTube channel (https://www.youtube.com/channel/UCok8JHwa7L9XR1FN6bftGyw) .
+
+https://youtu.be/VGb1kWem7Ck
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University
