@@ -1,0 +1,671 @@
+
+
+Center for Spatial and Textual Analysis | Spatial History Project — Humanities + Design — Literary Lab
+
+Center for Spatial and Textual Analysis
+
+Spatial History Project — Humanities + Design — Literary Lab
+
+Home
+About CESTA
+CONTACT
+
+Filter
+
+All
+
+Courses
+
+Events
+
+Job Announcements/Opportunities
+
+News
+
+Publications
+
+Individual CESTA Lab Links
+
+Humanities + Design
+
+Literary Lab
+
+Spatial History Project
+
+Events of Interest
+
+Hestia2 Workshop at CESTA – Nov. 4-5
+
+Posted in: 
+Events
+
+Kindred Britain: An Introduction with Nicholas Jenkins, Elijah Meeks, and Scott Murray
+
+Posted in: 
+Events
+
+Crowdsourcing California’s Conservation History: A Call to Action
+
+Posted in: 
+Events
+, 
+Job Announcements/Opportunities
+
+CESTA Presents Glauco Mantegari – Linked Data, Voltaire, and Early-Modern Networks: An Ongoing Experiment
+
+Posted in: 
+Events
+
+CESTA Presents Maria McVarish – Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies
+
+Posted in: 
+Events
+
+Visualizing Complexity and Uncertainty: Giorgio Caviglia @ CESTA 3pm May 29
+
+Posted in: 
+Events
+
+Project Updates and News
+
+Posted in: 
+News
+
+Humanities + Design Receives NEH Grant!
+
+Posted in: 
+News
+
+CESTA Crowdsourcing Projects in the Stanford News
+
+Posted in: 
+News
+
+Diarna visits CESTA
+
+Posted in: 
+News
+
+CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories
+
+Posted in: 
+News
+
+New Publication by Matthew Booker
+
+Posted in: 
+News
+, 
+Publications
+
+New Faces Around CESTA
+
+Posted in: 
+News
+
+New Humanities + Design Graduate Fellows
+
+Posted in: 
+News
+
+Press for Rebooting History East Palo Alto Project
+
+Posted in: 
+News
+
+Press Release: Erik Steiner and Spatial History Project Participates in National “Designing Ingelligent Environments” Workshop
+
+Posted in: 
+News
+
+Job Announcements/Opportunities
+
+Crowdsourcing California’s Conservation History: A Call to Action
+
+Posted in: 
+Events
+, 
+Job Announcements/Opportunities
+
+Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History
+
+Posted in: 
+Job Announcements/Opportunities
+
+Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project
+
+Posted in: 
+Job Announcements/Opportunities
+
+Glen Worthey: Digital Humanities, or Seven Decades of the New New Thing – CESTA, Aug. 17th
+
+Posted in: 
+Job Announcements/Opportunities
+
+Tags
+ArcGIS
+
+California
+
+CESTA
+
+CESTA Presents
+
+China
+
+courses
+
+crowdsourcing
+
+diaspora
+
+digital history
+
+digital methods
+
+East Palo Alto
+
+Gephi
+
+GIS
+
+Holocaust
+
+Humanities + Design
+
+Illustrator
+
+InfoViz
+
+Javascript
+
+Jean-Pierre Dupuy
+
+job announcements
+
+Johanna Drucker
+
+knowledge
+
+KQED
+
+Lab Announcements
+
+mapping
+
+Mapping the Republic of Letters
+
+Maria Santos
+
+national parks
+
+Nicole Coleman
+
+open house
+
+ORBIS
+
+Python
+
+Rebooting History
+
+Rome
+
+Spatial History Project
+
+SSHW
+
+Stanford Humanities Center
+
+storyboarding
+
+symposium
+
+Time + Networks
+
+Visualizing Complexity
+
+Visualizing Evidence
+
+workshop
+
+Yellow River
+
+Zephry Frank
+
+Recent Posts
+
+Hestia2 Workshop at CESTA – Nov. 4-5
+
+657
+
+Kindred Britain: An Introduction with Nicholas Jenkins, Elijah Meeks, and Scott Murray
+
+Humanities + Design Receives NEH Grant!
+
+Crowdsourcing California’s Conservation History: A Call to Action
+
+Recent Comments
+Archives
+
+October 2013
+
+September 2013
+
+August 2013
+
+July 2013
+
+May 2013
+
+April 2013
+
+March 2013
+
+February 2013
+
+January 2013
+
+November 2012
+
+October 2012
+
+August 2012
+
+July 2012
+
+June 2012
+
+May 2012
+
+	                	Hestia2 Workshop at CESTA – Nov. 4-5	                
+
+Hestia2@Stanford: Visualizing Complex Networks
+
+450 Serra Mall, Building 160, Rm 433A
+
+Stanford, CA 94305
+
+http://hestia.open.ac.uk/
+
+November 4, 2013, 12:00 – 5:00 p.m. and
+
+November 5, 2013, 9:00 a.m. – 5:00 p.m.
+
+The Center for Spatial and Textual Analysis will host the next Hestia2 event November 4-5 in Wallenberg Hall at Stanford University. During this one and one half day seminar we will explore network analysis and uncertainty in data from a number of different perspectives. It will also be an unveiling of a number of new projects.
+
+On the first day, beginning at noon, we will learn about data intelligence based on work done at Quid, a data analytics software company based in San Francisco. Then Walter Scheidel and Elijah Meeks will present Orbis 2.0, and Dennis Wuthrich of Farallon will share Arches, a new open-source geospatial software system for cultural heritage inventory and management.
+
+The second full program day will include a presentation from the Stanford Literary Lab on Network Theory and Dramatic Structure, comparing dramatic networks in plays from ancient Greece and Rome, Renaissance England and France, 18th-century Germany, and 19th-century Norway. And we’ll have a lunchtime talk on the geography of digestion and a geography of medical body sensors by Nick Bauch followed by a tour of networks in digital maps by Stanford’s Digital and Rare Maps Librarian.
+
+There will also be two workshops with an opportunity for deeper engagement with new tools: Nicole Coleman and Giorgio Caviglia (DensityDesign) will offer a workshop on Palladio, a new platform for visualization of historical data. And Karl Grossner and Elijah Meeks will offer a workshop on Topotime, a new data model and graphical layout they have been working on that is designed to handle fuzzy temporal bounds and cyclical time from.
+
+Both days will include early evening receptions in the newly renovated CESTA workspace in Wallenberg Hall with large-screen displays of work presented during the conference as well as new digital humanities work going on at CESTA and the Stanford University Libraries.
+
+Registration is required for the event. Register at 
+https://www.eventbrite.com/
+event/8878063527
+
+Events
+
+Shortlink
+
+Please join us for our first 
+CESTA Presents 
+event of the new school year:
+
+Cecil Brown
+
+George Moses Horton Slave Poet and Hip-Hop Prototype
+
+Thursday, October 10th, 1 PM
+
+Wallenberg Hall (Building 160)
+
+Fourth Floor, Room 433A
+
+Professor Cecil Brown (U C Berkeley scholar) will lecture on George Moses Horton, an African American slave poet, who lived from 1798 to 1883. Professor Brown maintains that Digital Humanities can reveal the hidden treasures of one of the most brilliant poets of Early American Culture.
+
+Event is free and open to the public – please pass this announcement along to anyone who might be interested.
+
+News
+
+Shortlink
+
+	                	Kindred Britain: An Introduction with Nicholas Jenkins, Elijah Meeks, and Scott Murray	                
+
+30 October 2013 (Wednesday), 5:00pm in the Terrace Room, Margaret Jacks Hall
+
+Kindred Britain
+: An Introduction
+
+https://english.stanford.edu/
+events/kindred-britain-
+introduction-0
+
+Nicholas Jenkins, Elijah Meeks and Scott Murray will present their work on 
+Kindred Britain
+, a new Stanford digital humanities website, published by Stanford University Libraries.
+
+This interactive site presents a vision of British culture and history seen through the lens of family ties. 
+Kindred Britain 
+is built on a customized database of nearly 30,000 individuals who either are British or have a familial relationship to a British person. Records in the database span the last 15 centuries and include the noteworthy and the notorious – from prime ministers, novelists and scientists to lunatics, misfits and criminals. Kindred Britain can show a family link between any two people in the database. The site can quickly diagram how a monarch connects to a sea captain, a composer to a squire, a diarist to a doctor, a poet to a banker.
+
+Jenkins, Meeks and Murray will talk about the process of creating 
+Kindred Britain
+, about the site’s technical and design architecture, about 
+Kindred Britain
+‘s place in the landscape of digital humanities projects and about the possibilities for intersections between humanities scholarship and the web.
+
+See also: 
+http://news.stanford.
+edu/news/2013/august/kindred-
+britain-database-082613.html
+
+Events
+
+Shortlink
+
+	                	Humanities + Design Receives NEH Grant!	                
+
+Stanford digital humanities researchers receive NEH grant
+
+August 19th, 2013
+
+Humanities+Design at Stanford
+
+A grant from the National Endowment for the Humanities (NEH) will enable Stanford researchers to develop a suite of network visualization tools specifically designed for humanities research.
+
+DAN EDELSTEIN
+, an associate professor of French, and history Professor 
+PAULA FINDLEN
+ are the principal investigators of “Networks in History,” which was awarded nearly $300,000 from the NEH.
+
+The grant will allow Edelstein, Findlen and their colleagues to build on visualization tools they developed for 
+Mapping the Republic of Letters
+, a Stanford digital humanities endeavor that is using technology to analyze the circulation of people, letters and objects during the 17th and 18th centuries.
+
+Drawing from an array of digitized materials from the Stanford University Libraries, Oxford University, Bibliotheque National de France, Centre National de la Recherché Scientifique and other archives around the globe, Mapping the Republic of Letters projects have given scholars new perspectives on the social networks that connected the intellectuals of the European Enlightenment.
+
+A scholar of 18th-century French history and literature, Edelstein has been using metadata provided by the Electronic Enlightenment Project at Oxford University to situate 
+Voltaire’s correspondence network
+ within the broader Enlightenment Republic of Letters.
+
+However, as Findlen, Edelstein and other humanities scholars experimented with the data through a range of case studies, including interactive visual representations of 
+Benjamin Franklin
+’s and 
+John Locke
+’s social networks, they discovered the tools were lacking.
+
+“Almost all of the data visualization tools that are currently available have been designed with modern data sets in mind,” Edelstein said. Existing tools, such as those for statistical, literary and spatial analysis, “don’t work well for historical data, which tends to be messy and incomplete,” he added.
+
+NICOLE COLEMAN
+, the academic technology specialist who contributed to the development of each of the Mapping the Republic of Letters case studies, said that as she and the researchers built those visualizations they didn’t realize they were at the “beginning of a deep exploration of how to use graphical interfaces for humanistic inquiry.”
+
+Customized tools
+
+For example, to explore travel on the famed Grand Tour, the team created an interactive version of Joseph Priestley’s
+ A Chart of Biography. 
+Written in 1765, it traces significant figures throughout history and is one the earliest such timelines. With the digital version, scholars can pan and zoom, click through layers of information, and sort and filter according to any number of attributes associated with individuals represented in the database.
+
+Traditional computational visualization formats, like graphs, bar charts and scatterplots, can be abstract, but Coleman said customized tools contextualize fragmentary information and “make visible possible connections that are not otherwise in the data.”
+
+With this more nuanced representation of the data, the researchers “will be able to map not just the exchange of letters, but any type of location-associated data like place of birth, place of publication, travel, etc.,” Coleman said.
+
+The specialized suite of tools will be designed “so that anyone interested in history can easily use them,” said Edelstein. Open source modules, or “widgets,” will benefit all walks of researchers, from amateur historians to high school students, though Edelstein noted that scholars working on the Scientific Revolution and Enlightenment “will probably benefit the most from this work, since they can use the tools as well as the data, and even upload data sets of their own.”
+
+—CORRIE GOLDMAN, 
+The Humanities at Stanford
+
+News
+
+Shortlink
+
+	                	Crowdsourcing California’s Conservation History: A Call to Action	                
+
+Crowdsourcing California’s Conservation History: A Call to Action
+
+The public can use Green Info Network’s 
+crowdsourcing tool
+ to contribute information on California conservation lands
+
+The ecologist 
+Maria J. Santos
+ is a postdoctoral fellow at the Center and the Spatial History Project at Stanford. She has been assembling a meticulous portrait of conservation lands in California: lands that – since the early 19th century – have been set aside for habitat conservation, recreation and other purposes. They range in size from sprawling county, state and national parks like Yosemite to parcels as small as city parks. In all, Santos has collected information on over 53,000 open space properties across the state.
+
+Collecting this information is vital to understanding the effectiveness of past conservation efforts, and guiding future conservation in an era of environmental change. Among the questions that Santos is posing:
+
+How has land cover inside those lands changed since they were established?
+
+How successful were they in conserving the natural resources and species for which they were intended?
+
+The general public can now help out in this task, thanks to an 
+online crowdsourcing tool
+ Santos developed in collaboration with the 
+Greeninfo Network
+. The single most important metric Santos is seeking? 
+The establishment date of each conserved area
+, which users can submit using a range of precision, namely the 
+exact year
+, 
+or a range of years
+ within which they understand it was established.
+
+In addition, users are welcome to share notes, observations and other experiences related to these properties.
+
+Further instructions on using the tool are available after the Read More link.
+
+Contribute data through the Green Info Network’s Crowdsourcing tool »
+
+Instructions on using the tool:
+
+Using the application should be pretty straightforward.
+
+Click anywhere on the map for a popup of the current dates data we have for a unit and holding.
+
+On the right, you can change base layers, toggle overlays, and create a permalink to your current map view.
+
+Using the options on the left, you can search parks by location or agency, select units or holdings to update their establishment or acquisition dates, attach notes to the map, and upload shapefiles or KMLs.
+
+Please see 
+the original Bill Lane web page
+ for more information.
+
+Events
+, 
+Job Announcements/Opportunities
+
+Shortlink
+
+	                	CESTA Presents Glauco Mantegari – Linked Data, Voltaire, and Early-Modern Networks: An Ongoing Experiment	                
+
+Please join us this coming Tuesday, July 30th, for our next 
+CESTA Presents
+ event. All CESTA participants are highly encouraged to attend, and anyone from the public or elsewhere on campus are welcome to join us. Please do pass this along to anyone who might be interested.
+
+Linked Data, Voltaire, and Early-Modern Networks: An Ongoing Experiment
+
+Bio
+
+—–
+
+Glauco Mantegari is a Postdoctoral Fellow with the Mapping the Republic of Letters project. He has a background in the Humanities and a PhD on the Information Society and Computer Science, specializing on the Semantic Web and Linked Data. His interests lie at the intersection of communication, design, and new technologies, where innovative approaches to the integration and analysis of data are coupled with interactive visualization and storytelling.
+
+Tuesday, July 30th @ Noon
+
+Learning Theater (Rm 124)
+
+Wallenberg Hall (Building 160)
+
+Events
+
+Shortlink
+
+	                	CESTA Presents Maria McVarish – Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies	                
+
+Please join us for an upcoming CESTA summer presentation:
+
+Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies
+
+Maria McVarish is an architect, artist, and visual researcher practicing in San Francisco. She has lectured in architecture at UC Berkeley’s College of Environmental Design and, since 1996, teaches interdisciplinary studies, critical theory, and design at California College of the Arts in San Francisco. She will begin doctoral studies at Stanford’s Modern Thought and Literature program this fall.
+
+Tuesday, July 16th, 12pm to 1:30pm
+
+Learning Theater (Room 124), Wallenberg Hall (Building 160)
+
+Events
+
+Shortlink
+
+	                	Visualizing Complexity and Uncertainty: Giorgio Caviglia @ CESTA 3pm May 29	                
+
+Please join Visualizing Complexity & Uncertainty 
+
+next Wednesday, May 29 at 3 p.m., in Wallenberg Hall for the last talk of the year. 
+
+We will meet in Gold and Honey on the 4th floor.
+
+Celebratory beverages will be served!
+
+Dealing with uncertainty, instability and uniqueness: designers as (digital) reflective practitioners
+
+Description
+
+The
+
+notion of designers as ‘reflective practitioners’ has been proposed by Donald Schön more than thirty years ago, to describe a specific way of knowing that is grounded in making and in a continuos conversation with the material of a design situation. More than starting from abstract planning, designers move through improvised actions and moment-by-moment responses to immediate needs and contexts. This idea of reflection-in-action represents a powerful tool for understanding, criticizing restructuring and acting within situations of
+
+uncertainty, complexity and value conflicts. Is it possible (and useful) to bring this notion of design-reasoning
+
+within humanities contexts? And in such a perspective, which can be the
+
+role of designers, visualizations and interfaces?
+
+Bio
+
+After receiving his PhD in Design at the Politecnico di Milano in 2013, Giorgio Caviglia is currently a postdoc at the DensityDesign Lab (Politecnico di Milano). His research stems from the intersection of Design and Digital Humanities: in particular, he is interested in deepening the relationships between designers, scholars and computer scientists in the definition of new humanities research methods and tools based on digital environments and data. Working on the design and the development of visualizations and interfaces for years, his work has been presented in numerous exhibitions and publications, including MediaLAB Prado, SIGGRAPH, MIT HyperStudio, Data Flow, Malofiej, Visual Complexity.
+
+Events
+
+Shortlink
+
+	                	CESTA Crowdsourcing Projects in the Stanford News	                
+
+You may find the following article on the web: http://stanford.io/16KRsTw
+
+May 21, 2013
+
+Stanford humanities scholars harness the power of crowdsourcing
+
+Researchers at
+
+Stanford’s Center for Spatial and Textual Analysis are incorporating the knowledge and resources of the public into three digital humanities research projects.
+
+By Corrie Goldman
+
+A Year of the Bay project officer scans and pins historical postcards at the California Historical Society exhibition. (Photo courtesy of The Stanford Center for Spatial and Textual Analysis)
+
+Over the years, garage sale and used bookstore aficionado Michael Rettie has discovered dozens of historical photographs in forgotten boxes.
+
+A new crowdsourcing project organized by Stanford researchers is enabling Rettie to post his finds on a publicly accessible virtual map that offers a nuanced picture of San Francisco Bay area history.
+
+Rettie is one of many amateur historical researchers contributing to 
+Year of the Bay
+, the first of three crowdsourcing experiments underway at Stanford.
+
+Crowdsourcing holds the promise of enabling scholars “to engage people locally, across the country, and around the world in real research,” said 
+Zephyr Frank
+, an associate professor of history and director of Stanford’s 
+Center for Spatial and Textual Analysis
+ (CESTA), which is conducting the experiments with support from the Andrew W. Mellon Foundation.
+
+While Year of the Bay seeks to tap a general audience for new historical sources, the 
+500 Novels
+ project is looking for a specific group: fans of British novels are being asked to help map how London was represented in 18
+th
+- and 19
+th
+-century literature.
+
+The third project, 
+Living with Railroads,
+ connects amateur railroad buffs with scholars to test whether their different sources and interpretations can be combined to better understand the rapid expansion of railroad networks in the 19
+th
+ century and how the railroads changed communities across the United States.
+
+All three experiments bring together digital humanities scholars from Stanford’s Literary Lab and Spatial History Lab at CESTA, with colleagues at other universities, libraries, museums and archives. Stanford students are working on the projects as research assistants supported by the Office of the Vice-Provost for Undergraduate Education.
+
+Big year for Bay Area
+
+The Year of the Bay project aims to take advantage of big public events in the San Francisco Bay area in 2013 – the America’s Cup yacht races, the opening of a new span of the San Francisco-Oakland Bay Bridge, the 150
+th
+ anniversary of the Port of San Francisco and dozens of commemorations at museums, libraries, and archives – to encourage people from diverse communities around the bay to share their different histories.
+
+The endeavor also “seeks to test how well crowdsourcing initiatives can build upon the enthusiasm and interest created by local or regional events,” said 
+Jon Christensen
+, an environmental historian at the University of California-Los Angeles who is working with CESTA on Year of the Bay.
+
+Developed as a collaboration between Stanford researchers and 
+Historypin
+, a nonprofit organization that facilitates the sharing of historical materials online, the Year of the Bay site was launched in April 2013 in conjunction with 
+“Curating the Bay,”
+ an exhibition at the California Historical Society in San Francisco.
+
+Year of the Bay has already attracted hundreds of submissions, both online and at the exhibition “pinning station” where visitors can add their own photographs and memories to the project during community events at the California Historical Society.
+
+“We hope that crowdsourcing will enable us to give voice to the diverse ethnic communities around the bay and their experiences, which are often missing from historical archives,” said Christensen, who curated the exhibition, which is showing this spring and summer.
+
+The crowdsourcing debate
+
+Crowdsourcing appears to hold a great deal of potential for historians, but there is, however, great debate about the “usefulness of crowdsourcing for scholarly research,” Frank said, and “very little research on the best ways to engage the public in providing truly useful information in the process.”
+
+Each of the Stanford crowdsourcing experiments seeks to “use technology to advance scholarly research through engaging the public beyond the walls of the university,” said Frank.
+
+At the same time, he said, each experiment will “test how well crowdsourcing works with different communities and for different kinds of research problems.”
+
+The three projects taken together, he added, will help scholars better understand both the possibilities and limitations of the use of crowdsourcing in the humanities.
+
+Frank said the experiments are an important step in the development of the digital humanities.
+
+“Computer technology offers powerful new tools for humanities research, and we’re taking advantage of them in all kinds of ways at Stanford,” he said. “Crowdsourcing has exciting potential for augmenting our research and scholarship in important ways. But technology and the crowd cannot replace the crucial humanistic work of critical analysis and interpretation. That’s why we have to do these experiments and carefully evaluate the results.”
+
+Camille Brown, an intern with 
+the Human Experience
+, contributed to this story.
+
+News
+
+Shortlink
+
+	                	Diarna visits CESTA	                
+
+Aron Rodrigue brought guests from the Diarna project to CESTA to share ideas about how to gather and share historical spatial data. 
+Diarna
+ (“our homes” in judeo-arabic) is a Digital Heritage Mapping project and geo-museum dedicated to documenting important sites in Jewish life in the Middle East and North Africa.
+
+From Diarna’s reconstruction of Dar Bishi Synagogue in Tripoli
+
+Jason Guberman and Frances Malino showed us how they collect references to sites and images of sites from Google Books, Hathi Trust and other cultural heritage archives. They combine these resources with site visits to gather any remaining evidence of sites that either have been destroyed or are in danger of being destroyed. They collect personal accounts and photographs on site, then rapidly build 3D models based on surviving evidence to produce rich online exhibits that include Google Earth fly throughs, 360 degree views, photographs, video and audio and text.
+
+Not only are they constructing an extraordinarily rich archive, they are doing it with widely available tools: Trimble 3D warehouse, Sketchup, Picasa, YouTube, and 360 Cities.
+
+Visit http://diarna.org
+
+They are looking for volunteer researchers, videographers, translators, and 3D modelers (Sketchup). Contact
+ info@diarna.org
+.
+
+Attending: Aron Rodrigue (History, Stanford),  Frances Malino (History, Wellsley), Jason Guberman (Diarna), Zephyr Frank (CESTA), Nicole Coleman (CESTA)
+
+News
+
+Shortlink
+
+←
+ Older
+
+Copyright © 2013  
+
+            Powered by 
+Shaken Grid Premium
+
