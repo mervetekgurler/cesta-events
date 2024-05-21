@@ -1,0 +1,108 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Remember to sign up for the CESTA/CIDR Lightning Talks on November 1! Despite the name, this isn't anything like a typical research talk: bring an idea, problem, or question related to a current or future DH research project, take five minutes to share it, and we'll bounce ideas around to help you move forward. Sign up here! (https://forms.gle/wans8qa4HuTrCRLXA)
+This Week at CESTA
+"Ghost River: From Colonial Past to Native Present" (http://https://cesta.stanford.edu/events/will-fenton-ghost-river-colonial-past-native-present)
+Will Fenton
+Tuesday, October 25 | 12-1.15 PM | Wallenberg 433A and online via Zoom (https://stanford.zoom.us/webinar/register/WN_WY5YKcT-TBKfsaBMQB7wSQ)
+About this event: The graphic novel Ghost River: The Fall and Rise of the Conestoga (Red Planet Books and Comics, 2020) revisits the 1763 massacres of the Conestoga, an inter-tribal Indigenous community who had resided peaceably on a tract of land set aside by William Penn with the very founding of Pennsylvania. While many scholars have focused on the political motivations of the assailants, the so-called “Paxton boys,” and the aftermath of the mob violence, Ghost River complicates this history, prioritizing the Indigenous experience by drawing upon unpublished manuscript records and the perspectives of contemporary Lenape (Delaware) peoples, whose ancestors survived settler colonial violence across the trans-Appalachian West.
+
+Ghost River weaves a transhistorical literary web of historical artifacts, historical fiction, and Native artwork that reimagines colonial history from a Native present. The project was led by a Native author (Dr. Lee Francis 4), artist (Weshoyot Alvitre), publisher (Red Planet), and press (Tribal Print Source), and the narrative was refined through sustained consultation with both Lenape cultural advisors and early Americanists. Today the graphic novel is available in print and freely available online.
+
+In this Tuesday Seminar at the Center for Spatial and Textual Analysis, Will Fenton, CESTA's associate director and editor of Ghost River, will discuss the origins of the graphic novel -- the digital humanities project Digital Paxton -- the collaborative process behind the project, and the opportunities and challenges for Native consultation in the context of tribal sovereignty in mid-Atlantic.
+
+This event is co-sponsored with the Native American Studies Program.
+
+About this series: Every Tuesday lunchtime (12-1.15 PM) during the academic quarter, CESTA hosts events on topics relevant to the digital humanities. For information about upcoming events in this series, visit our website (https://cesta.stanford.edu/events/cesta-seminar-series) .
+
+Register for the Zoom link (https://stanford.zoom.us/webinar/register/WN_WY5YKcT-TBKfsaBMQB7wSQ)
+Introduction to CATMA 6 - Software for Digital Text Annotation and Analysis (http://https://cesta.stanford.edu/events/svenja-guhr-introduction-catma-6-software-digital-text-annotation-and-analysis)
+Svenja Gurh
+Friday, October 28 | 9AM-12 PM | Wallenberg Hall 433A
+About this event: This workshop introduces the practice of digital text annotation with CATMA (https://catma.de/)  (Computer Assisted Text Markup and Analysis). CATMA is an annotation tool specifically designed for humanities research practice. The software can be used to manage multiple projects that combine documents, annotation categories, and team members. At the core of the software is the annotation area, where texts can be annotated either with predefined categories or according to heuristics developed during the research process. All annotations and comments can then be analyzed, visualized and quantitatively evaluated.
+
+The 3-hours workshop includes:
+1. Introduction to methods of text annotation and the CATMA software
+2. Demonstration of the following features of CATMA: set up projects, create tagsets (category systems for annotations), annotate, analyze and visualize the annotations
+3. Practical exercises: Formulation of own research questions, creation of tagsets and text annotations, analysis and interpretation of the annotations
+
+Learning objectives of the workshop:
+* Attendees will learn three methods of annotation: (1) manual-analog, (2) manual-digital, (3) collaborative manual-digital annotation.
+* Attendees will be able to reflect on the usefulness of text annotation and learn to decide how to apply it most appropriately in order to approach a chosen research question.
+* Attendees will be able to formulate research questions and approach the answering of these questions with the help of text annotation.
+
+Upcoming This Quarter at CESTA
+
+November 1 | 12-1.15 PM
+CESTA SEMINAR SERIES
+CESTA/CIDR DH Lightning Talks (https://cesta.stanford.edu/events/cestacidr-dh-lighting-talks)
+Wallenberg 433A. Sign up here (https://forms.gle/wans8qa4HuTrCRLXA) .
+
+November 4 | 9:00 AM - 12:00 PM
+Early Modern Recipe Online Collective Transcribathon
+Wallenberg 433A. Learn more. (#Transcribathon)
+
+November 8 | 12-1.15 PM
+CESTA SEMINAR SERIES: DEMOCRACY DAY LECTURE
+Ran Abramitzky
+"Streets of Gold: America’s Untold Story of Immigrant Success" (https://events.stanford.edu/event/streets-of-gold)
+Wallenberg 433A and online via Zoom (https://stanford.zoom.us/webinar/register/WN_CISGloyeRwWkRjy0Z4whpQ) .
+
+November 15 | 12-1.15 PM
+CESTA SEMINAR SERIES
+Anne Ladyem McDivitt
+"Digital Storytelling and Accessibility of Digital Humanities" (https://cesta.stanford.edu/events/digital-storytelling-and-accessibility-digital-humanities)
+Wallenberg 433A and online via Zoom (https://stanford.zoom.us/webinar/register/WN_9ihlbshzR5KPb8DzGRXXhA) .
+
+November 29 | 12-1.15 PM
+CESTA SEMINAR SERIES
+Evelyn Gius
+Structure as Meaning? Conflict as a Text Feature in German Literature (https://cesta.stanford.edu/events/evelyn-gius-structure-meaning-conflict-text-feature-german-literature)
+Wallenberg 433A.
+
+Upcoming Events Elsewhere on Campus
+
+October 24| 2:00 - 4:00 PM
+CIDR Workshops
+Python Text Analysis  (https://library.stanford.edu/events/cidr-python-text-analysis)
+Velma Denning Room, 120F Green Library or on Zoom, Register here. (https://appointments.library.stanford.edu/event/9596718)
+
+October 24| 2:00 - 4:00 PM
+CIDR Workshops
+R Text Analysis  (https://library.stanford.edu/events/cidr-r-text-analysis)
+Velma Denning Room, 120F Green Library or on Zoom, Register here. (https://appointments.library.stanford.edu/event/9596714)
+
+October 26 | 2:00 - 4:00 PM
+CIDR Workshops
+Python Machine Learning  (http://https://library.stanford.edu/events/cidr-python-machine-learning)
+Velma Denning Room, 120F Green Library or on Zoom, Register here. (https://appointments.library.stanford.edu/event/9596735)
+
+News & Announcements
+
+Fall Transcribathon!
+with the Early Modern Recipe Online Collective
+
+November 4th, 9AM - 12PM
+CESTA, Wallenberg Hall, 433A
+
+Join in the effort to transcribe seventeenth-century cooking and medical recipes. This event will include a tour of the Special Collections Recipe Books. No prior experience required, refreshments provided! Learn more about the project on the EMROC webpage. (http://emroc.hypotheses.org/)
+
+Calling Stanford Frosh and Sophomores!
+Apply for The Humanities Research Intensive (https://humanexperience.stanford.edu/undergraduates/humanities-research-intensive)
+This seven-day course, taught over spring break, introduces freshmen and sophomores to the excitement of humanities research. It will prepare you to develop an independent summer research project, to work as a research assistant for a Stanford professor, or to apply for undergraduate research grants. Your laboratories will be the archives and museum collections at Stanford, where you’ll work closely with Stanford humanities professors, doing hands-on research on ancient and modern books, manuscripts, artifacts, and maps. Students who complete this course become Humanities Research Intensive Fellows and are eligible to apply for special HRI grants (https://humanexperience.stanford.edu/undergraduateshumanities-research-intensive/hri-fellowships)  to support follow-up research during the summer or following academic year. More information and application available here. (https://humanexperience.stanford.edu/undergraduates/humanities-research-intensive)
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

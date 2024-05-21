@@ -1,0 +1,44 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Today: Tuesday, May 18 at 12 pm
+Therapy Texts
+
+with Mark Algee-Hewitt (Stanford), Lisa Mendelman (Menlo College), Anna Mukamal (Stanford), and Kendra Terry (Adelphi University)
+Online via Zoom
+Register for this event (https://stanford.zoom.us/meeting/register/tJYqcOyuqj0qGdbQ71dPk1FdyaRxVFvjfdru)
+
+About this talk: This collaboration combines methods from computational text analysis, literary studies, and clinical psychology to examine the therapeutic encounter as it manifests in a variety of texts. In particular, we compare a set of transcribed contemporary psychotherapy sessions to other forms of discourse including 20th- and 21st-century novels and memoirs, podcast interviews, and informal recorded conversation. We are interested in what distinguishes psychotherapeutic discourse from other types of discourse and how analytical protocols from literary studies and digital humanities can be productively applied to psychotherapeutic discourse issuing from a clinical setting. How is language used differently across these types of discourse? How similar are therapeutic encounters portrayed in fictional texts to actual therapy sessions? Which parts of 20th- and 21st-century literature look the most like therapy sessions? We approach these questions using a variety of computational tools
+sets that allow us to model the language of the therapeutic encounter in literary spaces.
+
+About the speakers: TherapyTexts is a collaborative project of the Stanford Literary Lab featuring a group of researchers representing three different institutions. Members of the project include Anna Mukamal, a PhD Candidate in English at Stanford University; Kendra Terry, a PhD Candidate in Clinical Psychology at the Derner School of Psychology at Adelphi University; Mark Algee-Hewitt, an Assistant Professor of English and Digital Humanities at Stanford University; and Lisa Mendelman, an Assistant Professor of English and Digital Humanities at Menlo College.
+Looking ahead:
+
+Tuesday, May 25 at 12 pm
+CESTA Seminar Series
+Adrien Zakar (Stanford): "Ottoman Geocracy: Territory, Society, and the Instruments of Empire, 1850-1928"
+Register for this event (https://stanford.zoom.us/meeting/register/tJclf--vqz4oGtQU26p_6C5Gu48nYYO-Y16a)
+
+Wednesday, May 26 at 9 am
+Digital Humanities Long View Seminar
+Valérie Schafer (University of Luxembourg) and Jane Winters (University of London): "Web Archives Long View"
+Register for this event (https://www.eventbrite.co.uk/e/the-web-archives-long-view-tickets-129661660517)
+
+Friday, May 28 at 11 am
+Digital Humanities Research Symposium
+For registration information, contact dabush@stanford.edu
+All events listed above are in Pacific Time
+
+============================================================
+** Twitter (http://www.twitter.com/cesta_stanford)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+** Subscribe to get weekly updates from CESTA (*|LIST:SUBSCRIBE|*)
+
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

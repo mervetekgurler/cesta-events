@@ -1,0 +1,80 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+The deadline for the Graduate Digital Humanities Fellows Program (https://cesta.stanford.edu/graduate-programs/digital-humanities-fellows-program) has been extended - applications are due by 11:59 pm PT today! Learn more about the Fellows Program and apply on the CESTA webpage (https://cesta.stanford.edu/graduate-programs/digital-humanities-fellows-program) .
+Next Week at CESTA
+
+Maurice Lee & Brad Rittenhouse
+Experimenting with Emerson (https://cesta.stanford.edu/events/maurice-lee-and-brad-rittenhouse-experimenting-emerson)
+
+Tuesday, November 7 | 12:00 - 1:15 PM | Wallenberg Hall 433A
+
+This talk will explore the findings of Maurice and Brad's chapter in the forthcoming Oxford volume, New Approaches to Emerson, in which they apply various digital methodologies to Emerson’s complicated corpus. These include several novel findings about Emerson's intellectual influences and geographic commitments that both advance and refute traditional readings of Emerson and his works.
+
+Additionally, the talk will explore this research's unique circumstances of production. The project was completed entirely remotely during the pandemic as a collaboration between a subject specialist and a technical worker with some subject knowledge. Maurice and Brad will discuss the difficulties, opportunities, and lessons learned from this research model that is likely to become more and more common as the field of digital humanities progresses and remote work continues.
+
+The presentation will include lunch and take place at the Stanford Center for Spatial and Textual Analysis in Wallenberg 433A. A Zoom link is available upon request from Office Management Intern, Daniela Perez (perezd20@stanford.edu (mailto:perezd20@stanford.edu) ).
+This Quarter at CESTA
+
+November 14 | 12-1.15 PM
+CESTA SEMINAR SERIES
+Svenja Guhr
+Sound in 19th Century Fiction (https://cesta.stanford.edu/events/svenja-guhr-sound-19th-century-fiction)
+Wallenberg 433A, lunch will be served, Co-Sponsored by the Department of English (https://english.stanford.edu/)
+
+November 16 | 9-12 PM
+Evelyn Gius & Svenja Guhr
+Introduction to CATMA 7 - Software for Digital Text Annotation and Analysis (https://cesta.stanford.edu/events/evelyn-gius-and-svenja-guhr-introduction-catma-7-software-digital-text-annotation)
+Wallenberg Hall 433A, Co-Sponsored by the Department of English (https://english.stanford.edu/)
+
+November 30 | 5:30-7 PM
+MELLON SAWYER SEMINAR SERIES
+Brad Pasanek
+Counting Before Computation (https://cesta.stanford.edu/events/mellon-sawyer-seminar-series-counting-computation-jennifer-morgan-brad-passanek)
+Wallenberg Hall 433A
+
+Upcoming Events Elsewhere
+
+November 7 | 1:00-3:00 PM
+CIDR Workshops
+Data Wrangling with R (https://events.stanford.edu/event/cidr_data_wrangling_with_r)
+Green Library 120F, Velma Denning Room
+
+November 9 | 10:00 - 10:45 SM
+Stanford Research Computing Center
+Code & Coffee: Batch Python (https://srcc.stanford.edu/events/code-coffee/code-coffee-batch-python)
+Polya Hall, Room 170B
+
+November 10 | 9:00 AM-12:00 PM
+Stanford Geospatial Center and Research Data Services
+Introduction to GDAL/OGR (https://events.stanford.edu/event/introduction_to_gdalogr_the_geospatial_data_abstraction_library)
+Branner Earth Sciences Library, Teaching Corner
+
+November 17 | 1:30 - 3:00 PM
+Stanford VPGE
+RAISE Doctoral Fellowship Informational Meet & Greet (https://stanforduniversity.qualtrics.com/jfe/form/SV_eLO6Ot3hyA4D3nM)
+EVGR Building B, Room 144, RSVP here (https://stanforduniversity.qualtrics.com/jfe/form/SV_eLO6Ot3hyA4D3nM)
+
+CESTA News & Announcements
+Applications Now Open: (https://cesta.stanford.edu/students/undergraduate-programs/undergraduate-research-internship-program) Undergraduate Research Internship Program (https://cesta.stanford.edu/students/undergraduate-programs/undergraduate-research-internship-program)
+
+The Undergraduate Research Internship (https://cesta.stanford.edu/students/undergraduate-programs/undergraduate-research-internship-program) program empowers students to apply technologies across the Humanities and Social Sciences in ways that enhance our understanding of the world. Applications for the 2023-24 program are due November 22, 2023.
+
+The Undergraduate Research Internship provides opportunities for undergraduates to work on CESTA research projects throughout the academic year. Through structured research training, experimentation with cutting-edge technologies, and faculty mentorship, students develop valuable academic and professional skill sets. Work on lab projects allows students to apply their developing expertise in data science, GIS, and web development in tandem with humanities skills in critical thinking, creative problem-solving, and ethical decision-making.
+
+You can read about the experiences of recent interns in CESTA's 2022 Research Anthology (https://issuu.com/stanfordhumanities/docs/cesta_anthology_2022?fr=sN2Q0YzU2NDAzMTA) .
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

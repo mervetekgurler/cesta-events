@@ -1,0 +1,92 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Application for the 2023-2024 Mellon Sawyer Postdoctoral Fellowship are due Monday May 15th! For more information and to apply visit the Mellon Sawyer Fellowship webpage (https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-giovanna-ceserani) .  Also, learn more about Stanford Research Computing's  Summer Fellowship Program (#srcc) .
+Next Week at CESTA
+
+
+**
+
+Mapping Sacred Spaces in Medieval Southern Italy  (https://cesta.stanford.edu/events/elisabetta-scirocco-mapping-sacred-spaces-medieval-southern-italy)
+------------------------------------------------------------
+Elisabetta Scirocco
+Bibliotheca Hertziana Max Planck Institute for Art History
+
+Tuesday, May 16 | 12:00 -1:15 | Wallenberg 433A
+
+In medieval churches, liturgical monumental installations were fundamental for both the setting and practice of the sacred. Where they have been dismantled, destroyed, or heavily transformed, the understanding of a medieval sacred space is possible only through reconstructive projects that require multidisciplinary research and collaborative endeavors.
+
+This talk will address these challenges through the experience of the project Mapping Sacred Spaces. Forms, Functions, and Aesthetics in Medieval Southern Italy (11th-14th c.), dedicated to a still understudied Mediterranean region where religious, artistic, and technical encounters found one of their main expressions inside sacred spaces. The variety, complexity, and fragmentariness of the materials preserved in this vast territory can be fruitfully addressed combining different scales of analysis and mapping methodologies.
+
+This event is sponsored and organized by the SGS Global Approaches to Sacred Space (https://globalsacredspace.su.domains/) . The Department of Religious Studies has also cosponsored the event.
+
+The presentation will include lunch and take place at the Stanford Center for Spatial and Textual Analysis in Wallenberg 433A. A Zoom link is available upon request from Center Manager, Jonathan Clark (jclark93@stanford.edu (mailto:jclark93@stanford.edu) ).
+
+About the Speaker:
+
+Elisabetta Scirocco is a permanent researcher at the Bibliotheca Hertziana Max Planck Institute for Art History. She specializes in medieval and early modern art and architecture, with a geographical focus on Central and Southern Italy. Her research and publications are mostly devoted to sacred spaces and ritual practices, to the afterlife of medieval art, and to the destructive and creative effects of natural disasters affecting cultural heritage.
+
+About the Respondent:
+
+Elaine A. Sullivan is an Egyptologist and a Digital Humanist. Her work focuses on applying new technologies to ancient cultural materials. She acts as the project coordinator of the Digital Karnak Project, a multi-phased 3D virtual reality model of the famous ancient Egyptian temple complex of Karnak.  She is project director of 3D Saqqara, which harnesses Geographic Information Systems (GIS) technologies and 3D modeling to explore the ritual and natural landscape of the famous cemetery of Saqqara through both space and time.
+Coming Up This Quarter at CESTA
+
+May 26 | 8:30 AM-6:00 PM
+CESTA Digital Humanities Research Showcase 2023 (https://cesta.stanford.edu/events/cesta-digital-humanities-research-showcase-2023)
+Wallenberg Hall, Room 433A
+
+May 30 | 12:00-1:15 PM
+Alex Sherman
+Four Theses on the Real and Imaginary British Empire, 1697-1829 (https://cesta.stanford.edu/events/alex-sherman-four-theses-real-and-imaginary-british-empire-1697-1829)
+Wallenberg Hall, Room 433A
+
+Upcoming Events Elsewhere
+
+May 17 | 9:10  - 11:00 AM
+CIDR Workshop
+Python Data Wrangling  (https://events.stanford.edu/event/cidr_python_data_wrangling_3345?utm_campaign=widget&utm_medium=widget&utm_source=Stanford+University)
+Velma Denning Room (Green Library 120F)
+
+May 19 | 10:00 AM - 12:00 PM
+Teaching in the Age of Gernerative AI: A Grad Instructor Round Table
+Wallenberg Hall, Room 433A, Register here (https://docs.google.com/forms/d/e/1FAIpQLSczb8ZKST_UT9ZUO9LprcZfd85W5WTPr6E4f2gkictYqpHxYQ/viewform)
+
+May 24 | 12:00 PM
+Stanford Archaeology Center
+Kelly Nguyen: Building the Vietnamese Refugee Archive Exhibit (https://archaeology.stanford.edu/events/building-vietnamese-refugee-archive-exhibit-critical-refugee-studies-praxis) : Critical Refugee Studies in Praxis  (https://archaeology.stanford.edu/events/building-vietnamese-refugee-archive-exhibit-critical-refugee-studies-praxis)
+Building 500, Seminar Room
+
+News and Announcements
+
+Mellon Sawyer Postdoctoral Fellowship
+
+CESTA is also seeking applications for a one-year Mellon Sawyer Postdoctoral Fellowship in Digital Humanities. The postdoctoral fellow will play a leading role in organizing, administering and participating in the Mellon Sawyer seminar entitled “The Data that Divides Us: Recalibrating Data Methods for New Knowledge Frameworks Across the Humanities.” We seek recent humanities PhDs whose research operates at the intersection of a relevant data-based field, including, but not limited to, the digital humanities, data science, computational linguistics or social science, or information science. Applications are due May 15th. For more information and to apply, visit the Mellon Sawyer Fellowship webpage (https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-giovanna-ceserani) .
+
+Stanford Research Computing Graduate Fellowship in the Humanities and Social Sciences
+
+Stanford Research Computing (https://srcc.stanford.edu/)  invites graduate students in the Humanities and Social Sciences to apply for a Summer Quarter fellowship to develop original digital research in a high-performance computing environment. While the aim will be to develop a professional-quality research project, we recognize that many students in these disciplines do not have extensive experience doing digital research. Therefore, the internship will provide hands-on instruction from the SRC’s Research Data Facilitator and the rest of the SRC staff as needed. While some general coding experience is desired, it is not strictly required, and we are prepared to offer project support in a broad range of areas.
+
+The fellowship will be awarded based on a project proposal, but we welcome projects at all stages of ideation and planning, and applicants of all experience and degree levels. We are especially interested in funding projects from early career scholars, master’s students, and individuals from underrepresented backgrounds, though all applicants will be given serious consideration. The fellowship provides a $5,000 stipend along with office space in Polya Hall. The fellowship opportunity will culminate in a presentation of the research project at the end of summer. Those interested should complete the form here (https://forms.gle/6f6nE2GoyJjNTKRdA)  by May 24, 2023. Please direct questions to bcritt@stanford.edu (mailto:bcritt@stanford.edu) . The fellow will be announced June 1.
+
+
+Merve Tekgürler awarded Mellon/ACLS Dissertation  Innovation Fellowship (https://cesta.stanford.edu/news/merve-tekgurler-awarded-mellonacls-dissertation-innovation-fellowship)
+
+Merve Tekgürler, a 2023 CESTA Digital Humanities Graduate Fellow and PhD candidate in History has been awarded a 2023-24  Mellon/ACLS Dissertation Innovation Fellowships  (https://www.acls.org/programs/mellon-acls-dissertation-innovation-fellowships/) . Their fellowship project,  “Crucible of Empire: Danubian Borderlands and the Making of Ottoman Administrative Mentalities (https://www.acls.org/fellow-grantees/merve-tekgurler/) ,” uses traditional history methods and computational text analysis to explore a large corpora of primary sources. The Mellon/ACLS Fellowship supports  doctoral students in the formation stage of the dissertation to encourage the development of innovative approaches in the humanities and interpretive social sciences. The program seeks to expand the range of research methodologies, formats, and areas of inquiry traditionally considered suitable for the dissertation, with a particular focus on supporting scholars who can build a more diverse, inclusive, and equitable
+academy.
+
+Read more about Merve's ongoing work at CESTA, Ottoman Court Histories in the Long Eighteenth-Century (https://cesta.stanford.edu/people/merve-tekgurler-0)  Congratulations, Merve!
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

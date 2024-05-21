@@ -1,0 +1,160 @@
+CESTA Stanford Monthly Newsletter
+
+View this email in your browser (*|ARCHIVE|*)
+
+Center for Spatial
++ Textual Analysis
+
+JANUARY   NEWSLETTER
+[THE YEAR AHEAD]
+
+We here at CESTA hope that your 2015 is off to a great start. There are lots of things in store for the coming year, and we'll do our best to keep you up to date on some of the highlights here in our newsletter.
+Each newsletter issue will feature people, events, projects, publications, and other content that relates to what we do and what we are about. If you have any questions or feedback regarding this newsletter or any of our other social network platforms, don't hesitate to let us know. CESTA community participants are encouraged to send any relevant newsletter items for upcoming broadcasts to mattbryant.stanford@gmail.com (mailto:mattbryant.stanford@gmail.com)
+
+As always, we appreciate your interest and support for the wonderful work that is happening here in our center.
+
+[DIGITAL PUBLISHING]
+
+
+Thus far January has been exciting for Enchanting the Desert (http://web.stanford.edu/group/spatialhistory/cgi-bin/site/project.php?id=1061) .  After nearly three years of work at CESTA and the Bill Lane Center for the American West, Stanford University Press has officially announced that Enchanting is the pilot project for its new digital publishing initiative.  You can read about the Press’s initiative in a series of blog posts on their website HERE (http://bit.ly/14XMa8B) (including one by the author), and you can read about the Mellon Foundation grant that is funding the initiative HERE (http://stanford.io/1xiWEVQ) .  The news has taken the Digital Humanities Twitter-sphere by storm, and the Enchanting team will be thrilled to publicly unveil its work later in 2015.
+
+For those unfamiliar with the project, Enchanting the Desert is a historical geography of the 40 landscape photographs included in Henry Peabody’s circa 1905 slideshow of the Grand Canyon.  Peabody was a prominent commercial photographer who sold his slideshows around the United States, setting a visual template for what one would see when one saw the Grand Canyon.  Through mapping software including ArcGIS, Natural Scene Designer, and Google Earth, the team has reconstructed Peabody’s images from the god’s-eye view, showing what specific areas of the Grand Canyon were visually consumed by real and virtual tourists.  Peabody’s materials are brought into a digital, interactive medium (a web app) so that readers can query the historical details of the places that appear in the slideshow.  While explicating the produced visual space of this slideshow, the project goes further, delving deep into the place-based history of the Canyon.  Frequently misconceived as a single place,
+the Grand Canyon is better thought of as a large region composed of thousands of places, each with their own history and human significance.
+
+- Nicholas Bauch
+
+Thanks to generous support from the Bill Lane Center (http://west.stanford.edu/) and Stanford’s Vice Provost for Undergraduate Education (https://undergrad.stanford.edu/about) , Enchanting the Desert will be hiring a second undergraduate research assistant for the spring and summer terms in 2015.  If you are interested in working on this project, please contact Lane Center administrator Chau Ho (mailto:mailto:mchauho@stanford.edu) , mchauho@stanford.edu.
+
+[ACROSS THE POND]
+
+CESTA visits HUMLab at Umeå University, Sweden
+
+
+A contingent of faculty, staff, and students from CESTA spent three cold but stimulating days attending the Genres of Scholarly Knowledge Production conference at Umeå University.  The conference website can be accessed here (http://www.humlab.umu.se/sv/event/arkiv/genres-of-scholarly-knowledge-production/) .
+
+Highlights included Nicole Coleman projecting images of Palladio on a giant floor screen and Brian Johnsrud showing demos of the Lacuna Stories project in the same venue.  A series of creative presentations from DH scholars working in media studies, communication, art, and digital ethnography provided food for thought over the course of three days spent in HUMLab's wonderful facilities.  The visit marked the third time that CESTA members participated in a HUMLab conference, further cementing the strong scholarly connection to Sweden under the auspices of the Wallenberg Foundation and in partnership with HUMLab director Patrik Svensson.
+[IT'S COMPLICATED]
+
+For those who don’t know, CESTA has been engaged in a major Andrew W. Mellon Foundation research project on the topic of crowdsourcing for the past two years.  We have sought to answer questions about the opportunities and challenges associated with crowdsourcing in humanities research by conducting three concurrent experimental projects. We can safely say that the answer is: “it’s complicated.”  If you use crowdsourcing for a humanities project, you are not likely to end up exactly where you started, which can be a rewarding thing. With our Historypin partners (https://www.historypin.org) we have collected material for our three sub-projects (please visit our website (http://humanitiescrowdsourcing.stanford.edu) and explore our Historypin sites for Year of the Bay (https://www.historypin.org/project/22-yearofthebay) , Living with the Railroads (https://www.historypin.org/project/42-railroads) , and The Emotions of London).  We are now engaged in the process of analyzing the
+data as to the original sub-project research questions, so our conclusions are yet to be determined.  Indeed, the projects are still live, still gathering more information. We can, however, say that crowdsourcing has great potential, but expectations need to be tempered.  If you want to be successful, three things are key: (1) digitally based crowdsourcing isn’t only digital – you must be prepared, in most cases, to put time in meeting and interacting with the community you want to engage; (2) you need a clear, but flexible, goal; and (3), you must learn about and know your crowd. Understanding the community you want to engage with creates your best chance for success.  Initial white papers will be coming soon (and will be available on the project website).  Check back here, and on the websites, for updates!
+
+[PALLADIO GOES TO WASHINGTON]
+H+D Open Design Workshop and taking Palladio on the road.
+
+Open Design is part of the development strategy for the Palladio toolset created by Humanities+Design at CESTA. The idea is to make the tools available at very early stages of development to let researchers use them and then tell us what works and what doesn’t. The simple goal is to make data visualization tools designed from the ground up to work for humanities research. As a result, Palladio has earned a committed user community within its first year. Among those users are historians at the State Department. In December, Tom Faith and Joe Wicentowski (pictured in a Skype meeting at CESTA) presented how they use Palladio as a search/exploration/presentation tool for the Foreign Relations of the United States data at a meeting of the Advisory Committee on Historical Diplomatic Documentation, US Department of State. Our own Mark Braude was there, too, to give an overview of the work going on at CESTA and within H+D.
+
+Palladio team Mark Braude (Historian and Project Coordinator), Ethan Jewett (Lead Developer), and Giorgio Caviglia (Design Researcher) taking a well-earned break during the workshop.
+Joe Wicentowski and Tom Faith from the Office of the Historian at the State Department joining us for a Palladio Open Design workshop via Skype.
+
+[ROADS SCHOLARS]
+
+Humanities+Design: Tracing Early Modern Roads
+
+Researcher Katie McDonough (PhD in History, Stanford 2013) is leading a project to capture early modern roads in Europe. She and Kim McCabe (Undergraduate French major and CESTA Research Assistant) are capturing transportation data from 18th century French almanacs. They are collaborating with Karl Grossner (Digital Humanities Developer, Stanford University Libraries) to refine road data made available by the Cassini Research Group in Paris.
+
+
+Katie and Kim’s work will help us extend the capabilities of Palladio to allow researchers to trace and annotate simplified network routes. The project will also make available to other researchers high quality information about real routes in the early modern period.
+[BEST OF]
+
+Literary Lab Pamphlet 8
+
+The Literary Lab is pleased to announce the publication of its 8^th pamphlet: “Between Canon and Corpus: Six Perspectives on 20^th-Century Novels” by Mark Algee-Hewitt and Mark McGurl. The study takes on the difficulties of assembling a corpus of 20^th -century works, a task that has long proven difficult for the quantitative study of literature due to the copyright regulations that cover most works published after the 1920s and the sheer number of texts that have been published in the last 115 years. Seeking a middle ground between a truly “random” sample and a purely canonical sample, Algee-Hewitt and McGurl explore the possibility of a modular corpus, which acknowledges its own limitations and biases by leveraging the social phenomenon of “best of” lists that appeared at the end of the 20^th century. Beginning with five such lists (“The Modern Library Editors’ Best Books of the 20^th Century”, “The Modern Library Readers’ Best Books,” the “Radcliffe Rivals List”,
+“McCaffery’s Best Experimental Fiction” and the “Publishers Weekly” list of bestselling yearly books in the 20^th century) Algee-Hewitt and McGurl employ a network analysis that graphically demonstrates the formation of a canon along the dual axes of critical prestige and wide popularity.
+
+The study also delves into the question of representation as it seeks to redress the striking gender and ethnicity balance in these lists by conducting its own experiment in creating a crowd-sourced “best of” list, compiled by through a questionnaire sent to members of the Post-Colonial Studies Association. This experiment not only provided yet another module to add to the Lab’s 20^th century Corpus, but also gave the authors an opportunity to delve into questions of representation and sampling, particularly within the context of contemporary literary studies. Does the canon still hold value for creating corpora of texts to study digitally, or are there other ways to conceive of a sample of 20^th century texts that would be sensitive to concerns over biases inherent in the writing and publishing worlds themselves? The pamphlet is the Lab’s first attempt to grabble seriously with this issue and, in doing so, it opens up a new area of study in the Digital Humanities.
+
+The pamphlet, as well as a list of the other pamphlets in the series, can be found here (http://litlab.stanford.edu/?page_id=255) .
+
+[GUESSING GAME]
+
+The results are in from Spatial History Project Creative Director Erik Steiner's coin jar crowdsourcing experiment. Wired Magazine has published an article (http://www.wired.com/2015/01/coin-jar-crowd-wisdom-experiment-results/) on the results, and we encourage you to check out the comments section of the article, as Erik provides feedback to what people have to say. You'll have to read the article to find out what the exact amount actually was!
+
+
+[METHODOLOGIES]
+
+Cameron Blevins attended the American Historical Association's annual meeting in New York City on January 4th where he presented on the panel "Authoring Digital Scholarship for History: Challenges and Opportunities (https://aha.confex.com/aha/2015/webprogram/Session12203.html) ". His talk, titled "The Perpetual Sunrise of Methodology (http://www.cameronblevins.org/posts/perpetual-sunrise-methodology/) " argued that digital history scholarship has suffered from a fixation on methodology rather than scholarly results. Digital historians seem to speak in a perpetual future tense of the "potential" and "possibilities" of new tools rather than actually applying them to generate arguments about the past. The full text of his presentation is available here. (http://www.cameronblevins.org/posts/perpetual-sunrise-methodology/)
+
+Cameron Blevins, “Space, Nation, and the Triumph of Region: A View of the World from Houston,” Journal of American History, 101, no. 1 (June 2014), 127.
+[CARTOGRAPHIC ARTS]
+
+Be sure to check out Wired Magazine's MapLab article,Cartographic Arts: Beautiful Maps From the Atlas of Design (http://www.wired.com/2015/01/beautiful-maps-atlas-of-design/?mbid=social_twitter#slide-id-1679555) . CESTA's previous Geospatial Historian Jake Coolidge is featured, with his amazing hand drawn birds eye view map of the Columbia River watershed. Congratulations, Jake! We are true admirers of your work, and love how you mesh your academic and technical training with your artistic abilities.
+For a detailed and fascinating discussion about Jake's map by the very folks who selected it for inclusion, go here. (http://atlasofdesign.org/2014/12/03/look-inside-coolidge/)
+
+[THERE GOES THE NEIGHBORHOOD]
+
+A big congratulations to CESTA's Michael Levin for his contribution to the recent article by Kim-Mai Cutler in TechCrunch (http://techcrunch.com/2015/01/10/east-of-palo-altos-eden/) about the historical development of East Palo Alto. Michael's Rebooting History project (https://web.stanford.edu/group/spatialhistory/cgi-bin/site/project.php?id=1045) here at CESTA and the Spatial History Project is ground zero for the setting of this story. Ironically, one of the central locations in this tale is literally as Facebook headquarter's doorstep. This is a great article that has already been very well received and circulated around the internet. Congrats, Michael and Kim-Mai!
+
+[RED LIGHT DISTRICTS]
+
+Our close collaborator Scott Saul from the University of California, Berkeley, continues to garner a lot of positive press about his latest book, Becoming Richard Pryor, (http://www.harpercollins.com/9780062123305/becoming-richard-pryor) and the accompanying website, Richard Pryor's Peoria. (http://www.becomingrichardpryor.com/pryors-peoria/) Included in all this press is the selection by Slate as one of the Five of 2014's Most Compelling Digital History Exhibits and Archives. (http://www.slate.com/blogs/the_vault/2014/12/29/historical_documents_online_five_best_digital_archives_from_2014.html?wpsrc=sh_all_dt_tw_top) Featured here (http://news.stanford.edu/news/2015/january/pryor-peoria-maps-011215.html) is an article by Tanu Wakefield in our own Stanford news press. Congrats, Scott, on the continued success of your project!
+
+Richard Pryor's early years in the red-light district of Peoria, Ill., shaped his evolution into a groundbreaking African American comedian and social critic. (Images courtesy Scott Saul)
+[FLIPPED AND BLENDED]
+
+The Poetic Media Lab's project on collaborative learning, Lacuna Stories (http://www.lacunastories.com) , launched four new Stanford courses in January 2015. These classes support "flipped" or "blended" learning, using the digital annotation and social engagement affordances designed by CESTA's Poetic Media Lab. Check out these new courses here (http://www.lacunastories.com/portfolio/) .
+
+[PERSPECTIVES]
+
+Digital impact on historical writing and learning
+
+Thomas Nygren, visiting scholar of CESTA, has recently devoted some extra attention to the writing of history in digital environments, highlighting potentials and challenges in a digital era.
+
+His article ‘Students Writing History Using Traditional and Digital Archives’ (http://etjanst.hb.se/bhs/ith/3-12/tn.htm) describes how the materiality of sources and archives may influence how senior high school students write about the past. How sources in digital databases can stimulate a quantitative approach whereas traditional archives may stimulate a more hermeneutical interpretation of sources and a more explicit theoretical position. Thomas was also involved in constructing a digital platform to support multi-perspectivity and media critical thinking in history teaching. This site (https://media.sodis.de/ehisto/en/index.html) helps students and teachers to identify multiple perspectives on Columbus (https://media.sodis.de/ehisto/columbus/multinational_columbus/en/multiple_perspectives.html) and the start of World War I (https://media.sodis.de/ehisto/wwI/multinational_wwI/en/multiple_perspectives.html) by using popular history, written by historians from five different
+countries.
+
+Thomas has also in collaboration with digital scholars of ancient history (Anna Foka) and archaeology (Philip I. Buckland), presented  how the digital humanities and digital history in Sweden (http://www.hsozkult.de/hfn/debate/id/diskussionen-2402) have number of interesting outcomes and projects in a tradition dating back to the 1960’s. In this overview they display constructive uses of digital materials and tools and how critical perspectives are quite common in digital historical research. But they also find that the research would benefit from being more experimental in the use of digital tools.
+
+In Umeå in December, Thomas argued that core competencies in the digital humanities take time and effort to win. In DH scholars and students must have humanistic eye on the world; abilities to criticize information, empathize with different human perspectives and be able to create new insights (see illustration below of ‘dh.school’ mindsets presented at Genres of Scholarly Knowledge Production (http://www.humlab.umu.se/en/events/archive/genres-of-scholarly-knowledge-production/goskp-program/) ).
+
+
+[DIGITAL HISTORY]
+
+Digital History at the AHA
+
+At the American Historical Association's Annual Meeting in New York January 2-5, 2015, workshops, sessions, panels, and events on digital history (http://historians.org/annual-meeting/resources-and-guides/digital-history-at-the-annual-meeting) abounded. There were many sessions (http://historians.org/publications-and-directories/perspectives-on-history/november-2014/a-web-of-history) focusing on the application of digital methods to history, including presentations from CESTA's own Cameron Blevins (https://aha.confex.com/aha/2015/webprogram/Session12203.html) and Jason Heppler (https://aha.confex.com/aha/2015/webprogram/Session12163.html) .
+
+If you're curious about all the Twitter coverage of #aha2015 (or want to do something cool with the data!), the tweets are archived (https://docs.google.com/spreadsheets/d/1v27FqP7bE6H85WZBH5Ee8oIQlSzm4IegaEir5RDt2i4/edit#gid=1939893249)) .
+
+Visualizing Food Consumption
+
+Within the next month, Molly Taylor-Poleskey and Jason Heppler hope to launch the Königsberg Foodstuffs visualization that attempts to trace changing taste between 1648 and 1680 by exploring the kitchen records of the Königsberg palace. You can read more about Molly's research and their early attempts at visualizing consumption at the Humanities+Design lab notebook (http://hdlab.stanford.edu/lab-notebook/palladio/2014/11/03/Taylor-Poleskey/) .
+
+[VISITORS]
+
+Ethan Blue (http://www.uwa.edu.au/people/ethan.blue) , a Senior Lecturer in History at the University of Western Australia, has been visiting CESTA for the past two weeks.  Though his previous work concentrated on the history of American prisons (Doing Time in the Depression: Everyday Life in Texas and California Prisons, NYU Press, 2012), he is collaborating with CESTA researchers to map the history US “Deportation Special” trains.  These trains made constant circuits through the country in the early twentieth century, picking up and then ejecting so-called “undesirable aliens” – non-citizens convicted of crimes, deemed mad or politically radical, the very poor, or else those considered racially ineligible to citizenship, many Chinese among them.  The project reconstructs the social world of the deportation trains by reassembling their passenger lists, tracing the deportees’ migratory routes and experiences, and then examining how they were captured and expelled by the
+nascent deportation regime; an assemblage that would only grow in the century that followed.
+
+[SOME PEOPLE!]
+
+Each month we will feature brief CESTA participant profiles so that you can get to know us a little better. Now for this month's featured VIPs.....
+
+GABRIEL WOLFENSTEIN
+
+Hi, I’m Gabriel K. Wolfenstein, the Project Manager and Researcher for two of CESTA’s big projects: the Andrew W. Mellon Crowdsourcing and the Humanities project, and, jointly with History and American Studies, the Chinese Railroad Workers Project.   I am a historian by training; my Ph.D. is in British History and the History of Science.  I work on, among other things, the history of statistics and the census, the popularization of science, the history of the railroads, and crowdsourcing.  Here at CESTA, I help make sure the projects that I work on move forward, by making sure that all moving parts (researchers, technology, partners inside and outside the University, etc.) work smoothly together.  I also pursue research on the projects that I work on, ranging from questions regarding the value of crowdsourcing to seeking out traces of Chinese railroad workers in the 19th century legal world. Within CESTA, I also help Matt Bryant and Celena Allen maintain lab cheeriness.
+Outside of CESTA, I am a political news junkie, read avidly, and enjoy regular pub quiz.
+
+MATT BRYANT
+Howdy, I'm Matt Bryant, and I am the center manager and communications coordinator for CESTA. I work on a variety of things around the center such as social media (including this monthly newsletter!), general administration and lab space logistics, coordinating technology purchases and support, assisting with grants and budgeting, staffing, events, and generally being the interface between the researchers and the larger financial and administrative structures across campus. I work closely with the Center's director on general operational issues and both the short term/long term vision for shaping how the Center will run. Much of what we do around here truly is a village effort, most of which is tag-teamed by me and my amazing fellow staff, all of whom make this place tick and a really great place to work. My role has shifted and evolved over time since it was created when CESTA first came into being almost three years go. All of the individual labs that make up CESTA have of
+course been around for much longer than that! It's been very rewarding to watch CESTA change and grow over the years.
+
+When I am not at CESTA, I enjoy riding and wrenching on motorcycles, woodworking, modern alt-country and Americana music, hiking, camping, traveling, occasional volunteer work, and quality time with friends and family. I've been married to my wonderful wife Julia for ten years, and we have two fuzzy felines plus a three-legged rescued cattle dog name Rudy. I have an MFA in Visual Art from the University of California, Riverside and an MA in Communication from U.C. San Diego. I have worked in various fields over the years, including the fine arts world, non-profits, architecture and engineering, woodworking, and of course academia. I'm originally from Texas, but eventually landed in California by way of Minneapolis, MN. If we haven't met and you're ever on campus, drop by and say howdy.
+
+============================================================
+Copyright © 2014 Stanford University, All rights reserved.
+
+Contact us: cesta DOT stanford AT gmail DOT com
+
+** unsubscribe from this list (*|UNSUB|*)
+** update subscription preferences (*|UPDATE_PROFILE|*)
+** Facebook (https://www.facebook.com/cesta.stanford)
+** Facebook (https://www.facebook.com/cesta.stanford)
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Website (http://cesta.stanford.edu)
+** Website (http://cesta.stanford.edu)
+
+This email was sent to *|EMAIL|* (mailto:*|EMAIL|*)
+why did I get this? (*|ABOUT_LIST|*)     unsubscribe from this list (*|UNSUB|*)     update subscription preferences (*|UPDATE_PROFILE|*)
+*|LIST_ADDRESSLINE_TEXT|*
+
+*|REWARDS_TEXT|*

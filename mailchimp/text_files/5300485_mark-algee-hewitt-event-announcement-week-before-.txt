@@ -1,0 +1,30 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+
+April 19, 2022. 12:00-1:15PM PT.
+Re-Formations: Visualizing Complex Concept Spaces in the Eighteenth Century
+Mark Algee-Hewitt
+Hybrid event: in-person at CESTA and via Zoom. Register for Zoom attendance here. (https://stanford.zoom.us/webinar/register/WN_ntkTmos_QCuyjjh6fZIpog)
+
+About this Talk: The eighteenth century was a rich period for the emergence of ideas that we continue to grapple with today. Contemporary ideas such as “political justice,” or “human rights,” not only appeared in the conceptual framework of eighteenth-century political, social, or philosophical theory, but the terms themselves also became part of the cultural lexicon. These compound concepts, in which two pre-existing terms are brought together into a new configuration with a single, stable meaning, form a critical backbone of eighteenth-century thought. In this project, I have trained a set of aligned vector models to trace the ways in which these kinds of concepts emerged within the eighteenth century. Using a new visualization that shows the changing relationships between the constituent parts of complex concepts over time, I focus the lens of this new tool on the concept of political revolution. With this method, I explore how the various changes in the discourse of revolution over the
+course of the eighteenth century set the stage for the political upheavals of the American and French Revolutions at the century’s close.
+
+About the Speaker: Mark Algee-Hewitt’s research focuses on the eighteenth and early nineteenth centuries in England and Germany and seeks to combine literary criticism with digital and quantitative analyses of literary texts. In particular he is interested in the history of aesthetic theory and the development and transmission of aesthetic and philosophic concepts during the Enlightenment and Romantic periods. He is also interested in the relationship between aesthetic theory and the poetry of the long eighteenth century.  Although his primary background is in English literature, he also has a degree in computer science. As the director of the Stanford Literary Lab, he is working to bring his interests in quantitative analysis, digital humanities and eighteenth-century literature to bear on a number of new collaborative projects. His forthcoming book, The Afterlife of the Sublime, explores the history of the sublime by tracing its discursive patterns through over 11,000 texts from the long
+eighteenth century, seeking clues to the disappearance of the term at the end of the Romantic period. As a Mellon Postdoctoral Fellow at McGill University, working with the Interacting with Print Research group, Dr. Algee-Hewitt was also involved in a variety of projects that combine literary interpretation with quantitative analysis. He is a co-coordinator of the Book History BiblioGraph, a new dynamic online resource and recommendation engine that visualizes connections between contemporary resources on Book History using statistical methods.
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

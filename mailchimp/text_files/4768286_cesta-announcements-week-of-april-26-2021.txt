@@ -1,0 +1,78 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Upcoming Online Events
+Week of April 26, 2021
+In the context of Stanford's policy concerning the COVID-19 pandemic, CESTA events are online for now. We look forward to seeing you at CESTA when it is safe to gather again.
+Tuesday, April 27 at 9 am Pacific:
+A Look Backwards Through the Index of Digital Humanities Conferences
+
+with Scott Weingart (Carnegie Mellon)
+and Nickoal Eichmann-Kalwara (CU Boulder)
+
+Online via Zoom
+Register for this event (https://www.eventbrite.co.uk/e/weingart-a-look-backwards-through-the-index-of-dh-conferences-tickets-137766656779)
+Scott Weingart is the Program Director of Digital Humanities at Carnegie Mellon University Libraries. Scott's scholarly interests include: history of science, digital humanities, 17th century astronomy, correspondence networks, feminist computing, media history, network science, scholarly communication, data visualization, epistemology of visual ontologies, folklore, data ethics, computer simulations, historiographic theory, early relativistic physics, statistical bias, scientometrics, open access, history of computing, methods in text analysis, and curriculum/pedagogy of computational methods for the humanities.
+
+Nickoal Eichmann-Kalwara is Assistant Professor, Digital Scholarship Librarian at Center for Research Data & Digital Scholarship and University Libraries at the University of Colorado Boulder. Nickoal's current research projects include a longitudinal analysis of DH conferences with Scott Weingart, a public digital humanities website dedicated to oral histories of the Civil Rights movement in Starkville, Mississippi (http://starkvillecivilrights.msstate.edu/) , and the role of Death Positivity in DH project sunsetting. In librarianship, Nickoal is interested in digital scholarship, especially digital humanities (DH), altmetrics, and open access. As a historian, Nickoal's background is in early modern European and Atlantic history, leaning toward intersections of crime, medicine, and religion.
+Also next week:
+
+Tuesday, April 27 at 2:00 pm
+Carpentries @ Stanford
+R Visualization
+Register for this event (https://cesta.stanford.edu/events/carpentries-stanford-r-visualization-0)  (Stanford affiliates only)
+
+Tuesday, April 27 at 2:00 pm
+CIDR
+Machine Learning with Python
+Register for this event (https://library.stanford.edu/events/ml-python-digital-tools-and-methods-humanities-and-social-sciences)  (Stanford affiliates only)
+
+Thursday, April 29 at 9:00 am
+Stanford Geospatial Center
+Georeferencing Maps in QGIS
+Register for this event (https://www.eventbrite.com/e/georeferencing-in-qgis-april-29th-9am-tickets-151860517897) (Stanford affiliates only)
+
+Thursday, April 29 (all day)
+Loyola University, UCLA, Università del Piedmont Orientale, and University of Guelph in Canada
+Day of DH 2021
+For more information (https://dhcenternet.org/initiatives/day-of-dh/2021)  | Follow #dayofdh2021 on Instagram and Twitter
+
+Thursday, April 29 - Saturday, May 1
+Stanford WebCamp
+For full schedule and more information (http://webcamp.stanford.edu/)
+
+Friday, April 30 at 9:00 am
+Carpentries @ Stanford
+Python Images and Data Science
+Register for this event (https://cesta.stanford.edu/events/carpentries-stanford-python-images-and-data-science)  (Stanford affiliates only)
+Coming up:
+
+Tuesday, May 4 at 12 pm
+CESTA Seminar Series
+Nora Barakat (Stanford) and David Wrisley (NYU Abi Dhabi): "OpenGulf: Creating Digital Research Infrastructures for Gulf Studies"
+Register for this event (https://stanford.zoom.us/meeting/register/tJErceCorDIiGNP2sdC-bibZcYmM2icWOnUs)
+
+Tuesday, May 11 at 12 pm
+CESTA Seminar Series
+Marcelo Balaban (University of Brasilia): "Counting Images: Creating a Database of Black Characters from Imperial Rio de Janeiro's Illustrated Press"
+Register for this event (https://stanford.zoom.us/meeting/register/tJItcuqrqDkrG9UhrYZahcOcD4SeR_vxR9AT)
+
+Wednesday, May 12 at 9 am
+CESTA & UCLDH Transnational Seminar Series: The Digital Humanities Long View
+Amy Earhart  (Texas A&M): "Complicating the whiteness of Digital Humanities: the Deep History of Black DH"
+Register for this event (https://www.eventbrite.co.uk/e/complicating-the-whiteness-of-digital-humanities-deep-history-of-black-dh-tickets-132245450703)
+All events listed above are in Pacific Time
+
+============================================================
+** Twitter (http://www.twitter.com/cesta_stanford)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (cesta.stanford.edu)
+** Subscribe to get weekly updates from CESTA (*|LIST:SUBSCRIBE|*)
+
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

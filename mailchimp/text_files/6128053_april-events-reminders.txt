@@ -1,0 +1,41 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+
+Workshop:
+Legal Issues in Computational Research Using Text and Data Mining (https://events.stanford.edu/event/legal_issues_in_computational_research_using_text_and_data_mining)
+
+Wednesday, April 5 | 12 - 1:15 PM | Hohbach Hall, Green Library
+
+Computational research techniques such as text and data mining (TDM) hold tremendous opportunities for researchers across the disciplines, ranging from mining scientific articles to create better systematic reviews to building a corpus of films to understand how concepts of gender, race, and identity are shared over time. Unfortunately, legal uncertainty associated with text and data mining can stifle this research.
+
+This workshop will survey existing law and policy and highlight pathways forward for researchers, including fair use and TDM-specific exemptions to copyright, particularly for users of materials covered by digital rights management (DRM) and other similar technology. We will also discuss limitations of the law and explore ways in which it might be improved.
+
+This interactive, in-person workshop will take place from 12pm-1pm, followed by an optional Q&A session from 1pm-1:30pm. Boxed lunches will be provided following the workshop. Participants who wish to remain for the optional Q&A session are invited to join the presenters for lunch. The workshop will be led by Dave Hansen, Executive Director, and Rachel Brooke, Senior Staff Attorney, both of Authors Alliance, (https://www.authorsalliance.org/about/)  a nonprofit that exists to support authors who research and write for the public benefit. Both are copyright experts who have worked extensively on legal barriers to research and both are PIs for the Authors Alliance Text and Data Mining: Demonstrating Fair Use Project (https://www.authorsalliance.org/2022/12/22/announcing-the-text-and-data-mining-demonstrating-fair-use-project%EF%BF%BC/) , which is generously supported by the Mellon Foundation.  (https://mellon.org/)
+
+
+Later this Week
+
+Join us a for a new monthly tradition! On each first Thursday of the month, stop by CESTA for a coffee, tea, pastry and conversation with colleagues! Also, grab some of the new CESTA stickers, inspired by the designs of the research anthologies.
+
+Thursday, April 6 | 2:00 PM | CESTA (Wallenberg Hall, 4th floor)
+
+News & Announcements
+Living with Machines: Open Call for Digital Residencies (https://www.turing.ac.uk/work-turing/living-machines-open-call-digital-residencies)
+Proposals Due: Friday, April 4
+The Living with Machines project is offering up to 6 digital residencies to work with some of the data sets and tools that we have created on the project.These grants are part of our initiative to support engagement with data-driven humanities research, building a larger research community. To learn more about the Project and the digital residencies, visit the Living with Machines webpage (https://www.turing.ac.uk/work-turing/living-machines-open-call-digital-residencies) .
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

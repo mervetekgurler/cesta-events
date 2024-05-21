@@ -1,0 +1,84 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+
+
+** CESTA Digest
+Autumn, Week 8, 2018
+------------------------------------------------------------
+1 (#Training Opportunities) . Training Opportunities (#Training Opportunities)
+2. Event (#Events) s, (#Events)   (#Events) Grants, and Funding Opportunities (#Grant and Funding Opportunities)
+3 (#Community Announcements) . Community Announcements (#Community Announcements)
+
+
+**
+------------------------------------------------------------
+1) Spatial Data Workshop Schedule
+Nov 30, 9am
+Introduction to Earth Engine for Beginners.
+Huang Engineering Building (475 Via Ortega, Basement)
+Learn  (https://library.stanford.edu/research/stanford-geospatial-center/workshops) more at the Stanford Geospatial Center Website (https://library.stanford.edu/research/stanford-geospatial-center/workshops)
+
+2) 2019 Digital Humanities Summer Institute
+Apply by February 14 , 2019 at: http://dhsi.org/scholarships.php
+Register via: http://dhsi.org/courses.php
+
+3) Humanities Training Intensive Teaching and Learning (HILT) Institute
+Details at: http://dhtraining.org/hilt/conferences/hilt-2019/ and at the Scholarship Form (https://docs.google.com/forms/d/e/1FAIpQLSciuADfslt45nx2BLC7HEkf7EfqZWQAZCEnumHjrDOfVTSpkA/viewform)
+
+
+**
+------------------------------------------------------------
+1) When and Where was Hindustan?
+Thursday, November 29, 11:30am at the David Rumsey Map Center.
+The event is free, but pre-registration is required. For more, including registration, see here. (https://mailchi.mp/9449bfbd938c/when-and-where-was-hindustanastronaut-ed-luglobal-imaginarystudent-essay-competition)
+
+2) Newberry Fellowships (2)
+Short-Term Fellowships (https://www.newberry.org/short-term-fellowships) (due Dec. 15)
+Publication Subvention (https://www.newberry.org/publication-subvention) (due Dec. 15)
+For more information about the application process, visit here (https://www.newberry.org/how-apply)
+
+3) Canadian Society for Digital Humanities - Congress of the Social Sciences and Humanities 2019
+Proposals due: 17 December 2018.
+Registration and full details here (https://csdh-schn.org/2018/10/29/cfp-csdh-schn-congress-2019-in-vancouver/)
+
+4) Big Data and Society - Special Online Edition
+Submissions are due Dec. 31 (https://journals.sagepub.com/page/bds/collections/data-politics)
+
+5) American Council of Learned Societies
+Applications due January 16, 9pm ET.
+For more information and the application process, visit the (https://www.acls.org/programs/digitalextension/) ACLS Web (https://www.acls.org/programs/digitalextension/) page for the Digital Extension Grant. (https://www.acls.org/programs/digitalextension/)
+
+
+**
+------------------------------------------------------------
+1) New DH Course in Winter:
+DLCL 204: Digital Humanities Across Borders. Coming this winter! Taught by Quinn Dombrowski (Academic Technology Specialist, DLCL).
+Find more info and the full course description here on explore courses (https://exploredegrees.stanford.edu/search/?P=DLCL%20204)
+
+
+
+============================================================
+The Center for Spatial and Textual Analysis
+Visit us online at: cesta.stanford.edu
+Follow us on Twitter @cesta_stanford
+
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+** Follow on Twitter (http://www.twitter.com/)
+** Friend on Facebook (http://www.facebook.com/)
+** Follow on Instagram (http://instagram.com/)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

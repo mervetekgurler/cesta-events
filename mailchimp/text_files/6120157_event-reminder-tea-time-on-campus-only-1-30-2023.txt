@@ -1,0 +1,45 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Tuesday at CESTA!
+
+
+** Words Close to Heart: A Techno-Cognitive Approach to Interiority in Modern Chinese Literature  (https://cesta.stanford.edu/events/maciej-kurzynski-words-close-heart-techno-cognitive-approach-interiority-modern-chinese)
+------------------------------------------------------------
+Maciej Kurzynski
+PhD Candidate, Modern Chinese Literature,
+Stanford University
+
+Tuesday, January 31 | 12-1.15 PM | Wallenberg 433A
+
+Representations of interiority in literature have been approached from both spatial and temporal perspectives. With regard to spatial metaphors, cognitive literary scholars have shown that variants of cardiocentrism – the notion that the heart is the center of cognition and emotional life – originated independently in multiple cultures, thus confirming the internalist intuition. By contrast, the distributed view of cognition holds that the mind “extends beyond the skin” and emphasizes the social, dispersed, and external nature of emotions. In terms of temporal metaphors, the diachronic approach identifies epistemic shifts in cultural history whereby one discursive formation gives way to another in a revolutionary fashion. According to the synchronic view, however, literary representations of interiority remain fairly stable despite cultural transformations. In this talk, I propose a techno-cognitive approach to interiority in literature which mediates all four perspectives, and I apply it
+to Chinese texts. My work builds upon word embeddings, a computational technology that allows us to represent the meaning of words as vectors in a multidimensional space. Measuring semantic shifts between time-specific vector representations of the term “in one’s heart” (xinli 心里) and its synonyms (xinzhong 心中, neixin内心, xinxia 心下, etc.) in early modern and modern Chinese literature, I account for all four poles in the graph: continuity and discontinuity, contextuality and the hors-texte.
+
+The presentation will include lunch and take place at the Stanford Center for Spatial and Textual Analysis in Wallenberg 433A. A Zoom link is available upon request from Center Manager, Jonathan Clark (jclark93@stanford.edu (mailto:jclark93@stanford.edu) ).
+
+About the Speaker: Maciej Kurzynski is a Ph.D. Candidate in modern Chinese literature. Before coming to Stanford, he received a BA in Art History from the University of Warsaw and an MA in Literary Theory (文艺学) from Zhejiang University. Entitled “Words of Passion: Narrative Technologies of Modern China,” his doctoral dissertation integrates natural language processing (NLP), cognitive narratology, and aesthetic theory to explore the relationship between human cognition and the formal side of narratives produced in China during the long twentieth century.
+
+Co-sponsored with the Division of Literatures, Cultures, and Languages (https://dlcl.stanford.edu/)  and the Center for East Asian Studies (https://ceas.stanford.edu/) .
+Coming up this Thursday:
+
+
+Join us a for a new monthly tradition! Stop by CESTA for a coffee, tea, or pastry and conversation with colleagues!
+
+Thursday, February 2 | 2:00 PM
+CESTA (Wallenberg Hall, 4th floor)
+
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

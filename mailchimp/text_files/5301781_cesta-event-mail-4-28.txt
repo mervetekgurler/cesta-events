@@ -1,0 +1,77 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Next Week at CESTA
+A portrait of Nicholas Giudice, a white man with brown hair. He is wearing a blue shirt under a black jacket, and he is standing in front of a neutral off-white background.
+
+Tuesday, May 3, 1:00 to 2:15PM PT
+Nicholas Giudice
+Improving Accessibility of Maps and Graphics: Promoting Inclusion Through Multisensory Visualizations
+With a response by Peter Broadwell
+Online, via Zoom. Register for Zoom attendance here. (https://stanford.zoom.us/webinar/register/WN_VEQl9AfUSV2nchgpVTozcg)
+Please note that this talk will be held one hour later than the usual seminar time.
+
+Abstract: In this talk, I will discuss challenges with current approaches of data visualization (maps, figures, graphs), arguing that traditional practices are often exclusionary and outdated with respect to (1) an understanding of human information processing in the brain and (2) the technologies and user interfaces they use. We will discuss how most ‘visual’ information underlying what is visualized is really ‘spatial’ information and that all of our senses are able to convey spatial information. This opens the door for the efficacy and merit of multisensory approaches to data visualization, which will be discussed in terms of underlying theory related to how spatial information from different senses is processed in the brain and how modern user interfaces can support this new form of visualization. The key take home message is that we need to move beyond vision-only visualizations and that multisensory approaches are not only more accessible and inclusive, but they also model how our
+brain actually works. Some practical examples will be shared from my research, with the hope of generating discussion.
+About the speaker: Dr. Nicholas Giudice received his Ph.D. in the Cognitive and Brain Sciences program from the University of Minnesota in 2004. He is currently Professor of Spatial Computing in the School of Computing and Information Science at the University of Maine and founder and Chief Research Scientist of UMaine’s Virtual Environments and Multimodal Interaction (VEMI) Lab (https://umaine.edu/vemi). Nicholas’s research focuses on the design and evaluation of bio-inspired multisensory technology supporting graphical access, navigation with and without vision, and autonomous vehicle accessibility. His work is aimed at increasing information access and independence for blind and visually impaired (BVI) people, older adults experiencing visual impairment, and sighted folks in eyes-free situations. He is himself congenitally blind and has a long history of both designing and using assistive technologies.
+Dr. Giudice has published over 150 scientific papers in these areas, advised over 100 graduate and undergraduate students, and collaborated on over $15 million in research grants in this field from NIH, NSF, and NIDILRR. He is on the board of directors of two blindness-related organizations (The Iris Network and ACB of Maine), the editorial board of two accessibility journals (Transactions on Accessible Computing and Assistive Technology), the scientific advisory board of two information-access companies (Aira Tech Corp and Click&Go wayfinding maps), and is the co-founder and Chief Research Officer of UNAR Labs, a Maine-based start-up company designing innovative multisensory technologies promoting inclusive information access.
+DH Long View
+
+May 5, 2022. 9:00AM PT.
+Transnational Digital Humanities in the Digital Black Atlantic
+Roopika Risam
+Online, via Zoom. Register here. (https://stanford.zoom.us/webinar/register/WN_w8R3zm0SS66KpJ9WHHCQ-A)
+
+About this talk: How do we reconcile transnationalism in the context of digital humanities? In what ways does transnationality risk perpetuating inequalities in digital knowledge production? In this talk, Roopika Risam will discuss her work co-editing The Digital Black Atlantic with Kelly Baker Josephs, as well as her work on the Pan-Africanism Data Project, to explore the fraught nature of transnational discourses and practices in digital humanities.
+
+About the speaker: Roopika Risam is Chair of Secondary and Higher Education and Associate Professor of Education and English at Salem State University. She is the author of New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy (Northwestern University Press, 2018) and co-editor of The Digital Black Atlantic (University of Minnesota Press, 2021). Risam also co-edits the journal Reviews in Digital Humanities, which offers peer review of digital scholarly outputs. Risam is the Principal Investigator of the Digital Ethnic Futures Consortium, an initiative supported by the Andrew W. Mellon Foundation to build capacity for teaching at the intersections of digital humanities and ethnic studies. Her current book project, “Insurgent Academics: A Radical Account of Public Humanities,” traces a new history of public humanities through the emergence of ethnic studies. Learn more about her work at http://roopikarisam.com.
+Critical Data Practices Workshop
+Wednesday, May 4, 2022. 5:30-7:00PM PT.
+Workshop: The Spatial Dimension of Data
+Hybrid event. Registration (in-person and online) and Zoom link (https://docs.google.com/forms/d/e/1FAIpQLScKuqmt1X93Br4R8irHUZxaoUrD6fL-XD2BCfgiyXPdK6i_vA/viewform) .
+
+Whether it comes from the real world or the fictional, humanistic data nearly always has a spatial component, whether we call that “location”, “source”, “setting.” Often, though, space is either the focus of inquiry, or an afterthought, if not left out altogether. Digital tools offer a wide variety of possibilities for working with spatial data, from mapping and visualization to more complex forms of spatial analysis. How can we take advantage of these methods and possibilities to better capture the spatial aspect of our data, and what can scholars of the spatial show us that we might be missing in our present work?
+Upcoming at CESTA
+
+May 10, 2022. 12:00-1:15PM PT.
+Tuesday Lunchtime Seminar
+Centering People in Information Translation (https://cesta.stanford.edu/events/cynthia-bennett-centering-people-information-translation)
+Cynthia Bennett
+Online, via Zoom. Register here (https://stanford.zoom.us/webinar/register/WN_rQbVtNKMTWueLy0Nmj5_Zg) .
+Please note that this talk will be held one hour later than the usual Tuesday Lunchtime Seminar time.
+
+May 17, 2022. 12:00-1:15PM PT.
+Tuesday Lunchtime Seminar
+On the Road to Mecca: Simulating the Ottoman Hajj (https://cesta.stanford.edu/events/tyler-kynn-road-mecca-simulating-ottoman-hajj)
+Tyler Kynn
+Hybrid event: in-person at CESTA and via Zoom. Register here. (https://stanford.zoom.us/webinar/register/WN_2WK0zDbYQdOkvn1bt8n1LQ)
+
+May 19, 2022. 9:00-10:00AM PT.
+DH Long View Seminar
+Central Asia and the Role of Digital Heritage Inventories
+Tim Williams
+Online, via Zoom. Register here. (https://stanford.zoom.us/webinar/register/WN_Ko_LDqfrRKeigtE5S4Ci2w)
+Elsewhere on Campus
+
+CIDR R Data Wrangling
+May 3, 2022. 2:00-5:00PM PST.
+Hybrid format: online and in-person. More information. (https://library.stanford.edu/events/cidr-r-data-wrangling)  Register. (https://appointments.library.stanford.edu/event/9022243)
+
+CIDR R Visualization
+May 5, 2022. 2:00-5:00PM PST.
+Hybrid format: online and in-person. More information (https://library.stanford.edu/events/cidr-r-visualization-0) . Register. (https://appointments.library.stanford.edu/event/9022245)
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

@@ -1,0 +1,126 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+
+
+** CESTA Digest, September
+------------------------------------------------------------
+CESTA Highlights (#CESTA Announcements)
+Other Announcements (#Other Announcements)
+CESTA Announcements
+
+Looking Back: CESTA Summer Internship
+
+Each summer a new cohort of Stanford undergraduates bring their unique perspectives, backgrounds, and intellects to CESTA to conduct research in the digital humanities with faculty mentors. Thank you to all the students, faculty, and staff who made summer such a wonderful time at CESTA. We look forward to seeing you here in fall. Stay-tuned for the upcoming CESTA Research magazine, a snapshot of intern research!
+
+Click here for photo highlights (https://stanford.box.com/s/38lhok85pv4so7d4dxxczrzu1hncvwjj)
+Watch intern spotlights on Youtube (https://www.youtube.com/channel/UCok8JHwa7L9XR1FN6bftGyw?view_as=subscriber)
+
+CESTA Seminars
+
+Our fall series begins Tuesday, October 8 with a lecture by Rachel Midura on "Early Modern Place and Space in Printed Itineraries." The event includes lunch and begins at 12PM in the CESTA Large conference room.
+
+October 8 - Rachel Midura (https://stanford.box.com/s/87gkyd4gxppqpca9fqp3aiy6g7h0t1lf)
+October 15 - Rowan Dorin, Thawsitt Naing, and Clara Romani (https://stanford.box.com/s/jt9wlrjkuh7gjgrktrgdavl7l2sqx5zm)
+
+New Cantor Exhibit Reinterprets the Stanford Family Collection
+
+Check out the Stanford News story (https://news.stanford.edu/2019/09/17/compelling-origin-story-stanford-museum-university-silicon-valley/) about Cantor's new exhibit, The Melancholy Museum, by artist Mark Dion which mentions work by student interns and other researchers at CESTA.
+
+Other Announcements
+Understanding ourselves and our past (https://news.stanford.edu/2019/08/16/ways-studying-humanity/)
+CESTA people and projects featured in Stanford News.
+"How the Transcontinental Railroad Impacted Utah" (https://www.upr.org/post/how-transcontinental-railroad-impacted-utah-richard-white-thursdays-access-utah)
+Professor Richard White on Utah Public Radio.
+Who Cares About Literary Prizes?- public books.org (https://www.publicbooks.org/who-cares-about-literary-prizes/)
+by Literary Lab's Xander Manshel, Laura McGrath, and J.D. Porter
+
+
+** Social Data Research Rally
+------------------------------------------------------------
+Wednesday, Oct. 2nd at 11:30am (https://sdrr.stanford.edu/)
+Location: Knight Management Center, Oberndorf Event Center
+
+
+** Fall Events at the Rumsey Map Center
+------------------------------------------------------------
+Gender, Sexuality, Cartography | Oct. 10-12, 2019 (https://www.eventbrite.com/e/barry-lawrence-ruderman-conference-on-cartography-2019-tickets-60731574775)
+A Cartographic Odyssey: A Talk with Anton Thomas | Oct. 22, 2PM (https://stanford.us14.list-manage.com/track/click?u=bc280d099b8c85ba9fd6e0bb0&id=8ab345de80&e=76caacd0b7)
+California Map Society Student Essay Competition 2020: Now Open! (https://stanford.us14.list-manage.com/track/click?u=bc280d099b8c85ba9fd6e0bb0&id=0daa6356d0&e=76caacd0b7)
+
+
+** Brown Institute for Media Innovation Fall Lectures
+------------------------------------------------------------
+Location: Gates 174, 353 Serra Hall, Stanford (https://brown.columbia.edu/event/4712/)
+
+10/15: Innovating with Data | Jeremy Bowers, Director of Engineering, Washington Post
+11/5: Innovating with AI | Xiao Ma, Director of Engineering, Medium
+11/12: Innovating with Platforms | Stacy-Marie Ishmael, Senior Editor, Apple News
+
+CIDR Workshops
+Full schedule and details here. (http://www.cidr.stanford.edu/workshops)
+
+Introduction to R
+October 2
+Introduction to Stata
+October 4
+Introduction to Python
+October 9
+Data Manipulation with R
+October 16
+Data Manipulation with Python
+October 23
+Text Analysis with R
+October 30
+
+Stanford Geospatial Center Training
+QGIS 101: An Introduction to spatial data with Open Source software (https://www.eventbrite.com/e/qgis-101-an-introduction-to-spatial-data-with-open-source-software-tickets-73843902099)
+October 4, 9am - 12pm
+
+Science & Engineering Libraries announce new walk-in research consulting service. (https://library.stanford.edu/research/data-management-services/consulting-training-and-other-services)
+
+Women Writers Project
+Northeastern's Women Writers Project (https://www.wwp.northeastern.edu/outreach/seminars/) is hosting a series of NEH-funded seminars on using word embedding models in teaching and research.
+
+DH Literacy Guide from Carnegie Mellon
+This DH Guide from Carnegie Mellon (https://cmu-lib.github.io/dhlg/) is a great online resource, helping you explore Digital Humanities tools and tutorials through videos, grant listings, and networks.
+
+CFP: Current Research in Digital History
+Submission deadline: October 25, 2019 (http://crdh.rrchnm.org/)
+The Roy Rosenzweig Center for History and New Media invites submissions for the third annual Current Research in Digital History conference.
+
+CFP: Linked Pasts 5 - Back to the (re)sources
+Proposal deadline: Oct. 15 (https://linkedpasts5.sciencesconf.org/resource/page/id/7)
+Hosted by University Bordeaux Montaigne, Dec. 11-13, 2019
+
+
+** CFP: Revealing Meaning: Feminist Methods in Digital Scholarship
+------------------------------------------------------------
+Abstract due Nov. 22 (https://hfroehli.ch/2019/08/25/call-for-papers-revealing-meaning-feminist-methods-in-digital-scholarship/)
+Proposed by Kim Martin and Heather Froehlich, this volume seeks propositions for chapters in which digital methodologies engage with intersectional feminist scholarship.
+CFP: Current Research in Digital History at George Mason University
+Proposals due Oct. 25 (http://crdh.rrchnm.org/cfp/)
+An annual conference on March 14, 2020 that publishes online, peer-reviewed proceedings. Its primary aim is to encourage and publish scholarship in digital history that offers discipline-specific arguments and interpretations.
+CCSRE, Race and Technology Initiative
+Submission deadline: Sept. 30 (https://ccsre.stanford.edu/race-technology-initiative)
+CFP: Journal of Open Humanities Data
+Currently inviting submissions.  (https://openhumanitiesdata.metajnl.com/announcement/)
+CFP: Exploring Literacies Through Digital Humanities
+Proposals due Oct. 30 (https://acrl.ala.org/dh/2019/09/04/cfp-exploring-literacies-through-digital-humanities/)
+https://cesta.stanford.edu/
+https://twitter.com/cesta_stanford
+https://www.youtube.com/channel/UCok8JHwa7L9XR1FN6bftGyw/videos?view_as=subscriber
+Want to change how you receive these emails?
+You can update your preferences (*|UPDATE_PROFILE|*) or unsubscribe from this list (*|UNSUB|*) .
+Previous Digests (https://us9.campaign-archive.com/home/?u=d3edfb9438089c6e3817bee4d&id=ae053ecd6e)
+Copyright ©2019 |The Center for Spatial and Textual Analysis
+
+
+
+============================================================
+
+This email was sent to *|EMAIL|* (mailto:*|EMAIL|*)
+why did I get this? (*|ABOUT_LIST|*)     unsubscribe from this list (*|UNSUB|*)     update subscription preferences (*|UPDATE_PROFILE|*)
+*|LIST_ADDRESSLINE_TEXT|*
+
+*|REWARDS_TEXT|*

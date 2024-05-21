@@ -1,0 +1,75 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Upcoming Events
+
+December 1, 5:30PM
+
+Critical Data Practices Workshop
+
+Making Data for the Future
+Hybrid format. Register here (https://docs.google.com/forms/u/1/d/e/1FAIpQLSeqMONWzo2uCb_VX_hqmFDGSXHY5Im6oGoXuGSTo1dq4SJVmA/viewform?usp=send_form) .
+
+About this event: As scholars, we are accustomed to thinking about the accountability of our scholarship to the future, but what about the future of our data? Will future scholars want access to the data we collect in the here and now, and if so, how and in what ways? Should we store only the data needed to reproduce our work, or do we go out of our way to provide data we collected and perhaps analyzed, but did not ultimately use? Professional guidelines tell us what to do with sensitive data, but what about material that feels like it shouldn’t be shared for other reasons, or simply doesn’t seem like it will be useful? And how does the provision of data intersect with the preservation of analytic tools and code? Finally, who and when are we storing our data for—ourselves, or others? Next year, or the next century?
+The Critical Data Practices Workshop Series explores the unique challenges that face the arts and humanities as we ground data-driven insights in real-world human complexity, and in various social, cultural, and historical contexts. Digitization and computational methods provide new opportunities for understanding the cultural implications of data, its meaning, and its significance to the long history of recorded human experience. We must therefore carefully consider the ways that we derive meaning from data through critical attention to methods and sources. The workshop gives particular attention to what the humanities have to say to data practices in the current moment and urges us to critically examine the issues of representation, equity, accessibility, and discoverability.
+
+December 2, 12-1.15PM
+
+Stephen Samson, Cornell
+
+Digital Philology and the Measure of Greek Epic
+In person. Classics Seminar Room (Bldg 110, Rm 112).
+This event is part of "The Future of the Past", a Stanford Humanities Center Workshop hosted by Prof. Hans Bork, Rachel Dubit, and Annie Lamar.
+
+About this talk: Homeric philology presents challenges—and opportunities—to recent developments in computational literary studies. Although the epic corpus is meager in comparison to the massive amount of modern literature, quantitative approaches to hexameter poetry from the early 20th century onward provide promising ways to leverage stylistic data for close reading Archaic, Hellenistic, and Imperial Greek epic. This talk demonstrates how metrical data, particularly the sedes of lemmata, uncovers intertexts, enhances interpretation, and enriches perspectives on style, formula, and narrative.
+About the speaker: Stephen Sansom is a Hellenist specializing in early Greek poetry and its reception, especially epic, aesthetics, and digital humanities. He received his PhD in Classics from Stanford University in 2018 before joining Cornell's Department of Classics as a Postdoctoral Associate and fellow in the Active Learning Initiative. He is an alumnus of CESTA's Digital Humanities Graduate Fellowship.
+
+“Cosimo’s Cosmos: Cosimo Bartoli and Renaissance News (https://cosimobartoli.saramansutti.com/) ” is a community-based project to transcribe the letters and newsletters written by Cosimo Bartoli, Medici’s agent in Venice, between 1562 and 1572.
+
+The first all-day Transcribathon will take place online on Thursday, December 9, 2021. Register to take part! (https://www.eventbrite.com/e/cosimos-cosmos-transcribathon-tickets-211077056157)    This event is not affiliated with CESTA.
+
+News from our Members
+We'd love to hear your news! If you've recently been awarded a grant or fellowship, started a new position, or published a book, article or website relevant to our audience, please let us know (mailto:m.velloso-lyons@stanford.edu) .
+
+Congratulations to Rachel Midura on her recent article in the Journal of Social History, "Itinerating Europe: Early Modern Spatial Networks in Printed Itineraries, 1545-1700" (https://academic.oup.com/jsh/article/54/4/1023/6307887?login=true) . Rachel was formerly a Senior Graduate Fellow at CESTA and is now Assistant Professor of Digital History at Virginia Tech (https://liberalarts.vt.edu/departments-and-schools/department-of-history/faculty/rachel-midura.html) .
+
+Congratulations to CESTA affiliates Mark Algee-Hewitt and Dan Edelstein, whose collaborative research team is one of only four to have been awarded a second round of funding by the Hoffman-Yee Research Grant Program (https://hai.stanford.edu/news/stanford-hai-announces-four-hoffman-yee-grantees) ! Their AI "Time Machine" project investigates the history of concepts across multiple languages.
+Watch members of the team introduce the project.
+
+https://youtu.be/CIaOwPwHNZ0?t=2560
+
+Calling all undergraduates!
+
+Applications are open for our 2022 Undergraduate Research Internship program!
+
+We have 24 different research projects seeking interns, many of them new this year. The 2022 program has two formats: a two-quarter part-time internship (January-June) and a part-time or full-time summer program (late June through August).
+
+Apply (https://forms.gle/wpJwaQkT48zqRKsCA)  for our internship program today! (https://forms.gle/wpJwaQkT48zqRKsCA)
+
+Applications will be reviewed on a rolling basis, so students are strongly encouraged to apply early. An important change: students who have previously interned for CESTA are required to fill out a new application form.
+
+For more information and to apply, visit our webpage (https://cesta.stanford.edu/news/undergraduate-research-opportunities-cesta-winter-spring-andor-summer-2022) .
+Applications close at 11.59 PM PT, January 5 2022.
+Questions? Send us an email. (mailto:cesta_stanford@stanford.edu)
+In Case You Missed It
+
+https://youtu.be/EybAGwyfKzY
+
+On Stanford's inaugural Democracy Day, Asst. Professor of History Destin Jenkins spoke about his project "The Business of Debt", which visualizes the twentieth-century history of the US municipal bond market, offering new insights into drivers of economic inequality.
+
+If you are inspired by Destin's work, his new project "Scofflaws and Debt Collectors" is looking for an undergraduate research intern. Apply here today! (https://cesta.stanford.edu/news/undergraduate-research-opportunities-cesta-winter-spring-andor-summer-2022#scofflaws)
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

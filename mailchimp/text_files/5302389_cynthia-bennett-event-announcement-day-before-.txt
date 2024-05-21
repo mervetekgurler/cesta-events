@@ -1,0 +1,32 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Tomorrow at CESTA
+A portrait of Cynthia Bennett, a white woman with dark blond hair, smiling widely. She is seen from the elbows up, wearing a turquoise blouse. Behind her hang various tactile artworks, including a map of Seattle and a wall hanging with different colored cubes jutting out of the canvas.
+
+Tuesday, May 10, 1:00 to 2:15PM PST
+Cynthia Bennett
+Centering People in Information Translation
+Online via Zoom. Register for Zoom attendance here. (https://stanford.zoom.us/webinar/register/WN__25wALfRTEKeSO1BBQoqOg)
+Please note that this talk will be held one hour later than the usual seminar time.
+
+Abstract: Inaccessible information has wide-ranging consequences. These span people with disabilities being unable to read COVID-19 infographics to them being excluded from digital networks like social media and remote meetings which frequently and rapidly transmit highly visual information. One approach to increasing nonvisual access to information for people who are blind and low vision is artificial intelligence (AI), which promises automation and scalability. However, research and media reports continue to illuminate AI-bias and malicious applications. As these harms tend to impact people who already experience marginalization, the ethics of applying AI to solve perennial accessibility challenges is complicated.
+
+In this talk I will overview one project I led concerning one facet of information accessibility—how people are represented in human and AI-generated alternative (alt) text descriptions. I will share findings from interviews I conducted with blind people who rely on alt text to understand visual information and who also identified as a minoritized race or gender shown to be disproportionately misrepresented by AI-powered human recognition systems. From their experiences and perspectives, I synthesized alt text design considerations. However, I will conclude the talk with provocations for the audience, rooted in examples from art and disability activism, which ask us to move beyond future systems which invisibly automate alt text production to reveal and reimagine human-centered methods for interpreting visual content into nonvisual formats.
+
+About the speaker: Cynthia Bennett is a Postdoctoral Fellow at Carnegie Mellon University’s Human-Computer Interaction Institute. Her HCI research concerns the intersection of power, disability, and design. Bennett is regularly invited to speak about her research; recent hosts include the Goethe-Institut and  The Radical AI podcast. She has received funding from the National Science Foundation, Microsoft Research, and the University of Washington’s Human Centered Design and Engineering department, where she completed her Ph.D. She has published in top-tier human-computer interaction venues, and seven of these papers have received awards.
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University

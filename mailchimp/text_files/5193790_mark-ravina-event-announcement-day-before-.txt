@@ -1,0 +1,30 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+Tomorrow at CESTA
+
+Tuesday, March 15, 12:00 to 1:15PM PST
+Mark Ravina
+"Rethinking Borders in a Digital Age"
+Hybrid Event: In-Person at CESTA and via Zoom. Register for Zoom attendance here. (https://stanford.zoom.us/meeting/register/tJYqdOCvpz0jG9X-VsjxrFiQH8-76StohKn4)
+
+Note: this seminar will be a hybrid event. We are looking forward to welcoming you back into our space! A box lunch will be available to in-person attendees for takeaway. Zoom attendees can register using the link above.
+
+About this talk: The rise of “born digital” maps requires a rethinking of how we draw borders. Digital maps are algorithmic: the smooth lines of borders result from mathematical rules. While border lines on maps were once freehand patterns in graphite or ink, borders created by software assume exact spatial coordinates connected by formulas. But whose data and which formulas? Over the past few decades, researchers have created a rich vocabulary for discussing frontiers, contact zones, and other shared and contested spaces, but our cartographic vocabulary still favors simple linear borders. Born digital maps thus invite a combination of data science and critical theory, exploring the power relations and assumptions behind seemingly objective mundane or practices. This paper explore these questions in terms of early modern Japan: how can we draw maps that depict confusion, ambiguity, or contestation?
+
+About the speaker: Mark Ravina is Professor of History at the University of Texas at Austin. His specialty is Japanese history, especially the transnational and international dimension of state-building. His third book, To Stand with the Nations of the World: Japan’s Meiji Restoration as World History was published in 2017 by Oxford University Press and won the best book prize of the Southeast Conference of the Association for Asian Studies. He is currently working on two digital humanities projects. The first employs text mining to explore changes in Japanese political vocabulary in the 1870s and 1880s. The second focuses on the challenge of mapping changing political and administrative borders in nineteenth-century Japan.
+
+============================================================
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Instagram (http://instagram.com/cesta_stanford)
+** Website (http://cesta.stanford.edu)
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+Not yet a subscriber? ** Complete this form to subscribe (http://eepurl.com/hd1J5D)
+.
+Center for Spatial and Textual Analysis (CESTA)
+Wallenberg Hall (Bldg 160), Fourth Floor
+Stanford University
