@@ -1,0 +1,75 @@
+{
+  "Center": {
+    "Name": "Center for Spatial and Textual Analysis",
+    "Location": "Stanford University",
+    "Address": {
+      "Street": "450 Serra Mall",
+      "Building": "Wallenberg Hall (Bldg. 160), Fourth Floor",
+      "MailCode": "2055",
+      "City": "Stanford",
+      "State": "CA",
+      "ZipCode": "94305-2055"
+    },
+    "Contact": {
+      "Phone": "650-721-1385",
+      "Email": "cesta_stanford@stanford.edu"
+    },
+    "Online": {
+      "Facebook": "URL_placeholder",
+      "Twitter": "URL_placeholder",
+      "CampusMap": "URL_placeholder",
+      "WebAuthLogin": "URL_placeholder",
+      "SUNetIDLogin": "URL_placeholder"
+    },
+    "About": "Stanford’s internationally-renowned Center for Spatial and Textual Analysis (CESTA) is a pioneering research hub, where we use and critique digital tools and methods to create new knowledge in cross-disciplinary humanistic inquiry. We are a community of researchers committed to collaborative, open, inclusive, and ethical scholarship setting a standard for best practice in all our endeavors.",
+    "Director": {
+      "Current": {
+        "Name": "Elaine Treharne",
+        "Title": ["Roberta Bowman Denning Professor of Humanities", "Professor of English"],
+        "StartDate": "June 1"
+      }
+    },
+    "Programs": {
+      "MoreInfoURL": "URL_placeholder"
+    },
+    "ProjectsAndLabs": {
+      "InfoURL": "URL_placeholder"
+    },
+    "NewsAndEvents": {
+      "RecentNews": [
+        {
+          "Date": "Dec 5 2016",
+          "Title": "New interactive Stanford website presents unexamined data on federal programs that aid local governments in the American West",
+          "AdditionalInfo": "Follow the Money Website Launch in the News"
+        },
+        {
+          "Date": "Oct 25 2016",
+          "Title": "Paid Undergraduate Research Opportunities in CESTA"
+        }
+      ],
+      "UpcomingEvents": [
+        {
+          "Date": "Jan 24",
+          "Event": "DHAsia Presents | Diasporas Online: A Mixed Methods Approach to Sikh and Tamil Identity Politics, by Priya Kumar",
+          "Location": "CESTA, Wallenberg Hall, 4th Floor",
+          "Time": "4:15pm"
+        },
+        {
+          "Date": "Jan 31",
+          "Event": "Shelley Fisher Fishkin & Gabriel Wolfenstein: \"Listening to Silence, Seeing Absence: The Challenge of Reconstructing Chinese Railroad Workers' Lives\"",
+          "Location": "Wallenberg Hall, Room 433A",
+          "Time": "12:00pm"
+        }
+      ]
+    }
+  },
+  "UniversityContext": {
+    "Home": "URL_placeholder",
+    "MapsAndDirections": "URL_placeholder",
+    "SearchStanford": "URL_placeholder",
+    "TermsOfUse": "URL_placeholder",
+    "EmergencyInfo": "URL_placeholder",
+    "CopyrightComplaints": "URL_placeholder",
+    "CopyrightYear": "2023"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "organization": "Center for Spatial and Textual Analysis",
+  "projects": [
+    {
+      "name": "Spatial History Project",
+      "subProjects": ["Mapping the Republic of Letters", "Literary Lab"]
+    }
+  ],
+  "sections": {
+    "home": true,
+    "aboutCESTA": true,
+    "contact": true
+  },
+  "filters": ["All", "Events", "News", "Uncategorized"],
+  "labLinks": ["Literary Lab", "Mapping the Republic of Letters", "Spatial History Project"],
+  "eventsOfInterest": [
+    {
+      "title": "CESTA Presents: The e-Diasporas Atlas with Dana Diminescu",
+      "date": "Oct. 22nd",
+      "category": "Events"
+    },
+    {
+      "title": "Visualizing the Dynamic Universe",
+      "date": "Friday Oct. 5th",
+      "category": "Events"
+    },
+    {
+      "title": "Free Python and ArcGIS seminars on 8/30/2012",
+      "category": "Events"
+    },
+    {
+      "title": "Mapping the Republic of Letters + CKCC Presentation",
+      "date": "Wed. Aug. 29th at 9am",
+      "category": "Events"
+    },
+    {
+      "title": "CESTA Presents: Thomas Nygren – Digital History and the Construction of Knowledge",
+      "date": "Wed. Aug. 29th at 3-4pm",
+      "category": "Events"
+    },
+    {
+      "title": "Mapping People Symposium at the University of Redlands",
+      "date": "Wednesday, October 31st",
+      "category": "Events"
+    }
+  ],
+  "projectUpdatesAndNews": [
+    {
+      "title": "Job Announcement: GIS Software Developer, Digital Library Systems and Services, Stanford",
+      "category": "News"
+    },
+    {
+      "title": "Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library",
+      "category": "News"
+    },
+    {
+      "title": "Job Announcement: Academic Technology Specialist",
+      "category": "News"
+    },
+    {
+      "title": "Welcome to the new CESTA Blog!",
+      "category": "News"
+    },
+    {
+      "title": "A Decade of Fire in Western Australia",
+      "category": "News"
+    }
+  ],
+  "tags": [
+    "ArcGIS", "California", "CESTA", "CESTA Presents", "China", "courses", "diaspora", "digital history", "digital methods", "Gephi", "Holocaust", "Illustrator", "InfoViz", "Javascript", "job announcements", "knowledge", "KQED", "Lab Announcements", "mapping", "Mapping the Republic of Letters", "national parks", "open house", "ORBIS", "Python", "Rome", "Spatial History Project", "SSHW", "Stanford Humanities Center", "storyboarding", "symposium", "Time + Networks", "Visualizing Complexity", "workshop", "Yellow River"
+  ],
+  "recentPosts": [
+    {
+      "title": "Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project",
+      "details": "Application deadline has been extended to 5pm, Friday Oct. 26th!"
+    }
+  ],
+  "recentComments": {
+    "archives": [
+      "October 2012",
+      "August 2012",
+      "July 2012",
+      "June 2012",
+      "May 2012"
+    ]
+  }
+}

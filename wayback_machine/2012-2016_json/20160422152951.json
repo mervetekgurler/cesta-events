@@ -1,0 +1,65 @@
+{
+  "centerInfo": {
+    "name": "Center for Spatial and Textual Analysis",
+    "acronym": "CESTA",
+    "description": "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University.",
+    "labs": [
+      "Spatial History Project",
+      "Humanities+Design",
+      "Literary Lab",
+      "Poetic Media Lab",
+      "Text Technologies",
+      "Chinese Railroad Workers"
+    ],
+    "researchFocus": "CESTA labs and projects pursue research which utilize data and information visualization that span a variety of methodologies, disciplines, and departments, often collaborating with diverse team members from within the Stanford community, but also externally through national and international collaborations."
+  },
+  "news": [
+    {
+      "date": "02 Jul 2015",
+      "title": "Digital Humanities at Stanford"
+    },
+    {
+      "date": "08 Jun 2015",
+      "title": "Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science"
+    },
+    {
+      "date": "05 May 2015",
+      "title": "Humanities + Digital at the Stanford Humanities Center"
+    },
+    {
+      "date": "25 Nov 2014",
+      "title": "HIST205F Electronic Poster Session, December 1 at 3:15pm"
+    },
+    {
+      "date": "27 Jun 2014",
+      "title": "New Multimedia Publication: Mapping Mobility in the Budapest Ghetto"
+    },
+    {
+      "date": "30 May 2014",
+      "title": "New Article in Journal of American History"
+    }
+  ],
+  "contact": {
+    "address": {
+      "university": "Stanford University",
+      "location": "Stanford, California 94305"
+    },
+    "phone": "(650) 721-1385",
+    "fax": "(650) 725-5916"
+  },
+  "websiteNavigation": [
+    "Home",
+    "People",
+    "Labs & Projects",
+    "Certificate of Digital Humanities",
+    "Resources",
+    "About"
+  ],
+  "externalLinks": {
+    "home": "SU Home",
+    "mapsDirections": "Maps & Directions",
+    "search": "Search Stanford",
+    "termsOfUse": "Terms of Use",
+    "copyrightComplaints": "Copyright Complaints"
+  }
+}

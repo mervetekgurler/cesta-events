@@ -1,0 +1,145 @@
+{
+  "Center": {
+    "name": "Center for Spatial and Textual Analysis",
+    "Projects": [
+      "Spatial History Project",
+      "Humanities + Design",
+      "Literary Lab"
+    ]
+  },
+  "Navigation": ["Home", "About CESTA", "CONTACT"],
+  "Filter": ["All", "Courses", "Events", "Job Announcements/Opportunities", "News", "Publications"],
+  "Individual CESTA Lab Links": [
+    "Humanities + Design",
+    "Literary Lab",
+    "Spatial History Project"
+  ],
+  "Events of Interest": [
+    {
+      "Title": "Crowdsourcing California’s Conservation History: A Call to Action",
+      "Posted in": ["Events", "Job Announcements/Opportunities"]
+    },
+    {
+      "Title": "CESTA Presents Glauco Mantegari – Linked Data, Voltaire, and Early-Modern Networks: An Ongoing Experiment",
+      "Posted in": ["Events"]
+    },
+    {
+      "Title": "CESTA Presents Maria McVarish – Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies",
+      "Posted in": ["Events"]
+    },
+    {
+      "Title": "Visualizing Complexity and Uncertainty: Giorgio Caviglia @ CESTA 3pm May 29",
+      "Posted in": ["Events"]
+    },
+    {
+      "Title": "CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago) – Friday May 3, 12-2pm RSVP",
+      "Posted in": ["Events"]
+    },
+    {
+      "Title": "CESTA Presents: Between Two Booms: The Human and Environmental Consequences of Brazilian Ethanol Production",
+      "Posted in": ["Events"]
+    }
+  ],
+  "Project Updates and News": [
+    {
+      "Title": "Humanities + Design Receives NEH Grant!",
+      "Posted in": ["News"]
+    },
+    {
+      "Title": "CESTA Crowdsourcing Projects in the Stanford News",
+      "Posted in": ["News"]
+    },
+    {
+      "Title": "Diarna visits CESTA",
+      "Posted in": ["News"]
+    },
+    {
+      "Title": "CESTA Crowdsourcing In the News: History Experiment Uses Tech to Find New Stories",
+      "Posted in": ["News"]
+    },
+    {
+      "Title": "New Publication by Matthew Booker",
+      "Posted in": ["News", "Publications"]
+    },
+    {
+      "Title": "New Faces Around CESTA",
+      "Posted in": ["News"]
+    },
+    {
+      "Title": "New Humanities + Design Graduate Fellows",
+      "Posted in": ["News"]
+    },
+    {
+      "Title": "Press for Rebooting History East Palo Alto Project",
+      "Posted in": ["News"]
+    },
+    {
+      "Title": "Press Release: Erik Steiner and Spatial History Project Participates in National “Designing Intelligent Environments” Workshop",
+      "Posted in": ["News"]
+    },
+    {
+      "Title": "Maria Santos Featured in New Publication: “A Look at the Portuguese Carnivores”",
+      "Posted in": ["News", "Publications"]
+    }
+  ],
+  "Job Announcements/Opportunities": [
+    {
+      "Title": "Crowdsourcing California’s Conservation History: A Call to Action",
+      "Posted in": ["Events", "Job Announcements/Opportunities"]
+    },
+    {
+      "Title": "Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History",
+      "Posted in": ["Job Announcements/Opportunities"]
+    },
+    {
+      "Title": "Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project",
+      "Posted in": ["Job Announcements/Opportunities"]
+    },
+    {
+      "Title": "Glen Worthey: Digital Humanities, or Seven Decades of the New New Thing – CESTA, Aug. 17th",
+      "Posted in": ["Job Announcements/Opportunities"]
+    }
+  ],
+  "Tags": [
+    "ArcGIS",
+    "California",
+    "CESTA",
+    "China",
+    "courses",
+    "crowdsourcing",
+    "digital history",
+    "digital methods",
+    "GIS",
+    "Illustrator",
+    "InfoViz",
+    "Javascript",
+    "mapping",
+    "Python",
+    "Rome",
+    "Spatial History Project",
+    "symposium",
+    "Visualizing Complexity"
+  ],
+  "Recent Posts": [
+    "Humanities + Design Receives NEH Grant!",
+    "Crowdsourcing California’s Conservation History: A Call to Action",
+    "CESTA Presents Glauco Mantegari – Linked Data, Voltaire, and Early-Modern Networks: An Ongoing Experiment",
+    "CESTA Presents Maria McVarish – Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies",
+    "Visualizing Complexity and Uncertainty: Giorgio Caviglia @ CESTA 3pm May 29"
+  ],
+  "Archives": [
+    "August 2013",
+    "July 2013",
+    "May 2013",
+    "April 2013",
+    "March 2013",
+    "February 2013",
+    "January 2013",
+    "November 2012",
+    "October 2012",
+    "August 2012",
+    "July 2012",
+    "June 2012",
+    "May 2012"
+  ]
+}

@@ -1,0 +1,13 @@
+Here is the event information extracted into a CSV structure:
+
+```csv
+Date,Event,Further Details
+02 Jul 2015,Digital Humanities at Stanford,
+08 Jun 2015,Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science,
+05 May 2015,Humanities + Digital at the Stanford Humanities Center,
+25 Nov 2014,HIST205F Electronic Poster Session,December 1 at 3:15pm
+27 Jun 2014,New Multimedia Publication: Mapping Mobility in the Budapest Ghetto,
+30 May 2014,New Article in Journal of American History,
+```
+
+This structure organizes the events by date, title, and further details, providing a CSV formatted representation of the data presented in the original text.

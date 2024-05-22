@@ -1,0 +1,13 @@
+Based on the summary provided in your document, the events and their respective details can be formatted into a CSV structure as follows:
+
+```
+Date,Event,Time,Location
+2014-06-02,The Lab will present the Lila2 Interface, a visualization tool that enables users to perform ad-hoc analyses.,10:00-12:00,Terrace Room, Margaret Jacks Hall
+2014-05-28,The Emotions of London, another geographical project, will update the group on their recent work.,10:00-12:00,Literary Lab
+2014-05-19,Matt Wilkens, Assistant Professor of English at Notre Dame University, will discuss the geography of American literature.,10:00-12:00,Literary Lab
+2014-05-15,Networks in History,9:00-5:00,Humanities+Design
+2014-05-12,The Canon and Archive project will discuss their hypotheses and first results.,10:00-12:00,Literary Lab
+2014-04-16,The members of the Lab's Suspense project will present a background of the project's aims along with some initial findings.,10:00-12:00,Literary Lab
+```
+
+This CSV format lists each event with the respective date, event description, time, and location.

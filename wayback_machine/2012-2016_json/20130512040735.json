@@ -1,0 +1,158 @@
+{
+  "CenterInfo": {
+    "Name": "Center for Spatial and Textual Analysis",
+    "Labs": [
+      "Spatial History Project",
+      "Humanities + Design",
+      "Literary Lab"
+    ],
+    "Sections": [
+      {
+        "Name": "Home"
+      },
+      {
+        "Name": "About CESTA"
+      },
+      {
+        "Name": "CONTACT"
+      }
+    ]
+  },
+  "FilterCategories": [
+    "All",
+    "Courses",
+    "Events",
+    "Job Announcements/Opportunities",
+    "News",
+    "Publications"
+  ],
+  "IndividualCESTALabLinks": [
+    "Humanities + Design",
+    "Literary Lab",
+    "Spatial History Project"
+  ],
+  "Events": [
+    {
+      "Title": "CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago)",
+      "Date": "Friday May 3, 12-2pm",
+      "RSVP": true,
+      "Category": "Events"
+    },
+    {
+      "Title": "CESTA Presents: Between Two Booms: The Human and Environmental Consequences of Brazilian Ethanol Production",
+      "Category": "Events"
+    },
+    {
+      "Title": "The View and The Value: Historical Geography of Signs in San Francisco",
+      "Category": "Events"
+    },
+    {
+      "Title": "Spatial History Project’s Rebooting History Research Team Presents Three New Films",
+      "Category": "Events"
+    },
+    {
+      "Title": "[Visualizing Complexity & Uncertainty] Reviel Netz: “Making Sense of Greek Culture: Maps, Numbers, Thoughts”",
+      "Date": "March 7",
+      "Category": "Events"
+    },
+    {
+      "Title": "CESTA Presents: Matteo Lorenzini and Mark Philipson",
+      "Date": "Friday March 1st",
+      "Category": "Events"
+    }
+  ],
+  "NewsAndUpdates": [
+    {
+      "Title": "CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories",
+      "Category": "News"
+    },
+    {
+      "Title": "New Publication by Matthew Booker",
+      "Category": ["News", "Publications"]
+    },
+    {
+      "Title": "New Faces Around CESTA",
+      "Category": "News"
+    },
+    {
+      "Title": "New Humanities + Design Graduate Fellows",
+      "Category": "News"
+    },
+    {
+      "Title": "Press for Rebooting History East Palo Alto Project",
+      "Category": "News"
+    },
+    {
+      "Title": "Press Release: Erik Steiner and Spatial History Project Participates in National “Designing Intelligent Environments” Workshop",
+      "Category": "News"
+    },
+    {
+      "Title": "Maria Santos Featured in New Publication: 'A Look at the Portuguese Carnivores'",
+      "Category": ["News", "Publications"]
+    },
+    {
+      "Title": "Visualizing Evidence Winter Workshop in Progress",
+      "Category": ["Courses", "Events", "News"]
+    },
+    {
+      "Title": "Job Announcement: GIS Software Developer, Digital Library Systems and Services, Stanford",
+      "Category": "News"
+    },
+    {
+      "Title": "Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library",
+      "Category": "News"
+    }
+  ],
+  "JobOpportunities": [
+    {
+      "Title": "Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History",
+      "Category": "Job Announcements/Opportunities"
+    },
+    {
+      "Title": "Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project",
+      "Category": "Job Announcements/Opportunities"
+    },
+    {
+      "Title": "Glen Worthey: Digital Humanities, or Seven Decades of the New New Thing",
+      "Date": "CESTA, Aug. 17th",
+      "Category": "Job Announcements/Opportunities"
+    }
+  ],
+  "Tags": [
+    "ArcGIS",
+    "California",
+    "Cameron Blevins",
+    "courses",
+    "CESTA",
+    "diaspora",
+    "digital history",
+    "China",
+    "digital methods",
+    "East Palo Alto",
+    "GIS",
+    "Holocaust",
+    "Illustrator",
+    "InfoViz",
+    "Javascript",
+    "knowledge"
+  ],
+  "Recents": [
+    {
+      "Title": "CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago)",
+      "Date": "Friday May 3, 12-2pm"
+    }
+  ],
+  "Archives": [
+    "May 2013",
+    "April 2013",
+    "March 2013",
+    "February 2013",
+    "January 2013",
+    "November 2012",
+    "October 2012",
+    "August 2012",
+    "July 2012",
+    "June 2012",
+    "May 2012"
+  ]
+}

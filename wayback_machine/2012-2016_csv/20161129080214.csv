@@ -1,0 +1,9 @@
+Based on the information provided in your document, here is how the event information can be formatted into a CSV structure:
+
+```
+Date,Event,Presenter,Location,Time
+2023-01-24,"DHAsia Presents | Diasporas Online: A Mixed Methods Approach to Sikh and Tamil Identity Politics",Priya Kumar,"CESTA, Wallenberg Hall, 4th Floor","4:15pm"
+2023-01-31,"Shelley Fisher Fishkin & Gabriel Wolfenstein: 'Listening to Silence, Seeing Absence: The Challenge of Reconstructing Chinese Railroad Workers' Lives'","Shelley Fisher Fishkin & Gabriel Wolfenstein","Wallenberg Hall, Room 433A","12:00pm"
+```
+
+This CSV structure includes columns for the event date, event description, presenter(s), location, and time based on the provided text. The details come directly from the text without any changes or additions.

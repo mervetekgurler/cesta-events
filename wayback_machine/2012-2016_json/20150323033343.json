@@ -1,0 +1,117 @@
+{
+  "Center": {
+    "Name": "Center for Spatial and Textual Analysis",
+    "ShortName": "CESTA",
+    "Location": {
+      "Institution": "Stanford University",
+      "Address": {
+        "City": "Stanford",
+        "State": "California",
+        "ZipCode": "94305"
+      },
+      "Contact": {
+        "Phone": "(650) 721-1385",
+        "Fax": "(650) 725-5916"
+      }
+    },
+    "OrganizationalStructure": {
+      "HostingDepartment": "Dean of Research",
+      "Labs": [
+        "Spatial History Project",
+        "Humanities+Design",
+        "Literary Lab"
+      ]
+    },
+    "ResearchFocus": {
+      "Approach": "Interdisciplinary",
+      "Techniques": [
+        "Data Analysis",
+        "Information Visualization"
+      ],
+      "Collaborations": {
+        "Internal": "Various Departments within Stanford",
+        "External": "National and International"
+      }
+    }
+  },
+  "WebPages": [
+    "Home",
+    "People",
+    "Labs & Projects",
+    "Certificate of Digital Humanities",
+    "Resources",
+    "About"
+  ],
+  "NewsUpdates": {
+    "2014": [
+      {
+        "Date": "25 Nov",
+        "Description": "HIST205F Electronic Poster Session, December 1 at 3:15pm"
+      },
+      {
+        "Date": "27 Jun",
+        "Description": "New Multimedia Publication: Mapping Mobility in the Budapest Ghetto"
+      },
+      {
+        "Date": "30 May",
+        "Description": "New Article in Journal of American History"
+      },
+      {
+        "Date": "14 May",
+        "Description": "Announcing the Graduate Certificate in Digital Humanities"
+      },
+      {
+        "Date": "22 Nov",
+        "Description": "CESTA/Spatial History Project is Hiring Undergraduate Research Assistants for Winter Quarter"
+      },
+      {
+        "Date": "01 Nov",
+        "Description": "CESTA Presents Christopher Richard â Myth Busting the Founding of San Francisco â Dec. 2nd @ Noon"
+      }
+    ]
+  },
+  "UpcomingEvents": [
+    {
+      "Date": "02 Jun 2014",
+      "Event": "The Lab will present the Lila2 Interface, a visualization tool that enables users to perform ad-hoc analyses.",
+      "Time": "10:00-12:00",
+      "Location": "Terrace Room, Margaret Jacks Hall"
+    },
+    {
+      "Date": "28 May 2014",
+      "Event": "The Emotions of London, another geographical project, will update the group on their recent work.",
+      "Time": "10:00-12:00",
+      "Location": "Literary Lab"
+    },
+    {
+      "Date": "19 May 2014",
+      "Event": "Matt Wilkens, Assistant Professor of English at Notre Dame University, will discuss the geography of American literature.",
+      "Time": "10:00-12:00",
+      "Location": "Literary Lab"
+    },
+    {
+      "Date": "15 May 2014",
+      "Event": "Networks in History",
+      "Time": "9:00-5:00",
+      "Location": "Humanities+Design"
+    },
+    {
+      "Date": "12 May 2014",
+      "Event": "The Canon and Archive project will discuss their hypotheses and first results.",
+      "Time": "10:00-12:00",
+      "Location": "Literary Lab"
+    },
+    {
+      "Date": "16 Apr 2014",
+      "Event": "The members of the Lab's Suspense project will present a background of the project's aims along with some initial findings.",
+      "Time": "10:00-12:00",
+      "Location": "Literary Lab"
+    }
+  ],
+  "UniversityServices": {
+    "MapsDirections": "SU Home",
+    "Search": "Search Stanford",
+    "TermsOfUse": "Terms of Use",
+    "CopyrightComplaints": "Copyright Complaints"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "CenterForSpatialAndTextualAnalysis": {
+    "Name": "Center for Spatial and Textual Analysis",
+    "Projects": [
+      "Spatial History Project",
+      "Humanities + Design",
+      "Literary Lab"
+    ],
+    "Sections": {
+      "Home": {},
+      "AboutCESTA": {},
+      "Contact": {}
+    },
+    "FilterCategories": [
+      "All",
+      "Courses",
+      "Events",
+      "Job Announcements/Opportunities",
+      "News",
+      "Publications"
+    ],
+    "IndividualCESTALabLinks": [
+      {
+        "Name": "Humanities + Design"
+      },
+      {
+        "Name": "Literary Lab"
+      },
+      {
+        "Name": "Spatial History Project"
+      }
+    ],
+    "EventsOfInterest": [
+      {
+        "Title": "The View and The Value: Historical Geography of Signs in San Francisco",
+        "Category": "Events"
+      },
+      {
+        "Title": "Spatial History Project’s Rebooting History Research Team Presents Three New Films",
+        "Category": "Events"
+      },
+      {
+        "Title": "[Visualizing Complexity & Uncertainty] Reviel Netz: \"Making Sense of Greek Culture: Maps, Numbers, Thoughts\" – March 7",
+        "Category": "Events"
+      },
+      {
+        "Title": "CESTA Presents: Matteo Lorenzini and Mark Philipson – Friday March 1st",
+        "Category": "Events"
+      },
+      {
+        "Title": "Finn Arne Jorgensen: Cabin Porn, History, and the Digital Sublime – Feb. 28th @ 4pm",
+        "Category": "Events"
+      },
+      {
+        "Title": "Wednesday: Distant Reading/Text Mining @ Visualizing Evidence Workshop",
+        "Category": "Events"
+      }
+    ],
+    "RecentPosts": [
+      {
+        "Title": "New Publication by Matthew Booker",
+        "Category": [
+          "News",
+          "Publications"
+        ]
+      },
+      {
+        "Title": "New Faces Around CESTA",
+        "Category": "News"
+      },
+      {
+        "Title": "New Humanities + Design Graduate Fellows",
+        "Category": "News"
+      },
+      {
+        "Title": "Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History",
+        "Category": "Job Announcements/Opportunities"
+      }
+    ],
+    "Tags": [
+      "ArcGIS",
+      "California",
+      "CESTA",
+      "courses",
+      "digital history",
+      "GIS",
+      "Holocaust",
+      "Javascript",
+      "Lab Announcements",
+      "mapping",
+      "Spatial History Project",
+      "Visualizing Evidence",
+      "workshop"
+    ]
+  }
+}

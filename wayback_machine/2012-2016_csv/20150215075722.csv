@@ -1,0 +1,13 @@
+Based on the document you provided, here's the extraction of all event-related data organized into a CSV format:
+
+```
+Date,Event Title,Description,Time,Location
+02 Jun 2014,The Lab presents the Lila2 Interface,"The Lab will present the Lila2 Interface, a visualization tool that enables users to perform ad-hoc analyses.",10:00-12:00,Terrace Room, Margaret Jacks Hall
+28 May 2014,The Emotions of London Update,"The Emotions of London, another geographical project, will update the group on their recent work.",10:00-12:00,Literary Lab
+19 May 2014,Geography of American Literature Talk,"Matt Wilkens, Assistant Professor of English at Notre Dame University, will discuss the geography of American literature.",10:00-12:00,Literary Lab
+15 May 2014,Networks in History,Networks in History,9:00-5:00,Humanities+Design
+12 May 2014,Discussion on The Canon and Archive Project,"The Canon and Archive project will discuss their hypotheses and first results.",10:00-12:00,Literary Lab
+16 Apr 2014,Suspense Project Presentation,"The members of the Lab's Suspense project will present a background of the project's aims along with some initial findings.",10:00-12:00,Literary Lab
+```
+
+This CSV format organizes the events by date, and includes columns for the event title, a description, the time, and the location of each event as reported in the document.

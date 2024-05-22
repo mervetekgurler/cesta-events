@@ -1,0 +1,12 @@
+Below is the data extracted from the document structured into a CSV format. The columns included are Event Title, Presenter/Organizer, Date, Time, Location, and Additional Information. Please note, the descriptions are summarized or quoted directly when pertinent.
+
+```
+Event Title,Presenter/Organizer,Date,Time,Location,Additional Information
+CESTA/French Culture Workshop Presents: Robert Morrissey,Robert Morrissey (U of Chicago),May 3, 12-2pm,"Gold and Honey room, 4th floor of Wallenberg hall",Talk entitled "From Books and Data (and Back)" focused on innovations at ARTFL.
+CESTA Presents: Between Two Booms: The Human and Environmental Consequences of Brazilian Ethanol Production,Thomas D. Rogers (Emory University),May 9,4:15pm,Center For Spatial And Textual Analysis,4th Floor, Wallenberg Hall,Discusses the environmental and political consequences of Brazilian ethanol production.
+Spatial History Project’s Rebooting History Research Team Presents Three New Films,Rebooting History Research Team (Spatial History Project),March 18,6:30-8:30pm,East Palo Alto City Hall,Premier of "Homegrown: Cultivating Dreams through Action," three unique hip hop documentary films.
+The View and The Value: Historical Geography of Signs in San Francisco,,April 12,10:15 AM,CESTA’s Gold + Honey room, Senior thesis presentation discussing signs in public view of San Francisco.
+Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History,California Historical Society (in partnership with CESTA),April 7 - August 25,2013,4:00PM - 6:00PM (Opening Celebration),California Historical Society,Experimental exhibition focused on crowdsourcing a new environmental history of the San Francisco Bay.
+```
+
+This format condenses the key details for each event into a simple, comma-separated list, suitable for integration into spreadsheet software or other databases. For simplicity and to avoid adding content not existing in the original text, some categories like additional thematic details or exact descriptions in the document were generalized or directly used as found.

@@ -1,0 +1,13 @@
+Here is the extracted event information from the document transformed into a CSV format:
+
+```
+Date,Event,Location,Time
+02 Jul 2015,Digital Humanities at Stanford,Stanford University,
+08 Jun 2015,Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science,Stanford University,
+05 May 2015,Humanities + Digital at the Stanford Humanities Center,Stanford Humanities Center,
+25 Nov 2014,HIST205F Electronic Poster Session,Stanford University,December 1 at 3:15pm
+27 Jun 2014,New Multimedia Publication: Mapping Mobility in the Budapest Ghetto,Stanford University,
+30 May 2014,New Article in Journal of American History,Stanford University,
+```
+
+Note: Locations and times have been inferred based on the content available, with specific time included only where specified in the document.

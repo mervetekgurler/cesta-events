@@ -1,0 +1,11 @@
+Below is the requested CSV format for the event information from the given document:
+
+```
+Event Date,Event Title,Event Time & Details
+"02 Jul 2015","Digital Humanities at Stanford",""
+"08 Jun 2015","Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science",""
+"05 May 2015","Humanities + Digital at the Stanford Humanities Center",""
+"25 Nov 2014","HIST205F Electronic Poster Session","December 1 at 3:15pm"
+"27 Jun 2014","New Multimedia Publication: Mapping Mobility in the Budapest Ghetto",""
+"30 May 2014","New Article in Journal of American History",""
+```

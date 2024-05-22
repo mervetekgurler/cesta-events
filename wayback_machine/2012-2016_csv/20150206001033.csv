@@ -1,0 +1,13 @@
+Here is the conversion of the event information from the document you provided into CSV format:
+
+```
+Date,Event Title,Description,Time,Location
+JUN 2 2014,The Lab will present the Lila2 Interface,"A visualization tool that enables users to perform ad-hoc analyses.",10:00-12:00,Terrace Room, Margaret Jacks Hall
+MAY 28 2014,The Emotions of London,"Update on recent work of another geographical project.",10:00-12:00,Literary Lab
+MAY 19 2014,"Talk by Matt Wilkens, Assistant Professor of English at Notre Dame University","Discussion on the geography of American literature.",10:00-12:00,Literary Lab
+MAY 15 2014,Networks in History,,9:00-5:00,Humanities+Design
+MAY 12 2014,The Canon and Archive project,"Discussion on their hypotheses and first results.",10:00-12:00,Literary Lab
+APR 16 2014,The Lab's Suspense project,"Presentation of the project's aims and some initial findings.",10:00-12:00,Literary Lab
+```
+
+This format retains all the original event details as provided in the document and structures them in a CSV format suitable for data manipulation or import into a database. Each field is separated by commas, and text with commas inside it is enclosed in quotes to ensure correct parsing.

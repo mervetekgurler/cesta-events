@@ -1,0 +1,19 @@
+Here is the extracted event information structured into CSV format:
+
+```
+"Title","Date","Location","Details"
+"CESTA Presents: The e-Diasporas Atlas with Dana Diminescu","Oct. 22","Wallenberg Hall, 4th Floor, Gold & Honey","The e-Diasporas Atlas was incubated and developed in the framework of the Fondation Maison des Sciences de l’Homme ICT Migrations program."
+"Visualizing the Dynamic Universe","Oct. 5","Stanford Humanities Center Boardroom","Event by Visualizing Complexity & Uncertainty, a talk on Visualizing the Dynamic Universe."
+"Free Python and ArcGIS seminars","8/30/2012","-","Seminar to learn about creating Python Toolboxes using ArcGIS 10.1"
+"Mapping the Republic of Letters + CKCC Presentation","Aug. 29 at 9am","Gold & Honey, Wallenberg Hall (Building 160), Fourth Floor","Presentation by Circulation of knowledge and learned practices in the 17th-century Dutch Republic’ (CKCC)."
+"CESTA Presents: Thomas Nygren – Digital History and the Construction of Knowledge","-","Gold & Honey, Wallenberg Hall (Building 160), Fourth Floor","Thomas Nygren presents on incorporating digitized sources in history teaching."
+"Mapping People Symposium","Oct. 31","University of Redlands","1-day symposium focusing on the use of maps and mapping to address social and cultural information."
+"CESTA End of Summer Quarter Event","Aug. 24","CESTA Lab, Fourth Floor, Wallenberg Hall (Building 160)","End of Summer Quarter event with researchers presenting their work on various projects."
+"Census Geospatial Data Workshop","Aug. 22, 2012","Stanford Green Library, IC Classroom","Workshop on census geospatial data with mapping tutorials."
+"Job Announcement: GIS Software Developer, Digital Library Systems and Services, Stanford","-","-","Job opening for a GIS Software Developer at Stanford University Libraries."
+```
+
+Note:
+- The events, which do not have specific details provided in the original text, are listed with the provided details directly taken from the description in the document.
+- Events without specific locations or dates are marked with a dash (-) to indicate the unspecified information.
+- The CSV can be enhanced further depending on specific requirements for data columns or additional details if needed.

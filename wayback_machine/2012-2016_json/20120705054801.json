@@ -1,0 +1,80 @@
+{
+  "Center for Spatial and Textual Analysis": {
+    "Departments": [
+      "Spatial History Project",
+      "Mapping the Republic of Letters",
+      "Literary Lab"
+    ],
+    "MainNavigation": [
+      "Home",
+      "About CESTA",
+      "CONTACT"
+    ],
+    "FilterCategories": [
+      "All",
+      "Events",
+      "News"
+    ],
+    "IndividualCESTALabLinks": [
+      "Literary Lab",
+      "Mapping the Republic of Letters",
+      "Spatial History Project"
+    ],
+    "EventsOfInterest": [
+      {
+        "Title": "CESTA Presents: Data Visualization with Tableau – June 28",
+        "Type": "Events",
+        "Shortlink": ""
+      },
+      {
+        "Title": "June 6 – Daniel Strum",
+        "Type": "Events",
+        "Shortlink": ""
+      }
+    ],
+    "ProjectUpdatesAndNews": [
+      {
+        "Title": "Welcome to the new CESTA Blog!",
+        "Type": "News",
+        "Shortlink": ""
+      },
+      {
+        "Title": "A Decade of Fire in Western Australia",
+        "Content": "The Spatial History Project’s A Decade of Fire in Western Australia has received a significant visualization update.",
+        "Type": "News",
+        "Shortlink": "",
+        "ProjectDescription": "This application is based on a combination of ethnographic and ecological research undertaken by Stanford faculty and students in collaboration with Martu, Aboriginal owners of an expansive Native Title located in the Great and Little Sandy Desert bioregions of Western Australia."
+      }
+    ],
+    "Tags": [
+      "CESTA Presents",
+      "Lab Announcements",
+      "Spatial History Project",
+      "SSHW"
+    ],
+    "RecentPosts": [
+      "CESTA Presents: Data Visualization with Tableau – June 28",
+      "Welcome to the new CESTA Blog!",
+      "June 6 – Daniel Strum",
+      "A Decade of Fire in Western Australia"
+    ],
+    "RecentComments": [],
+    "Archives": [
+      "June 2012",
+      "May 2012"
+    ],
+    "CESTAPresents": {
+      "Topic": "Data Visualization with Tableau",
+      "Presenter": "Ryan Heuser",
+      "Affiliation": "Literary Lab, CESTA",
+      "EventDate": "Thursday, June 28th @ Noon",
+      "Location": "Grand Central Room, 4th Floor Wallenberg Hall",
+      "AdditionalInfo": "Stairwell doors will be unlocked for this event for those who do not have access cards.",
+      "ContactInfo": {
+        "Name": "Matt Bryant",
+        "Email": "mpbryant@stanford.edu",
+        "Phone": "(650)721-1385"
+      }
+    }
+  }
+}

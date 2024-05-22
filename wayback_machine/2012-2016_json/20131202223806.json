@@ -1,0 +1,167 @@
+{
+  "Center for Spatial and Textual Analysis": {
+    "Labs": [
+      "Spatial History Project",
+      "Humanities + Design",
+      "Literary Lab"
+    ],
+    "Content": {
+      "Home": true,
+      "About CESTA": true,
+      "Contact": true,
+      "Filter": [
+        "All",
+        "Courses",
+        "Events",
+        "Job Announcements/Opportunities",
+        "News",
+        "Publications"
+      ]
+    },
+    "Events of Interest": [
+      {
+        "Title": "CESTA Presents Christopher Richard – Myth Busting the Founding of San Francisco – Dec. 2nd @ Noon",
+        "Category": "Events"
+      },
+      {
+        "Title": "Hestia2 Workshop at CESTA – Nov. 4-5",
+        "Category": "Events"
+      },
+      {
+        "Title": "Kindred Britain: An Introduction with Nicholas Jenkins, Elijah Meeks, and Scott Murray",
+        "Category": "Events"
+      },
+      {
+        "Title": "Crowdsourcing California’s Conservation History: A Call to Action",
+        "Category": ["Events", "Job Announcements/Opportunities"]
+      },
+      {
+        "Title": "CESTA Presents Glauco Mantegari – Linked Data, Voltaire, and Early-Modern Networks: An Ongoing Experiment",
+        "Category": "Events"
+      },
+      {
+        "Title": "CESTA Presents Maria McVarish – Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies",
+        "Category": "Events"
+      }
+    ],
+    "News": [
+      {
+        "Title": "Project Updates and News",
+        "Category": "News"
+      },
+      {
+        "Title": "Humanities + Design Receives NEH Grant!",
+        "Category": "News"
+      },
+      {
+        "Title": "CESTA Crowdsourcing Projects in the Stanford News",
+        "Category": "News"
+      },
+      {
+        "Title": "Diarna visits CESTA",
+        "Category": "News"
+      },
+      {
+        "Title": "CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories",
+        "Category": "News"
+      },
+      {
+        "Title": "New Publication by Matthew Booker",
+        "Category": ["News", "Publications"]
+      },
+      {
+        "Title": "New Faces Around CESTA",
+        "Category": "News"
+      },
+      {
+        "Title": "New Humanities + Design Graduate Fellows",
+        "Category": "News"
+      },
+      {
+        "Title": "Press for Rebooting History East Palo Alto Project",
+        "Category": "News"
+      },
+      {
+        "Title": "Press Release: Erik Steiner and Spatial History Project Participates in National “Designing Intelligent Environments” Workshop",
+        "Category": "News"
+      }
+    ],
+    "Job Announcements/Opportunities": [
+      {
+        "Title": "CESTA/Spatial History Project is Hiring Undergraduate Research Assistants for Winter Quarter",
+        "Category": "Job Announcements/Opportunities"
+      },
+      {
+        "Title": "Crowdsourcing California’s Conservation History: A Call to Action",
+        "Category": ["Events", "Job Announcements/Opportunities"]
+      },
+      {
+        "Title": "Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History",
+        "Category": "Job Announcements/Opportunities"
+      },
+      {
+        "Title": "Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project",
+        "Category": "Job Announcements/Opportunities"
+      },
+      {
+        "Title": "Glen Worthey: Digital Humanities, or Seven Decades of the New New Thing – CESTA, Aug. 17th",
+        "Category": "Job Announcements/Opportunities"
+      }
+    ],
+    "Tags": [
+      "ArcGIS",
+      "California",
+      "CESTA",
+      "CESTA Presents",
+      "China",
+      "courses",
+      "crowdsourcing",
+      "diaspora",
+      "digital history",
+      "digital methods",
+      "East Palo Alto",
+      "Gephi",
+      "GIS",
+      "Holocaust",
+      "Humanities + Design",
+      "Illustrator",
+      "InfoViz",
+      "Javascript",
+      "Jean-Pierre Dupuy",
+      "job announcements",
+      "Johanna Drucker",
+      "knowledge",
+      "KQED",
+      "Lab Announcements",
+      "mapping",
+      "Mapping the Republic of Letters",
+      "Maria Santos",
+      "national parks",
+      "Nicole Coleman",
+      "open house",
+      "ORBIS",
+      "Python",
+      "Rebooting History",
+      "Rome",
+      "Spatial History Project",
+      "SSHW",
+      "Stanford Humanities Center",
+      "storyboarding",
+      "symposium",
+      "Time + Networks",
+      "Visualizing Complexity",
+      "Visualizing Evidence",
+      "workshop",
+      "Yellow River",
+      "Zephry Frank"
+    ],
+    "Recent Posts": [
+      "CESTA/Spatial History Project is Hiring Undergraduate Research Assistants for Winter Quarter",
+      "CESTA Presents Christopher Richard – Myth Busting the Founding of San Francisco – Dec. 2nd @ Noon",
+      "Hestia2 Workshop at CESTA – Nov. 4-5",
+      "657",
+      "Kindred Britain: An Introduction with Nicholas Jenkins, Elijah Meeks, and Scott Murray"
+    ],
+    "Recent Comments": "Archives"
+  }
+}

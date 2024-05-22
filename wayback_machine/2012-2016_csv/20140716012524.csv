@@ -1,0 +1,13 @@
+Here's a representation of the events transcribed into a CSV format with columns: Date, Event Title, Time, Location:
+
+```csv
+Date,Event Title,Time,Location
+June 2, 2014,"The Lab will present the Lila2 Interface, a visualization tool that enables users to perform ad-hoc analyses.","10:00-12:00","Terrace Room, Margaret Jacks Hall"
+May 28, 2014,"The Emotions of London, another geographical project, will update the group on their recent work.","10:00-12:00","Literary Lab"
+May 19, 2014,"Matt Wilkens, Assistant Professor of English at Notre Dame University, will discuss the geography of American literature.","10:00-12:00","Literary Lab"
+May 15, 2014,Networks in History,"9:00-5:00","Humanities+Design"
+May 12, 2014,"The Canon and Archive project will discuss their hypotheses and first results.","10:00-12:00","Literary Lab"
+April 16, 2014,"The members of the Lab's Suspense project will present a background of the project's aims along with some initial findings.","10:00-12:00","Literary Lab"
+```
+
+This format outlines the event data such as date, title, time, and location in a structured CSV format suitable for data import into a spreadsheet or database for further analysis or archive.

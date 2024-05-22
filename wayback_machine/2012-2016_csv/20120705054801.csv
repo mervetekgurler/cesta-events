@@ -1,0 +1,9 @@
+Here's the event information from the provided document structured into a CSV format. 
+
+```csv
+Type,Title,Presenter,Date,Time,Location,Contact,Description,Link
+Event,CESTA Presents: Data Visualization with Tableau,Ryan Heuser,June 28,Thursday @ Noon,Grand Central Room, 4th Floor Wallenberg Hall,"mpbryant@stanford.edu, (650)721-1385","CESTA will supplement its busy summer season with an ongoing series of talks and mini-workshops called CESTA Presents. Each week, we’ll feature presentations by members and friends of the CESTA community. These presentations vary in content and format, are meant mainly as a somewhat informal exchange of information, ideas, and feedback for all lab participants."
+Event,"June 6 – Daniel Strum, Social Science History Workshop",Daniel Strum,June 6,"Wednesday from 12:00-1:30 pm","room 223 (Bubble Room), Landau Economics Building",,,"Daniel Strum will be presenting his paper, 'Marketplaces, Rulers and Diasporas Governing Early Modern Trade: Jews and Conversos along the sugar route revisited (Brazil, Portugal and the Netherlands, 1595/1618)'. Please note the change in time and place. http://economics.stanford.edu/seminars/tba-264"
+```
+
+This CSV includes the key details about each event mentioned, such as type, title, presenter, date, time, location, contact information, description, and relevant links. Be mindful when using this data in actual applications or databases that the newline and commas are correctly escaped or processed to avoid parsing errors. The fields have been filled directly based on the source text without modification.

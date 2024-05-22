@@ -1,0 +1,9 @@
+```plaintext
+Event Name,Date,Time,Location,Presenter/Contact,Details
+CESTA Presents: Javascript InfoViz Library D3,July 19th,Noon,Grand Central Room, 4th Floor Wallenberg Hall,Elijah Meeks, Digital Humanities Specialist, Stanford,Interactive and dynamic content display using D3 with emphasis on data formats and performance issues.
+CESTA Presents: Storyboarding Visualizations,July 12th,Noon,Grand Central Room, 4th Floor Wallenberg Hall,Fred Freitas, Dept. of History at Stanford,Workshop on storyboarding for visual arguments and user interactions in visualization.
+Gephi Workshop,July 11th,1pm to 4pm,124 Mulford Hall,Elijah Meeks, Digital Humanities Specialist at Stanford,Introduction to Gephi, an open source spatial analysis and network visualization software.
+CESTA Presents: Data Visualization with Tableau,June 28th,Noon,Grand Central Room, 4th Floor Wallenberg Hall,Ryan Heuser, Literary Lab, CESTA,Presentation on data visualization techniques using Tableau software.
+Daniel Strum Presentation,June 6th,12:00-1:30 pm,Room 223 (Bubble Room) of the Landau Economics Building,Daniel Strum, Stanford University,Paper presentation on early modern trade involving Jews and Conversos along the sugar route.
+```
+This CSV format organizes the event details as provided, without altering the content, only converting the structure into a comma-separated format for easier reading and data manipulation.

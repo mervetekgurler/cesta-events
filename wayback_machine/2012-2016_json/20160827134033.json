@@ -1,0 +1,63 @@
+{
+  "Center": {
+    "Name": "Center for Spatial and Textual Analysis",
+    "Description": "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University.",
+    "Research": "CESTA labs and projects pursue research which utilize data and information visualization that span a variety of methodologies, disciplines, and departments, often collaborating with diverse team members from within the Stanford community, but also externally through national and international collaborations.",
+    "Labs": [
+      "Spatial History Project",
+      "Humanities+Design",
+      "Literary Lab",
+      "Poetic Media Lab",
+      "Text Technologies",
+      "Chinese Railroad Workers"
+    ],
+    "Location": {
+      "University": "Stanford University",
+      "Address": "Stanford, California 94305",
+      "Phone": "(650) 721-1385",
+      "Fax": "(650) 725-5916"
+    },
+    "Sections": [
+      "Home",
+      "People",
+      "Labs & Projects",
+      "Certificate of Digital Humanities",
+      "Resources",
+      "About"
+    ],
+    "News and Updates": [
+      {
+        "Date": "02 Jul 2015",
+        "Title": "Digital Humanities at Stanford"
+      },
+      {
+        "Date": "08 Jun 2015",
+        "Title": "Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science"
+      },
+      {
+        "Date": "05 May 2015",
+        "Title": "Humanities + Digital at the Stanford Humanities Center"
+      },
+      {
+        "Date": "25 Nov 2014",
+        "Title": "HIST205F Electronic Poster Session, December 1 at 3:15pm"
+      },
+      {
+        "Date": "27 Jun 2014",
+        "Title": "New Multimedia Publication: Mapping Mobility in the Budapest Ghetto"
+      },
+      {
+        "Date": "30 May 2014",
+        "Title": "New Article in Journal of American History"
+      }
+    ],
+    "Upcoming Events": "Detailed information about upcoming events is currently unavailable",
+    "Stanford Links": {
+      "Home": "SU Home",
+      "Maps & Directions": "Maps & Directions",
+      "Search": "Search Stanford",
+      "Terms of Use": "Terms of Use",
+      "Copyright Complaints": "Copyright Complaints"
+    }
+  }
+}

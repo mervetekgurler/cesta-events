@@ -1,0 +1,13 @@
+To extract and convert the event information into a CSV format, we will list each event with relevant details such as the date, title or topic of the event, time, and location in separate columns. Below is a structured representation of the event information extracted from the document:
+
+```
+Date,Event,Time,Location
+"Jun 2, 2014","The Lab will present the Lila2 Interface, a visualization tool that enables users to perform ad-hoc analyses.","10:00-12:00","Terrace Room, Margaret Jacks Hall"
+"May 28, 2014","The Emotions of London, another geographical project, will update the group on their recent work.","10:00-12:00","Literary Lab"
+"May 19, 2014","Matt Wilkens, Assistant Professor of English at Notre Dame University, will discuss the geography of American literature.","10:00-12:00","Literary Lab"
+"May 15, 2014","Networks in History","9:00-5:00","Humanities+Design"
+"May 12, 2014","The Canon and Archive project will discuss their hypotheses and first results.","10:00-12:00","Literary Lab"
+"Apr 16, 2014","The members of the Lab's Suspense project will present a background of the project's aims along with some initial findings.","10:00-12:00","Literary Lab"
+```
+
+Each row after the header contains details about a specific event from the document. Note that dates are standardized (MMM dd, YYYY) and direct quotations from the document are avoided unless they represent exact information necessary for the structure.

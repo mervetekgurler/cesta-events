@@ -1,0 +1,12 @@
+Here is the extracted event information from the document formatted as a CSV:
+
+```
+"Title","Date","Time","Location","Description"
+"The View and The Value: Historical Geography of Signs in San Francisco","April 12","10:15 AM","CESTA’s Gold + Honey room, Wallenberg Hall (Bldg 160)","Presentation of a senior thesis in the Department of History on the historical geography of signs in San Francisco."
+"Spatial History Project’s Rebooting History Research Team Presents Three New Films","March 18","6:30 to 8:30 PM","East Palo Alto City Hall, 2145 University Ave","Premier of three new films by East Palo Alto youth and Stanford University’s Program on Urban Studies."
+"[Visualizing Complexity & Uncertainty] Reviel Netz: 'Making Sense of Greek Culture: Maps, Numbers, Thoughts'","March 7","12:00 PM","‘Gold n Honey’ meeting space, 4th floor of Wallenberg Hall (bldg. 160)","Talk on the geographical patterns of Greek cultural life and integration of data in research."
+"CESTA Presents: Matteo Lorenzini and Mark Philipson","March 1","11:30am-1:15pm","CESTA on the fourth floor of Wallenberg Hall (Building 160)","Back-to-back presentations about Predictive Models, Semantic Representation of Archaeological Datasets and Mediathread, an open-source platform."
+"Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History","April 7 to August 25","Opening celebration: 4:00PM – 6:00PM","California Historical Society","Exhibition that involves crowdsourcing to create a new environmental history of the Bay area."
+```
+
+This CSV captures the structured event information including titles, dates, times, locations, and descriptions. Remember to handle the fields containing commas or special characters within quotes to comply with the CSV format correctly in a real CSV file.

@@ -1,0 +1,74 @@
+{
+  "organization": {
+    "name": "Center for Spatial and Textual Analysis",
+    "address": {
+      "university": "Stanford University",
+      "location": "Stanford, California",
+      "zip_code": "94305",
+      "phone": "(650) 721-1385",
+      "fax": "(650) 725-5916"
+    },
+    "departments": [
+      {
+        "name": "Center for Spatial and Textual Analysis",
+        "description": "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab, the Poetic Media Lab, as well as Text Technologies and Chinese Railroad Workers. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research.",
+        "labs_and_projects": [
+          "Spatial History Project",
+          "Humanities+Design",
+          "Literary Lab", 
+          "Poetic Media Lab",
+          "Text Technologies",
+          "Chinese Railroad Workers"
+        ],
+        "collaborations": {
+          "stanford_community": true,
+          "external": {
+            "national": true,
+            "international": true
+          }
+        },
+        "website": {
+          "links": "on the main CESTA page"
+        }
+      }
+    ],
+    "news_and_updates": [
+      {
+        "date": "02 Jul 2015",
+        "title": "Digital Humanities at Stanford"
+      },
+      {
+        "date": "08 Jun 2015",
+        "title": "Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science"
+      },
+      {
+        "date": "05 May 2015",
+        "title": "Humanities + Digital at the Stanford Humanities Center"
+      },
+      {
+        "date": "25 Nov 2014",
+        "title": "HIST205F Electronic Poster Session, December 1 at 3:15pm"
+      },
+      {
+        "date": "27 Jun 2014",
+        "title": "New Multimedia Publication: Mapping Mobility in the Budapest Ghetto"
+      },
+      {
+        "date": "30 May 2014",
+        "title": "New Article in Journal of American History"
+      }
+    ],
+    "upcoming_events": [
+      {
+        "description": "Please check the main CESTA page for upcoming events"
+      }
+    ],
+    "additional_resources": [
+      "SU Home",
+      "Maps & Directions",
+      "Search Stanford",
+      "Terms of Use",
+      "Copyright Complaints"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "CenterForSpatialAndTextualAnalysis": {
+    "HomePage": [
+      "Home",
+      "About CESTA",
+      "CONTACT"
+    ],
+    "Labs": [
+      {
+        "Title": "Literary Lab"
+      },
+      {
+        "Title": "Mapping the Republic of Letters"
+      },
+      {
+        "Title": "Spatial History Project"
+      }
+    ],
+    "Events": [
+      {
+        "Title": "CESTA Presents: Javascript InfoViz Library D3",
+        "Date": "July 19th",
+        "Category": "Events"
+      },
+      {
+        "Title": "CESTA Presents: Storyboarding Visualizations",
+        "Date": "July 12th",
+        "Category": "Events"
+      },
+      {
+        "Title": "Gephi Workshop This Week at UC Berkeley",
+        "Category": "Events"
+      },
+      {
+        "Title": "CESTA Presents: Data Visualization with Tableau",
+        "Date": "June 28",
+        "Category": "Events"
+      },
+      {
+        "Title": "Daniel Strum Presentation",
+        "Date": "June 6",
+        "Category": "Events"
+      }
+    ],
+    "News": [
+      {
+        "Title": "Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library",
+        "Category": "News"
+      },
+      {
+        "Title": "Job Announcement: Academic Technology Specialist",
+        "Category": "News"
+      },
+      {
+        "Title": "Welcome to the new CESTA Blog!",
+        "Category": "News"
+      },
+      {
+        "Title": "A Decade of Fire in Western Australia",
+        "Category": "News"
+      }
+    ],
+    "FilterCategories": ["All", "Events", "News"],
+    "Tags": [
+      "CESTA Presents",
+      "Gephi",
+      "InfoViz",
+      "Javascript",
+      "job announcements",
+      "Lab Announcements",
+      "Spatial History Project",
+      "SSHW",
+      "storyboarding",
+      "workshop"
+    ],
+    "RecentPosts": [
+      "Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library",
+      "CESTA Presents: Javascript InfoViz Library D3",
+      "Job Announcement: Academic Technology Specialist",
+      "CESTA Presents: Storyboarding Visualizations",
+      "Gephi Workshop This Week at UC Berkeley"
+    ],
+    "Archives": [
+      "July 2012",
+      "June 2012",
+      "May 2012"
+    ]
+  }
+}

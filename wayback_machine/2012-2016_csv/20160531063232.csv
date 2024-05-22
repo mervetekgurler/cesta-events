@@ -1,0 +1,13 @@
+Here's the extracted event information formatted into CSV:
+
+```
+Date,Event Title,Time,Location,Details
+02 Jul 2015,Digital Humanities at Stanford,,Stanford University,
+08 Jun 2015,Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science,,Stanford University,
+05 May 2015,Humanities + Digital at the Stanford Humanities Center,,Stanford University,
+25 Nov 2014,HIST205F Electronic Poster Session,3:15pm,Stanford University,December 1
+27 Jun 2014,New Multimedia Publication: Mapping Mobility in the Budapest Ghetto,,Stanford University,
+30 May 2014,New Article in Journal of American History,,Stanford University,
+```
+
+This format represents the given event information in a structured CSV format. Each field is separated by commas, with information arranged under standard CSV headings such as "Date", "Event Title", "Time", "Location", and "Details".

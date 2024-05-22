@@ -1,0 +1,83 @@
+{
+  "Organization": "Center for Spatial and Textual Analysis",
+  "Projects": [
+    "Spatial History Project",
+    "Mapping the Republic of Letters",
+    "Literary Lab"
+  ],
+  "MainSections": {
+    "Home": true,
+    "About CESTA": true,
+    "CONTACT": true,
+    "Filter": [
+      "All",
+      "Events",
+      "News"
+    ],
+    "Individual CESTA Lab Links": [
+      "Literary Lab",
+      "Mapping the Republic of Letters",
+      "Spatial History Project"
+    ]
+  },
+  "EventsOfInterest": [
+    {
+      "Title": "CESTA Presents: Data Visualization with Tableau",
+      "Date": "June 28",
+      "PostedIn": "Events",
+      "Description": "CESTA will supplement its busy summer season with an ongoing series of talks and mini-workshops called CESTA Presents. Each week, we’ll feature presentations by members and friends of the CESTA community. These presentations will vary in content and format, and are meant mainly as a somewhat informal exchange of information, ideas, and feedback for all lab participants, regardless of individual lab or project affiliation. For more information, please contact Matt Bryant at mpbryant@stanford.edu, or (650)721-1385",
+      "Speakers": [
+        {
+          "Name": "Ryan Heuser",
+          "Affiliation": "Literary Lab, CESTA"
+        }
+      ],
+      "Location": {
+        "Venue": "Grand Central Room, 4th Floor Wallenberg Hall",
+        "AccessInfo": "Stairwell doors will be unlocked for this event for those who do not have access cards."
+      }
+    },
+    {
+      "Title": "June 6 – Daniel Strum",
+      "Date": "June 6",
+      "PostedIn": "Events",
+      "Description": "Social Science History Workshop speaker, Daniel Strum, Stanford University, will present his paper, 'Marketplaces, Rulers and Diasporas Governing Early Modern Trade: Jews and Conversos along the sugar route revisited (Brazil, Portugal and the Netherlands, 1595/1618)'. Note the change in time and place.",
+      "Location": {
+        "Venue": "Room 223 (Bubble Room), Landau Economics Building",
+        "Time": "12:00-1:30 pm"
+      },
+      "Link": "http://economics.stanford.edu/seminars/tba-264"
+    }
+  ],
+  "ProjectUpdatesAndNews": [
+    {
+      "Title": "Welcome to the new CESTA Blog!",
+      "PostedIn": "News",
+      "Description": "Official welcome to the new CESTA blog as a new common web presence for all things CESTA. The blog and a mailing list will improve and streamline communication among the three labs."
+    },
+    {
+      "Title": "A Decade of Fire in Western Australia",
+      "PostedIn": "News",
+      "ProjectLink": "here",
+      "BriefDescription": "Significant visualization update to the Spatial History Project’s 'A Decade of Fire in Western Australia'. This project combines ethnographic and ecological research, including interviews with Martu and analysis of Landsat imagery over a ten-year period (2000-2010)."
+    }
+  ],
+  "RecentPosts": [
+    "CESTA Presents: Data Visualization with Tableau – June 28",
+    "Welcome to the new CESTA Blog!",
+    "June 6 – Daniel Strum",
+    "A Decade of Fire in Western Australia"
+  ],
+  "RecentComments": [],
+  "Archives": [
+    "June 2012",
+    "May 2012"
+  ],
+  "Tags": [
+    "CESTA Presents",
+    "Lab Announcements",
+    "Spatial History Project",
+    "SSHW"
+  ],
+  "Copyright": "© 2012 Powered by Shaken Grid Premium"
+}

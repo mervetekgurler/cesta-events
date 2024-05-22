@@ -1,0 +1,153 @@
+{
+  "CenterInfo": {
+    "MainTitle": "Center for Spatial and Textual Analysis",
+    "SubProjects": ["Spatial History Project", "Humanities + Design", "Literary Lab"]
+  },
+  "Navigation": ["Home", "About CESTA", "CONTACT"],
+  "FilterOptions": {
+    "FilterCategories": ["All", "Courses", "Events", "Job Announcements/Opportunities", "News", "Publications"],
+    "CESTALabLinks": ["Humanities + Design", "Literary Lab", "Spatial History Project"]
+  },
+  "EventsOfInterest": [
+    {
+      "Title": "CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago)",
+      "Details": {
+        "Date": "Friday May 3",
+        "Time": "12-2pm",
+        "RSVPRequired": true,
+        "Category": "Events",
+        "LinkType": "Shortlink"
+      }
+    },
+    {
+      "Title": "CESTA Presents: Between Two Booms: The Human and Environmental Consequences of Brazilian Ethanol Production",
+      "Details": {
+        "Category": "Events",
+        "LinkType": "Shortlink"
+      }
+    },
+    {
+      "Title": "The View and The Value: Historical Geography of Signs in San Francisco",
+      "Details": {
+        "Category": "Events",
+        "LinkType": "Shortlink"
+      }
+    },
+    {
+      "Title": "Spatial History Project’s Rebooting History Research Team Presents Three New Films",
+      "Details": {
+        "Category": "Events",
+        "LinkType": "Shortlink"
+      }
+    },
+    {
+      "Title": "[Visualizing Complexity & Uncertainty] Reviel Netz: 'Making Sense of Greek Culture: Maps, Numbers, Thoughts' – March 7",
+      "Details": {
+        "Category": "Events",
+        "LinkType": "Shortlink"
+      }
+    },
+    {
+      "Title": "CESTA Presents: Matteo Lorenzini and Mark Philipson – Friday March 1st",
+      "Details": {
+        "Category": "Events",
+        "LinkType": "Shortlink"
+      }
+    }
+  ],
+  "ProjectUpdatesAndNews": [
+    {
+      "Title": "CESTA Crowdsourcing In the News:  History Experiment Uses Tech to Find New Stories",
+      "Category": ["News"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "New Publication by Matthew Booker",
+      "Category": ["News", "Publications"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "New Faces Around CESTA",
+      "Category": ["News"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "New Humanities + Design Graduate Fellows",
+      "Category": ["News"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "Press for Rebooting History East Palo Alto Project",
+      "Category": ["News"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "Press Release: Erik Steiner and Spatial History Project Participates in National 'Designing Intelligent Environments' Workshop",
+      "Category": ["News"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "Maria Santos Featured in New Publication: 'A Look at the Portuguese Carnivores'",
+      "Category": ["News", "Publications"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "Visualizing Evidence Winter Workshop in Progress",
+      "Category": ["Courses", "Events", "News"],
+      "LinkType": "Shortlink"
+    }
+  ],
+  "JobAnnouncements": [
+    {
+      "Title": "GIS Software Developer, Digital Library Systems and Services, Stanford",
+      "Category": ["News"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "Geospatial Instruction and Reference Specialist, Branner Library",
+      "Category": ["News"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "Upcoming Exhibition! Curating the Bay: Crowdsourcing a New Environmental History",
+      "Category": ["Job Announcements/Opportunities"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project",
+      "Category": ["Job Announcements/Opportunities"],
+      "LinkType": "Shortlink"
+    },
+    {
+      "Title": "Glen Worthey: Digital Humanities, or Seven Decades of the New New Thing – CESTA, Aug. 17th",
+      "Category": ["Job Announcements/Opportunities"],
+      "LinkType": "Shortlink"
+    }
+  ],
+  "Tags": [
+    "ArcGIS", "California", "Cameron Blevins", "CESTA", "CESTA Presents", "China", "courses", "diaspora", "digital history", "digital methods", "East Palo Alto", "Gephi", "GIS", "Holocaust", "Illustrator", "InfoViz", "Javascript",
+    "Jean-Pierre Dupuy", "job announcements", "Johanna Drucker", "knowledge", "KQED", "Lab Announcements", "mapping", "Mapping the Republic of Letters", "Maria Santos", "national parks", "Nicole Coleman", "open house", "ORBIS", "Python",
+    "Rebooting History", "Rome", "Spatial History Project", "SSHW", "Stanford Humanities Center", "storyboarding", "symposium", "Time + Networks", "Visualizing Complexity", "Visualizing Evidence", "wildlife", "workshop", "Yellow River", "Zephyr Frank"
+  ],
+  "RecentPosts": [
+    "CESTA/French Culture Workshop Presents: Robert Morrissey (U of Chicago) – Friday May 3, 12-2pm RSVP",
+    "CESTA Presents: Between Two Booms: The Human and Environmental Consequences of Brazilian Ethanol Production",
+    "CESTA Crowdsourcing In the News: History Experiment Uses Tech to Find New Stories",
+    "New Publication by Matthew Booker",
+    "New Faces Around CESTA"
+  ],
+  "RecentComments": ["Archives"],
+  "Archives" : [
+    "May 2013",
+    "April 2013",
+    "March 2013",
+    "February 2013",
+    "January 2013",
+    "November 2012",
+    "October 2012",
+    "August 2012",
+    "July 2012",
+    "June 2012",
+    "May 2012"
+  ]
+}

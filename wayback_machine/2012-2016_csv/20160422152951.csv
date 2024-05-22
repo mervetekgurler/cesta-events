@@ -1,0 +1,19 @@
+Here's the extraction of event information from the document formatted into a CSV-like structure, ready to be used as CSV content:
+
+```plaintext
+Event Title,Date,Time,Location
+Digital Humanities at Stanford,02 Jul 2015,,Stanford University
+Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science,08 Jun 2015,,Stanford University
+Humanities + Digital at the Stanford Humanities Center,05 May 2015,,Stanford Humanities Center
+HIST205F Electronic Poster Session,25 Nov 2014,3:15pm,Stanford University
+New Multimedia Publication: Mapping Mobility in the Budapest Ghetto,27 Jun 2014,,Stanford University
+New Article in Journal of American History,30 May 2014,,Stanford University
+```
+
+Note:
+- CSV-like structure is used for better readability here.
+- Each line item includes the Event Title, Date, Time, and Location.
+- In the original document, not all events have stated times or specific location details beyond "Stanford." These columns have been left empty where applicable.
+- The line items are sorted chronologically as appeared in the original document.
+- The events start from the "News and Updates" section, assuming only events labeled with dates have been captured as per your instructions.
+- The additional data provided by phone and fax number or other texts are not included as they do not pertain to specific events.

@@ -1,0 +1,13 @@
+Certainly, converting the event information presented in the text into CSV format would result in the following layout:
+
+```csv
+Date,Event,Time,Location
+02 Jun 2014,The Lab will present the Lila2 Interface, a visualization tool that enables users to perform ad-hoc analyses,10:00-12:00,Terrace Room, Margaret Jacks Hall
+28 May 2014,The Emotions of London, another geographical project, will update the group on their recent work,10:00-12:00,Literary Lab
+19 May 2014,Matt Wilkens, Assistant Professor of English at Notre Dame University, will discuss the geography of American literature,10:00-12:00,Literary Lab
+15 May 2014,Networks in History,9:00-5:00,Humanities+Design
+12 May 2014,The Canon and Archive project will discuss their hypotheses and first results,10:00-12:00,Literary Lab
+16 Apr 2014,The members of the Lab's Suspense project will present a background of the project's aims along with some initial findings,10:00-12:00,Literary Lab
+```
+
+This CSV format contains columns for the date, event name/description, the time of the event, and the event location, with each column separated by a comma as per standard CSV formatting practices.

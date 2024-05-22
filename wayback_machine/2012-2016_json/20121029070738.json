@@ -1,0 +1,103 @@
+{
+  "organization": "Center for Spatial and Textual Analysis",
+  "projects": [
+    "Spatial History Project",
+    "Mapping the Republic of Letters",
+    "Literary Lab"
+  ],
+  "navigation": [
+    "Home",
+    "About CESTA",
+    "Contact"
+  ],
+  "content_categories": [
+    "All",
+    "Events",
+    "News",
+    "Uncategorized"
+  ],
+  "individual_lab_links": [
+    "Literary Lab",
+    "Mapping the Republic of Letters",
+    "Spatial History Project"
+  ],
+  "events": [
+    {
+      "title": "CESTA Presents: The e-Diasporas Atlas with Dana Diminescu",
+      "date": "Oct. 22nd",
+      "category": "Events"
+    },
+    {
+      "title": "Visualizing the Dynamic Universe",
+      "date": "Friday Oct. 5th",
+      "category": "Events"
+    },
+    {
+      "title": "Free Python and ArcGIS seminars",
+      "date": "8/30/2012",
+      "category": "Events"
+    },
+    {
+      "title": "Mapping the Republic of Letters + CKCC Presentation",
+      "date": "Wed. Aug. 29th at 9am",
+      "category": "Events"
+    },
+    {
+      "title": "CESTA Presents: Thomas Nygren – Digital History and the Construction of Knowledge",
+      "category": "Events"
+    },
+    {
+      "title": "Mapping People Symposium at the University of Redlands",
+      "category": "Events"
+    }
+  ],
+  "news": [
+    {
+      "title": "Job Announcement: GIS Software Developer, Digital Library Systems and Services, Stanford",
+      "category": "News"
+    },
+    {
+      "title": "Job Announcement: Geospatial Instruction and Reference Specialist, Branner Library",
+      "category": "News"
+    },
+    {
+      "title": "Job Announcement: Academic Technology Specialist",
+      "category": "News"
+    },
+    {
+      "title": "Welcome to the new CESTA Blog!",
+      "category": "News"
+    },
+    {
+      "title": "A Decade of Fire in Western Australia",
+      "category": "News"
+    }
+  ],
+  "tags": [
+    "ArcGIS",
+    "California",
+    "China",
+    "digital history",
+    "diaspora",
+    "job announcements",
+    "mapping"
+  ],
+  "recent_posts": [
+    {
+      "title": "Application Deadline Extended to Oct. 26th! Paid Undergraduate Research Positions for the Spatial History Project"
+    },
+    {
+      "title": "CESTA Presents: The e-Diasporas Atlas with Dana Diminescu – Oct. 22nd"
+    },
+    {
+      "title": "Visualizing the Dynamic Universe – Friday Oct. 5th"
+    }
+  ],
+  "archives": [
+    "October 2012",
+    "August 2012",
+    "July 2012",
+    "June 2012",
+    "May 2012"
+  ]
+}

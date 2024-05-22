@@ -1,0 +1,13 @@
+Here's the extracted event information from the document structured into CSV format:
+
+```csv
+Date,Event Title,Details,Time
+02 Jul 2015,Digital Humanities at Stanford,,
+08 Jun 2015,Geospatial Narrative: Perspectives from the Humanities, Cartography and Geographic Information Science,,
+05 May 2015,Humanities + Digital at the Stanford Humanities Center,,
+25 Nov 2014,HIST205F Electronic Poster Session,December 1 at 3:15pm,3:15pm
+27 Jun 2014,New Multimedia Publication: Mapping Mobility in the Budapest Ghetto,,
+30 May 2014,New Article in Journal of American History,,
+```
+
+This CSV format includes columns for the date, event title, further details if provided in the text, and time when specified.

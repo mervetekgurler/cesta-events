@@ -1,0 +1,140 @@
+{
+  "organization": "Center for Spatial and Textual Analysis",
+  "subProjects": ["Spatial History Project", "Humanities + Design", "Literary Lab"],
+  "sections": [
+    {
+      "name": "Home",
+      "subSections": ["About CESTA", "CONTACT"]
+    },
+    {
+      "name": "Filter Categories",
+      "categories": [
+        "All",
+        "Courses",
+        "Events",
+        "Job Announcements/Opportunities",
+        "News",
+        "Publications"
+      ]
+    },
+    {
+      "name": "Individual CESTA Lab Links",
+      "labs": ["Humanities + Design", "Literary Lab", "Spatial History Project"]
+    },
+    {
+      "name": "Recent Posts and Events",
+      "posts": [
+        {
+          "title": "Hestia2 Workshop at CESTA",
+          "date": "Nov. 4-5",
+          "type": "Events"
+        },
+        {
+          "title": "Kindred Britain: An Introduction with Nicholas Jenkins, Elijah Meeks, and Scott Murray",
+          "date": "Oct. 30, 2013",
+          "type": "Events"
+        },
+        {
+          "title": "Crowdsourcing California’s Conservation History: A Call to Action",
+          "type": ["Events", "Job Announcements/Opportunities"]
+        },
+        {
+          "title": "CESTA Presents Glauco Mantegari – Linked Data, Voltaire, and Early-Modern Networks: An Ongoing Experiment",
+          "type": "Events"
+        },
+        {
+          "title": "CESTA Presents Maria McVarish – Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies",
+          "type": "Events"
+        },
+        {
+          "title": "Visualizing Complexity and Uncertainty: Giorgio Caviglia @ CESTA 3pm May 29",
+          "type": "Events"
+        },
+        {
+          "title": "Humanities + Design Receives NEH Grant!",
+          "type": "News"
+        },
+        {
+          "title": "CESTA Crowdsourcing Projects in the Stanford News",
+          "type": "News"
+        },
+        {
+          "title": "Diarna visits CESTA",
+          "type": "News"
+        }
+      ]
+    },
+    {
+      "name": "Tags",
+      "tags": [
+        "ArcGIS",
+        "California",
+        "CESTA",
+        "CESTA Presents",
+        "China",
+        "courses",
+        "crowdsourcing",
+        "diaspora",
+        "digital history",
+        "digital methods",
+        "East Palo Alto",
+        "Gephi",
+        "GIS",
+        "Holocaust",
+        "Humanities + Design",
+        "Illustrator",
+        "InfoViz",
+        "Javascript",
+        "Jean-Pierre Dupuy",
+        "job announcements",
+        "Johanna Drucker",
+        "knowledge",
+        "KQED",
+        "Lab Announcements",
+        "mapping",
+        "Mapping the Republic of Letters",
+        "Maria Santos",
+        "national parks",
+        "Nicole Coleman",
+        "open house",
+        "ORBIS",
+        "Python",
+        "Rebooting History",
+        "Rome",
+        "Spatial History Project",
+        "SSHW",
+        "Stanford Humanities Center",
+        "storyboarding",
+        "symposium",
+        "Time + Networks",
+        "Visualizing Complexity",
+        "Visualizing Evidence",
+        "workshop",
+        "Yellow River",
+        "Zephry Frank"
+      ]
+    },
+    {
+      "name": "Archives",
+      "dates": [
+        "October 2013",
+        "September 2013",
+        "August 2013",
+        "July 2013",
+        "May 2013",
+        "April 2013",
+        "March 2013",
+        "February 2013",
+        "January 2013",
+        "November 2012",
+        "October 2012",
+        "August 2012",
+        "July 2012",
+        "June 2012",
+        "May 2012"
+      ]
+    }
+  ],
+  "copyright": "Copyright © 2013",
+  "poweredBy": "Shaken Grid Premium"
+}

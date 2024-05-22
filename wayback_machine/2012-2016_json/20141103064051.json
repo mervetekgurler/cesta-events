@@ -1,0 +1,107 @@
+{
+  "CenterName": "Center for Spatial and Textual Analysis",
+  "HomePage": "Home",
+  "Menu": [
+    "People",
+    "Labs & Projects",
+    "Certificate of Digital Humanities",
+    "Resources",
+    "About"
+  ],
+  "Description": "The Center for Spatial and Textual Analysis (CESTA) is comprised of the Spatial History Project, Humanities+Design, and the Literary Lab. This interdisciplinary collective of labs operates independently of any one particular home department, and is organizationally housed within the Dean of Research at Stanford University.",
+  "ResearchApproach": "CESTA labs and projects pursue research which utilize data and information visualization that span a variety of methodologies, disciplines, and departments, often collaborating with diverse team members from within the Stanford community, but also externally through national and international collaborations.",
+  "MoreInfo": "Please see the individual lab links on the main CESTA page to find more information and details about each labâs members and projects.",
+  "NewsAndUpdates": [
+    {
+      "Date": "27 Jun 2014",
+      "Description": "New Multimedia Publication: Mapping Mobility in the Budapest Ghetto"
+    },
+    {
+      "Date": "30 May 2014",
+      "Description": "New Article in Journal of American History"
+    },
+    {
+      "Date": "14 May 2014",
+      "Description": "Announcing the Graduate Certificate in Digital Humanities"
+    },
+    {
+      "Date": "22 Nov 2013",
+      "Description": "CESTA/Spatial History Project is Hiring Undergraduate Research Assistants for Winter Quarter"
+    },
+    {
+      "Date": "01 Nov 2013",
+      "Description": "CESTA Presents Christopher Richard – Myth Busting the Founding of San Francisco – Dec. 2nd @ Noon"
+    },
+    {
+      "Date": "21 Oct 2013",
+      "Description": "Hestia2 Workshop at CESTA – Nov. 4-5"
+    }
+  ],
+  "UpcomingEvents": [
+    {
+      "Month": "JUN",
+      "Day": "2",
+      "Year": "2014",
+      "Details": "The Lab will present the Lila2 Interface, a visualization tool that enables users to perform ad-hoc analyses.",
+      "Time": "10:00-12:00",
+      "Location": "Terrace Room, Margaret Jacks Hall"
+    },
+    {
+      "Month": "MAY",
+      "Day": [
+        "28",
+        "19",
+        "15",
+        "12"
+      ],
+      "Year": "2014",
+      "Events": [
+        {
+          "Description": "The Emotions of London, another geographical project, will update the group on their recent work.",
+          "Time": "10:00-12:00",
+          "Location": "Literary Lab"
+        },
+        {
+          "Description": "Matt Wilkens, Assistant Professor of English at Notre Dame University, will discuss the geography of American literature.",
+          "Time": "10:00-12:00",
+          "Location": "Literary Lab"
+        },
+        {
+          "Description": "Networks in History",
+          "Time": "9:00-5:00",
+          "Location": "Humanities+Design"
+        },
+        {
+          "Description": "The Canon and Archive project will discuss their hypotheses and first results.",
+          "Time": "10:00-12:00",
+          "Location": "Literary Lab"
+        }
+      ]
+    },
+    {
+      "Month": "APR",
+      "Day": "16",
+      "Year": "2014",
+      "Details": "The members of the Lab's Suspense project will present a background of the project's aims along with some initial findings.",
+      "Time": "10:00-12:00",
+      "Location": "Literary Lab"
+    }
+  ],
+  "UniversityInfo": {
+    "Name": "Stanford University",
+    "Location": "Stanford, California",
+    "ZipCode": "94305",
+    "Contact": {
+      "Phone": "(650) 721-1385",
+      "Fax": "(650) 725-5916"
+    },
+    "Links": [
+      "SU Home",
+      "Maps & Directions",
+      "Search Stanford",
+      "Terms of Use",
+      "Copyright Complaints"
+    ],
+    "CopyrightNotice": "© Stanford University"
+  }
+}

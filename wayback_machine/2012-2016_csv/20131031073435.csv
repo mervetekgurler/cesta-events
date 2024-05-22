@@ -1,0 +1,11 @@
+Below, the events information extracted from the document is converted to CSV format. Each line represents a record of an event with columns for the title, date, and location:
+
+```
+"Event Title","Date","Location"
+"Hestia2 Workshop at CESTA","Nov. 4-5, 2013","450 Serra Mall, Building 160, Rm 433A, Stanford, CA 94305"
+"Kindred Britain: An Introduction with Nicholas Jenkins, Elijah Meeks, and Scott Murray","October 30, 2013, 5:00pm","Terrace Room, Margaret Jacks Hall"
+"Visualizing Complexity and Uncertainty: Giorgio Caviglia @ CESTA","May 29, 2013, 3:00pm","Wallenberg Hall, 4th floor, Stanford"
+"CESTA Presents Cecil Brown: George Moses Horton Slave Poet and Hip-Hop Prototype","October 10th, 1 PM","Wallenberg Hall (Building 160), Fourth Floor, Room 433A"
+"CESTA Presents Glauco Mantegari – Linked Data, Voltaire, and Early-Modern Networks: An Ongoing Experiment","July 30th @ Noon","Learning Theater (Rm 124), Wallenberg Hall (Building 160)"
+"CESTA Presents Maria McVarish – Landscape, Figure, Fuel: Appalachian Coal Mines and their Legacies","July 16th, 12pm to 1:30pm","Learning Theater (Room 124), Wallenberg Hall (Building 160)"
+```
