@@ -1,0 +1,111 @@
+CESTA Stanford Monthly Newsletter
+
+View this email in your browser (*|ARCHIVE|*)
+
+Center for Spatial
++ Textual Analysis
+
+DECEMBER   NEWSLETTER
+[NEWS YOU CAN USE]
+Welcome to the new monthly newsletter from the Center for Spatial and Textual Analysis (CESTA) at Stanford University. This letter will serve as a platform for communicating what is happening at the Center, and we encourage you to follow our other social media platforms found at the bottom of this page.
+Each newsletter issue will feature people, events, projects, publications, and other content that relates to what we do and what we are about. If you have any questions or feedback regarding this newsletter or any of our other social network platforms, don't hesitate to let us know. CESTA community participants are encouraged to send any newsletter items for upcoming broadcasts to mattbryant.stanford@gmail.com (mailto:mattbryant.stanford@gmail.com)
+
+As always, we appreciate your interest and support for the wonderful work that is happening here in our Center.
+
+[WILL IT PLAY IN PEORIA?]
+CESTA is proud to announce that one of our long time collaborators from the University of California, Berkeley, professor Scott Saul (http://english.berkeley.edu/profiles/67) , is going big time with the release of his new book, Becoming Richard Pryor, which officially launches on December 9th from Harper Collins. The book has an accompanying website, Richard Pryor's Peoria (http://www.becomingrichardpryor.com/pryors-peoria/) , and a YouTube video (https://www.youtube.com/watch?v=bqEAYbuguGM) .
+
+At the time of this newsletter publication, there is a lot of growing buzz around the release of Scott's new book and project, including praise by Pulitzer Prize-winning novelist Michael Chabon and Pulitzer Prize-winning biographer Debby Applegate. Full quotes can be found here:http://www.scott-saul.com/#!writing/cnec (http://www.scott-saul.com/#%21writing/cnec)
+
+The book has even been Selected by Playboy Magazine as one of the "best books of the winter." Yes, friends, the digital humanities has finally made it into Playboy! And an excerpt of the book has just been featured in The Nation (http://bitly.com/1tfglMw) . Also, be on the lookout for upcoming interviews in USA Today, San Jose Mercury News, Contra Costa Times, and The Chicago Tribune.
+
+Scott is alum of Standford, was also a fellow at the Stanford Humanities Center (http://shc.stanford.edu/) , and has been a close collaborator of CESTA for some time. We congratulate Scott and his team on the completion and success of this project!
+
+[OTHER PEOPLE'S MONEY]
+Spatial History Project (https://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) Creative Director Erik Steiner recently launched a small crowdsourcing experiment that has been featured in WIRED magazine (http://www.wired.com/2014/11/coin-jar-crowdsource-experiment/) . The project asks the question, "Can the internet count coins as well as a bank machine?" Participants from "the crowd" are asked to view a photo of Steiner's parent's change jar, inside which includes 27 years worth of coins, and guess the exact amount. Guesses are input into this online form (http://web.stanford.edu/group/spatialhistory/crowdsourcing/coinjar.html) , and participants are able to enter their best guesses until the end of the day on December 8th. We'll follow up in the next newsletter as to what we were able to glean from this experiment, but in the mean time, go and enter your best guess!
+
+For info on CESTA's other crowdsourcing in the humanities projects, go here. (http://news.stanford.edu/news/2013/may/humanities-crowd-sourcing-052113.html)
+[GOING POSTAL]
+We are proud to announce the recent publication of one of our long time Center projects, Cameron Blevins' Geography of the Post. This project maps the opening and closing of 14,000 post offices in the U.S. West during the late nineteenth century. You can find the project here. (http://cameronblevins.org/gotp/) Academic Technology Specialist and Historian of the West Jason Heppler worked closely with Cameron to bring the project to its final form. Jason has written a thoughtful post (http://jasonheppler.org/2014/10/30/research-design-in-geography-of-the-post/) about the design process that went into this effort, and Cameron has written a piece (http://www.cameronblevins.org/posts/postal-geography-and-the-golden-west/) about how the visualization can be used in historical narrative. Congratulations, Cameron and Jason!
+
+http://cameronblevins.org/gotp/
+[PALLADIO 8.0]
+CESTA's Humanities + Design (http://hdlab.stanford.edu/about/index.html) has released the latest version Palladio 8.0 this month! This release focuses on expanded Map View features. In response to your feedback, the Map View now handles different tile sets. Tile sets can be layered on top of one another and toggled as desired. This facilitates comparisons between historical and contemporary maps. In cases where a historical map only covers part of an area of interest, we can now see the rest of the area - either with a contemporary map, a different historical map, or a combination of the two. For more info about Palladio and the latest release note details, check out the H+D site (http://hdlab.stanford.edu/projects/palladio/) . Congrats!
+[IF A TREE FALLS IN THE FOREST...]
+
+Interactive Visualization Shows Impact of Deforestation on the Last Large Remnant of Atlantic Rainforest in Brazil
+
+The Iguaçu National Park was created by the Brazilian government between 1939 and 1944 on the border with Argentina, around the famous Iguazu Falls. With about 200,000 hectares, is one of the largest continuous areas remnants of the Atlantic rainforest that once covered most of Southeastern Brazil. The park is also home to the Iguazu Falls and is the most visited national park in the country, receiving more than 1.5 million tourists per year.
+
+Frederico Freitas, (PhD candidate in Latin American history), Peter Salazar (History Senior), and Eli Berg (Chemistry/Computer Science Senior) created an interactive visualization (http://cesta.stanford.edu/projects/boundaries/) that shows the deforestation occurring in the vicinity of the park in the last 60 years. The contrast between the aerial photos of 1953, 1980 and today demonstrates the extent of deforestation in the region outside the park. From the 1950s on, thousands of settlers from other Brazilian states migrated into Western Paraná, where the park is located, which resulted in the destruction of most of the rainforest that until the mid-1950s covered the area.
+
+
+Deforestation in the vicinity of the Iguaçu National Park, 1953-1980-2014. Frederico Freitas and Stanford Spatial History Project.
+
+The research led by Freitas reconstructs the last 60 years of the history of the park through two sets of aerial photographs produced in 1953 and 1980 by the government of the state of Paraná, in southern Brazil. The original films were found in the archives of the Institute of Geoscience and Cartography of Paraná, in Curitiba. They were then scanned in Brazil and georeferenced in California, at the CESTA Laboratory by Freitas, Salazar, and Berg.
+
+Regeneration
+
+The research also demonstrates how landscape change was redirected towards regeneration. The present-day forest cover inside the park is not pristine. A large area of what is forest now appears as cleared in the images of 1980. The creation of the park by the Brazilian federal government in 1939 was challenged by the State of Paraná, which encouraged settlers to move inside the park in the 1950s and 1960s. This resulted in a conflictive process of removal and resettlement of settlers from the park promoted by the Brazilian military dictatorship in the 1970s. After the eviction of the settlers, the forest regenerated itself in most of the territory previously occupied by farms.
+
+
+Deforestation and regeneration inside the Iguaçu National Park, 1953-1980-2014. Frederico Freitas and Stanford Spatial History Project.
+
+[CESTA GOES TO SWEDEN]
+
+Genres of Scholarly Knowledge Production
+
+The Wallenberg Foundations have supported collaborative research at Stanford for well over a decade.  In this context, the Media Places initiative was launched under the auspices of the Wallenberg Research Network in 2011.  Media Places involves scholars from Umeå University (HUMlab) and Stanford University (CESTA , History Education, and Communication).  This winter marks the third major conference involving participants in the project and will include a range of scholars working in related fields from around the world.   CESTA-affiliated participants in the conference, to be held in Umeå from December 10-12, include Franco Moretti, Nicole Coleman, Brian Johnsrud, and Zephyr Frank.  The innovative conference space located in HUMlab’s facilities is shown below in a 3D rendering.  Now I have to figure out what goes on the floor display and whether or not to walk on it during my talk.
+
+For more information on the Genres of Scholarly Knowledge Production conference, see their website (http://www.humlab.umu.se/sv/event/genres-of-scholarly-knowledge-production/) .
+
+- Zephyr Frank, CESTA Director
+
+Model view of the HUMlab space, including the floor display.
+[DIGITAL LITERACIES]
+Brian Johnsrud (Modern Thought and Literature) and Emily Schneider (School of Education), members of Amir Eshel's Poetic Media Lab in CESTA, presented their research on 'Designing Technology and Pedagogy to Promote 21st Century Literacies in the Humanities' at the Stanford Digital Humanities Focal Group. See the video recording of their talk and follow-up discussion here: https://vimeo.com/112329700
+
+[INFORMATION IS BEAUTIFUL!]
+Humanities + Design member Giorgio Caviglia has been awarded the Information is Beautiful Award for 2014 (http://www.informationisbeautifulawards.com/showcase/482-raw) , for his work on the RAW tool! RAW (http://raw.densitydesign.org/) is an open web tool developed at the DensityDesign Research Lab (http://www.densitydesign.org/) (Politecnico di Milano) to create custom vector-based visualizations on top of the amazing d3.js library. Primarily conceived as a tool for designers and vis geeks, RAW aims at providing a missing link between spreadsheet applications (e.g. Microsoft Excel, Apple Numbers, Google Docs, OpenRefine, …) and vector graphics editors (e.g. Adobe Illustrator, Inkscape, …) Congrats Giorgio!
+[HATS OFF]
+Congratulations to former CESTA research assistant Maya Krishnan for winning the 2015 Rhodes Scholarship! This prestigious scholarship provides all expenses for two or three years of study at the University of Oxford. We're jealous! We are continuously amazed at the brilliant an wonderful students who get an opportunity to work and participate in the CESTA community. For the full article on Maya and fellow Stanford student Emily Witt's receipt of the Rhodes, go here. (http://news.stanford.edu/news/2014/november/student-scholarship-awards-112414.html)
+[SOME PEOPLE!]
+Each month we will feature brief CESTA participant profiles so that you can get to know us a little better. Now for this month's featured VIPs.....
+
+RYAN HEUSER
+Hi, I’m Ryan Heuser, the Associate Research Director of CESTA's Literary Lab, as well as a Ph.D. student in English here at Stanford. In the Literary Lab, we conduct a number of computational research projects in literary history and theory. As programmers and researchers, I and my colleague Mark-Algee Hewitt—also Associate Research Director as well as Professor of Digital Humanities in English—act as engines for research, helping to drive forward both the technical and theoretical aspects of these projects, each of which involves a different set of graduate students, professors, and other researchers. Within CESTA, I act as resident text miner, helping and consulting researchers with various text-mining aspects of their own projects. In my Ph.D. work, I am interested in articulating a literary history of words of abstraction and ideology, such as “Virtue” and “Refinement”, as they evolve across the eighteenth century and diminish in the nineteenth. In the very small portion
+of my life not dedicated to research, I am an avid news reader, an activist in social justice issues, and an inveterate techno dancer.
+
+CELENA ALLEN
+Hello! My name is Celena Allen and I am the GIS Specialist and Project Coordinator at CESTA. I work primarily with the Spatial History Project yet I love working with our larger CESTA community whenever the opportunities present themselves. Primarily, my focus and energy is on students and various projects assigned to our lab. When not navigating the waters of GIS, I enjoy connecting brilliant researchers with incredible students while fostering existing collaborative relationships. I am here to support students, researchers, and the research process; and because of the wide variety of projects we host at the Spatial History Project, no two days are ever the same for me! These are some of the reasons why I have so much fun working here at CESTA. In addition to the many interesting projects, I work with an amazing community filled with talented people.  Basically, I work in the best place ever.
+
+When I’m not at CESTA I’m at home or exploring with my ridiculously cute daughter Miya and her partner in crime, daddy.
+
+
+[PARTY PEOPLE IN THE HOUSE]
+CESTA held its annual holiday party this week, and it was great to see such a mix of participants conversing and enjoy the great food and drink. Be sure to be on the lookout for future Center public events - we'd love for you to drop by!
+
+[HOME FOR THE HOLIDAYS]
+CESTA will close for the Stanford winter break session starting December 22, and we will re-open on January 5th in the new year. We hope that all of you have a safe and wonderful holiday season. We look forward to expanding and finessing our newsletter and other social media platforms in the coming year.
+
+Happy New Year, everyone!
+
+============================================================
+Copyright © 2014 Stanford University, All rights reserved.
+
+Contact us: cesta DOT stanford AT gmail DOT com
+
+** unsubscribe from this list (*|UNSUB|*)
+** update subscription preferences (*|UPDATE_PROFILE|*)
+** Facebook (https://www.facebook.com/cesta.stanford)
+** Facebook (https://www.facebook.com/cesta.stanford)
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Website (http://cesta.stanford.edu)
+** Website (http://cesta.stanford.edu)
+
+This email was sent to *|EMAIL|* (mailto:*|EMAIL|*)
+why did I get this? (*|ABOUT_LIST|*)     unsubscribe from this list (*|UNSUB|*)     update subscription preferences (*|UPDATE_PROFILE|*)
+*|LIST_ADDRESSLINE_TEXT|*
+
+*|REWARDS_TEXT|*

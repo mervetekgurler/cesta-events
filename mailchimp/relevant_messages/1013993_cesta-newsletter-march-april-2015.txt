@@ -1,0 +1,137 @@
+CESTA Stanford Monthly Newsletter
+
+View this email in your browser (*|ARCHIVE|*)
+
+Center for Spatial
++ Textual Analysis
+
+MARCH + APRIL   NEWSLETTER
+[LATEST NEWS]
+Welcome to the latest edition of the CESTA newsletter. Going forward, we'll broadcast this newsletter on a bimonthly basis, bringing you a snapshot of what we've been up to over the previous two months. We'll highlight some of the people, projects, and events that make our Center such a thriving and inspirational place in which to pursue digital humanities research. If you have any questions or feedback regarding this newsletter or any of our other social network platforms, don't hesitate to let us know. CESTA community participants are encouraged to send any newsletter items for upcoming broadcasts to mattbryant.stanford@gmail.com (mailto:mattbryant.stanford@gmail.com)
+
+[ACROSS THE BAY]
+CESTA Director Zephyr Frank gave a talk at the UC Berkeley DH Faire on April 8.  The talk, "Spatial History and the Digital Humanities," focused on the problems and opportunities inherent in historical GIS projects.  The event also sparked conversation about ways students working in DH at Berkeley could get connected to their peers at Stanford.  Building on this mutual interest, we are in the early stages of planning a series of exchange events for fall 2015.
+
+CESTA recently held a meeting for the inaugural cohort for its new Graduate Certificate in Digital Humanities. The first cohort and the GCDH committee met for initial introductions and to discuss how the new GCDH grads will proceed. The cohort plans on reaching out to DH grads at Berkeley along with other graduate programs to find common ground, build relationships, and potential collaborations.
+
+[LACUNA STORIES]
+The Poetic Media Lab has launched two new courses for the Spring 2015 quarter using their learning platform Lacuna Stories (http://www.lacunastories.com) . Sarah Ogilvie (https://people.stanford.edu/sogilvie/) (Digital Humanities Coordinator; Linguistics) is using Lacuna Stories in her course on "Endangered Languages and Language Revitalization, (http://el.lacunastories.com) " and Elizabeth Hadly (https://woods.stanford.edu/about/woods-faculty/elizabeth-hadly) (Senior Vice Provost for Undergraduate Education; Biology) is using Lacuna Stories in her service-learnign course "Geographic Impacts of Global Change: Mapping the Stories (http://mappingglobalchange.lacunastories.com) ." Since launching the first pilot course in early 2014, the Lacuna Stories platform has now been used to innovate undergraduate and graduate learning in fourteen university courses at Stanford, Berkeley, and beyond. Lacuna Stories has now been released on the Stanford YouTube channel.
+(https://youtu.be/3JVu6n2SbCU)
+
+[ROADSHOW]
+
+
+This February and March CESTA post-doc Nicholas Bauch (http://www.nicholasbauch.com/) took his project – Enchanting the Desert – on a road show, delivering three lectures in southern California, one in Phoenix, one in Portland, and one in Chicago.  The rich conversations with faculty and students at each of these stops could not have been more productive and enjoyable.
+
+In California’s southland, the first stop was at UCLA’s Center for Digital Humanities (http://www.cdh.ucla.edu/ ) followed by UC–Riverside’s Critical Digital Humanities (http://cdh.ucr.edu/) colloquium, then the lecture series at the Art Center College of Design (http://www.artcenter.edu/accd/index.jsp) in Pasadena.  At the College of Design, Bauch served as a guest consultant for some of the students’ MFA thesis projects.
+
+“Whistle stops for Bauch’s lecture tour of Enchanting the Desert.”
+
+Next he traveled to Arizona State University to deliver a lecture to their Schools of Sustainability and Historical Studies (https://schoolofsustainability.asu.edu/) , which was immediately followed by a talk at the Rural West Conference just outside of Portland.  The audio for this talk (and for the whole conference!) is available here (http://ruralwest.stanford.edu/site/conference/2015/audio#) .
+
+To wrap things up for these early 2015 travels, Bauch organized and presented in a session at the annual conference of the Association of American Geographers in Chicago called “Digital Geo-Humanities” (http://meridian.aag.org/callforpapers/program/SessionDetail.cfm?SessionID=22536) , bringing together an international panel of practitioners and theorists who work with DH and geographical representation.
+[UPCOMING EVENTS]
+
+HUMANITIES + DIGITAL TOOLS
+From visualizations of complex information and interactive teaching platforms to digitization projects and textual analysis, humanities scholars across campus are harnessing the power of digital tools to push the boundaries of their research. Likewise, the unique properties of humanities scholarship are pushing the boundaries of digital tools.
+
+In this panel discussion, Stanford scholars and technical experts will talk about their work in the digital humanities. The conversation, which will be streamed live, will be moderated by Stanford Humanities Center (http://shc.stanford.edu/about) Director Caroline Winterer and Zephyr Frank, Director of Stanford's Center for Spatial and Textual Analysis (http://cesta.stanford.edu/) (CESTA.)
+
+For more information and detailed bios of all discussion participants, go HERE (http://shc.stanford.edu/events/humanities-digital-tools) .
+
+The event will also be available via live webcast. (http://shc.stanford.edu/humanities-digital-tools)
+When:
+Tuesday, May 5, 2015. 02:00 PM
+Where:
+Levinthal Hall, Stanford Humanities Center
+Sponsor:
+Stanford University Libraries, the Center for Spatial and Textual Analysis (CESTA)
+Contact:
+650-724-8156
+corrieg@stanford.edu
+Admission:
+Free and open to the public.
+
+[RECENT EVENTS]
+
+Environmental Histories of Latin America Conference at Stanford
+The field of Latin American environmental history has come of age. Whereas fifteen years ago, only a handful of scholars devoted their careers to researching, writing, and teaching on the historical interactions between humans and their environment in Latin America, dozens do so today. This workshop will bring together sixteen of the leading scholars in the field from the United States and Latin America to exchange and discuss cutting-edge scholarly work-in-progress and ideas on future research and teaching agendas and resources organized infour thematic sessions: (https://environmentalhistorylatam.wordpress.com/program/)
+* Transnational histories of conservation through national park creation along the borders between Argentina, Brazil and Chile and forestry in the US-Mexico borderlands
+* History of climate variability and social rebellion, unrest and revolution in colonial Cuba and postcolonial Mexico and Brazil
+* Urban environmental histories of Mexico City and Rio de Janeiro from the drainage of the former’s lakes in colonial times to the transformation of the latter’s bay in the last century
+* History of labor and the environment in extractive industries across the continent in the nineteenth and twentieth centuries, Black slavery and the environment in nineteenth century Colombia, and labor in the sugar cane fields of Brazil in the twentieth century
+
+For more information on the conference, go HERE. (https://environmentalhistorylatam.wordpress.com/)
+
+[CESTA GOES TO CHICAGO]
+Several CESTA colleagues recently presented their spatially-themed work at the Association of American Geographers  (http://www.aag.org/cs/annualmeeting) (AAG) meeting in Chicago.
+
+
+Nick Bauch (Post-doc, CESTA researcher) organized and presented his Enchanting the Desert project in a session entitled “Digital Geo-Humanities” exploring the interfaces between geographical inquiry, the humanities, and representation.
+
+George Philip LeBourdais (PhD. candidate, CESTA researcher) presented his ongoing research mapping “The Arctic Regions,” a photographic collection from an 1869 voyage by William Bradford.
+
+Karl Grossner (CIDR, CESTA affiliate) organized and presented in a session entitled “Extending GIS for the Humanities,” a pragmatic examination of the technical and conceptual challenges of using GIS for Humanities.
+[VISITORS]
+
+KATE STONE AND SMART INK AT CESTA
+On 4 March, Kate Stone visited CESTA to share her vision for the future of smart inks and interactive paper. Founder of Novalia at Cambridge, England, Kate was on her way to speak at SXSW in Austin. In her talk at CESTA, Kate highlighted the ways we can take "Digital DNA" such as touch, connectivity, and data, to transform the familiar physical objects around us. For those who attended the talk, the humble hairbrush and moleskin notebook will never be the same.
+
+Nick Bauch and Kate Stone
+Bridget Whearty, Kate Stone, and Charlotte Brimner
+
+STANFORD HUMANITIES CENTER FELLOWS
+On 8 April, CESTA was visited by Prof Joe Boone (USC) and Prof Fred Donner (Chicago) who are currently Fellows at the Stanford Humanities Center. Prof Boone, a scholar in English and gender studies, was investigating video editing techniques for his project "The Melville Effect: Meditations on Multimedia"; and Prof Donner, a specialist in the origins of Islam, was learning more about DH projects at Stanford. They were both especially intrigued by our MakerBot 3D printer.
+
+Joe Boone (right), Fred Donner (left)
+
+UNDERGRADUATES LEARN ABOUT STRUCTURING DATA
+On 8 April, Stanford undergraduate research assistants, May Peterson and Kenny Smith, met with Nicole Coleman and Sarah Ogilvie to learn more about structuring and cleaning up data sets.
+(left to right) May Peterson, Kenny Smith, Nicole Coleman
+[NEXT GENERATIONS]
+CESTA has now become a regular stop for the campus tours given to visiting prospective freshmen. Two large groups dropped by recently to take a look at our lab and to hear a little bit about what we do. Wait a minute - I think we've been photo bombed!
+
+[MR. EVERYMAN]
+Be sure to check out the recent publication in The American Historian, Crowdsourcing Digital Public History, by Jason A. Heppler and Gabriel K. Wolfenstein.
+
+The generation of communal knowledge is not a new phenomenon. In the late nineteenth century, the Oxford English Dictionary solicited volunteers to submit words and their usage for inclusion in the dictionary (1). Carl Becker, writing in 1932 on what was already an old discussion in the historical profession, noted that "if the essence of history is the memory of things said and done, then it is obvious that every normal person, Mr. Everyman, knows some history." (2) The historian Jo Guldi's work on participatory mapping shows that urban planners in the middle of the twentieth century attempted to learn from and listen to members of a community.
+
+The full article can be found here. (http://tah.oah.org/content/crowdsourcing-digital-public-history/)
+[PROJECT UPDATES]
+The Spatial History Project recently completed an 18 month study of the historical ecology of Stanford’s Searsville Reservoir and Jasper Ridge Biological Preserve. The purpose of the project was to reconstruct the landscape as it may have appeared before major European settlement in the late 1700s to improve our understanding of the historical ecosystems and provide information for future restoration discussions.
+
+Erik Steiner led the project, with student Matt Walter and former CESTA post-doc Maria Santos contributing. You can view a stunning poster of the project in the lab, or check out these before/after views here (http://web.stanford.edu/group/spatialhistory/Visualizations/JasperRidge/west_view.html)  and here (http://web.stanford.edu/group/spatialhistory/Visualizations/JasperRidge/south_view.html)  of the 3D natural landscape model.
+
+The project was developed as part of Stanford’s three year study investigating environmental restoration alternatives for Searsville Dam. The 125-year-old dam in the preserve stands today as a controversial structure intimately linked to the ecosystems in and around San Francisquito Creek. Some two million cubic yards of trapped sediment has helped create a rich upstream wetland habitat for bat and bird species, but it has also nearly filled the reservoir and the dam blocks steelhead trout from returning to their historic spawning areas. Stanford is weighing several alternatives to establish a sustainable equilibrium for the future and will announce their proposed plan in May.
+
+A full size poster of the graphic above is on display in CESTA.
+[SOME PEOPLE!]
+Each month we will feature brief CESTA participant profiles so that you can get to know us a little better. Now for this month's featured VIPs. Take note of the coincidental hands on hip mountain thing going on....
+
+NICHOLAS BAUCH
+
+Hi everyone!  I am a post-doctoral scholar here on campus with a joint appointment at CESTA and the Bill Lane Center for the American West.  Though my intellectual interests span the breadth of the humanities - from art to environment to history - my background is in cultural geography, a discipline in which I hold all my formal degrees.  I am in love with the concept of landscape, as it offers a very human scale of experiencing and representing our home, the Earth.  To me there's no such thing as a boring landscape; transforming the vernacular into the spectacular is a practice upon which I continually strive to improve through writing and the creation of beautiful design.  More specifically, I am in love with desert landscapes, and and such you may find it no surprise that the title of my major project is Enchanting the Desert: The production of visual space at the Grand Canyon.  I feel lucky that my work and affections are so closely aligned at this point in my life.
+Nonetheless, one cannot work all the time.  When I'm not working on my projects I like to cook wildly complicated meals with my wife, Brenda, swim laps, smell the Santa Cruz Mountains, and consume baseball on radio, TV, and in person. In fact, over the past two years I've been one of the radio broadcasters for Stanford's baseball team; check us out on KZSU, 90.1 FM!
+
+MAY PETERSON
+Hi! I'm May, a sophomore at Stanford and a proud undergraduate research assistant at CESTA. I've been working with Sarah Ogilvie on her project about the creation of Oxford English Dictionary, "Nineteenth Century Crowdsourcing," since this fall. As Classics major studying Latin literature, and a Medieval Studies minor, I'm also interested in archaeology and I hope to work in education. My hobbies include drawing, reading... and now deciphering nineteenth-century handwriting. I absolutely love the community and intellectual engagement that comes with working at CESTA!
+
+============================================================
+Copyright © 2014 Stanford University, All rights reserved.
+
+Contact us: mattbryant DOT stanford AT gmail DOT com
+
+** unsubscribe from this list (*|UNSUB|*)
+** update subscription preferences (*|UPDATE_PROFILE|*)
+** Facebook (https://www.facebook.com/cesta.stanford)
+** Facebook (https://www.facebook.com/cesta.stanford)
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Twitter (https://www.twitter.com/cesta_stanford/)
+** Website (http://cesta.stanford.edu)
+** Website (http://cesta.stanford.edu)
+
+This email was sent to *|EMAIL|* (mailto:*|EMAIL|*)
+why did I get this? (*|ABOUT_LIST|*)     unsubscribe from this list (*|UNSUB|*)     update subscription preferences (*|UPDATE_PROFILE|*)
+*|LIST_ADDRESSLINE_TEXT|*
+
+*|REWARDS_TEXT|*
