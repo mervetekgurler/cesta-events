@@ -1,0 +1,383 @@
+dtype: !!python/name:meerkat.block.manager.BlockManager ''
+columns:
+  File Name:
+    dtype: &id002 !!python/name:meerkat.columns.scalar.pandas.PandasScalarColumn ''
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: &id003 !!python/name:meerkat.interactive.formatter.text.TextFormatterGroup ''
+        dict:
+          base: !Formatter
+            class: &id001 !!python/name:meerkat.interactive.formatter.text.TextFormatter ''
+            state:
+              classes: ''
+          icon: !Formatter
+            class: &id004 !!python/name:meerkat.interactive.formatter.icon.IconFormatter ''
+            state:
+              _props:
+                name: FileEarmarkFont
+                fill: null
+                size: 16
+          tiny: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          small: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          thumbnail: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          gallery: !Formatter
+            class: *id001
+            state:
+              classes: aspect-video h-full p-2
+          tag: !Formatter
+            class: *id001
+            state:
+              classes: 'whitespace-nowrap text-ellipsis overflow-hidden text-right '
+    block:
+      block_dir: blocks/136192260892000
+      block_index: File Name
+      mmap: false
+  Title:
+    dtype: *id002
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: *id003
+        dict:
+          base: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          icon: !Formatter
+            class: *id004
+            state:
+              _props:
+                name: FileEarmarkFont
+                fill: null
+                size: 16
+          tiny: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          small: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          thumbnail: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          gallery: !Formatter
+            class: *id001
+            state:
+              classes: aspect-video h-full p-2
+          tag: !Formatter
+            class: *id001
+            state:
+              classes: 'whitespace-nowrap text-ellipsis overflow-hidden text-right '
+    block:
+      block_dir: blocks/136192260892000
+      block_index: Title
+      mmap: false
+  Meta Description:
+    dtype: *id002
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: *id003
+        dict:
+          base: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          icon: !Formatter
+            class: *id004
+            state:
+              _props:
+                name: FileEarmarkFont
+                fill: null
+                size: 16
+          tiny: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          small: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          thumbnail: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          gallery: !Formatter
+            class: *id001
+            state:
+              classes: aspect-video h-full p-2
+          tag: !Formatter
+            class: *id001
+            state:
+              classes: 'whitespace-nowrap text-ellipsis overflow-hidden text-right '
+    block:
+      block_dir: blocks/136192260892000
+      block_index: Meta Description
+      mmap: false
+  H1 Content:
+    dtype: *id002
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: *id003
+        dict:
+          base: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          icon: !Formatter
+            class: *id004
+            state:
+              _props:
+                name: FileEarmarkFont
+                fill: null
+                size: 16
+          tiny: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          small: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          thumbnail: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          gallery: !Formatter
+            class: *id001
+            state:
+              classes: aspect-video h-full p-2
+          tag: !Formatter
+            class: *id001
+            state:
+              classes: 'whitespace-nowrap text-ellipsis overflow-hidden text-right '
+    block:
+      block_dir: blocks/136192260892000
+      block_index: H1 Content
+      mmap: false
+  Paragraph Content:
+    dtype: *id002
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: *id003
+        dict:
+          base: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          icon: !Formatter
+            class: *id004
+            state:
+              _props:
+                name: FileEarmarkFont
+                fill: null
+                size: 16
+          tiny: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          small: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          thumbnail: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          gallery: !Formatter
+            class: *id001
+            state:
+              classes: aspect-video h-full p-2
+          tag: !Formatter
+            class: *id001
+            state:
+              classes: 'whitespace-nowrap text-ellipsis overflow-hidden text-right '
+    block:
+      block_dir: blocks/136192260892000
+      block_index: Paragraph Content
+      mmap: false
+  Date:
+    dtype: *id002
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: *id003
+        dict:
+          base: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          icon: !Formatter
+            class: *id004
+            state:
+              _props:
+                name: FileEarmarkFont
+                fill: null
+                size: 16
+          tiny: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          small: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          thumbnail: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          gallery: !Formatter
+            class: *id001
+            state:
+              classes: aspect-video h-full p-2
+          tag: !Formatter
+            class: *id001
+            state:
+              classes: 'whitespace-nowrap text-ellipsis overflow-hidden text-right '
+    block:
+      block_dir: blocks/136192260892000
+      block_index: Date
+      mmap: false
+  Location:
+    dtype: *id002
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: *id003
+        dict:
+          base: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          icon: !Formatter
+            class: *id004
+            state:
+              _props:
+                name: FileEarmarkFont
+                fill: null
+                size: 16
+          tiny: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          small: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          thumbnail: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          gallery: !Formatter
+            class: *id001
+            state:
+              classes: aspect-video h-full p-2
+          tag: !Formatter
+            class: *id001
+            state:
+              classes: 'whitespace-nowrap text-ellipsis overflow-hidden text-right '
+    block:
+      block_dir: blocks/136192260892000
+      block_index: Location
+      mmap: false
+  Combined Text:
+    dtype: *id002
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: *id003
+        dict:
+          base: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          icon: !Formatter
+            class: *id004
+            state:
+              _props:
+                name: FileEarmarkFont
+                fill: null
+                size: 16
+          tiny: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          small: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          thumbnail: !Formatter
+            class: *id001
+            state:
+              classes: ''
+          gallery: !Formatter
+            class: *id001
+            state:
+              classes: aspect-video h-full p-2
+          tag: !Formatter
+            class: *id001
+            state:
+              classes: 'whitespace-nowrap text-ellipsis overflow-hidden text-right '
+    block:
+      block_dir: blocks/136192260892000
+      block_index: Combined Text
+      mmap: false
+  emb:
+    dtype: !!python/name:meerkat.columns.tensor.numpy.NumPyTensorColumn ''
+    len: 407
+    state:
+      _collate_fn: !!python/name:meerkat.mixins.collate.identity_collate ''
+      _formatters: !FormatterGroup
+        class: !!python/name:meerkat.interactive.formatter.tensor.TensorFormatterGroup ''
+        dict:
+          base: !Formatter
+            class: !!python/name:meerkat.interactive.formatter.tensor.TensorFormatter ''
+            state:
+              _props:
+                dtype: float32
+          icon: !Formatter
+            class: *id004
+            state:
+              _props:
+                name: BoxFill
+                fill: null
+                size: 16
+    block:
+      block_dir: blocks/136192260886768
+      block_index:
+        start: 0
+        stop: 384
+        step: 1
+      mmap: false
+_column_order:
+- File Name
+- Title
+- Meta Description
+- H1 Content
+- Paragraph Content
+- Date
+- Location
+- Combined Text
+- emb

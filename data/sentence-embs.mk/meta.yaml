@@ -1,0 +1,14 @@
+column_dtypes:
+  Combined Text: &id001 !!python/name:meerkat.columns.scalar.pandas.PandasScalarColumn ''
+  Date: *id001
+  File Name: *id001
+  H1 Content: *id001
+  Location: *id001
+  Meta Description: *id001
+  Paragraph Content: *id001
+  Title: *id001
+  emb: !!python/name:meerkat.columns.tensor.numpy.NumPyTensorColumn ''
+dtype: !!python/name:meerkat.dataframe.DataFrame ''
+len: 407
+state:
+  _primary_key: File Name
