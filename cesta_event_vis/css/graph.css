@@ -1,0 +1,118 @@
+.node {
+    /* node fill is configued in d3-graph.js: rgba(48, 87, 186, 0.959) */
+    stroke: rgba(155, 175, 195, 0.603);
+    stroke-width: 2px;
+}
+
+.node .selected {
+    fill: rgba(255, 188, 43, 0.8);
+    /* fill: rgba(30, 146, 167, 0.705) */
+}
+
+
+.node .not-selected {
+    opacity: 0.7;
+}
+
+
+.node .search-match {
+    fill:  rgb(255, 188, 43);
+    stroke:  rgb(255, 188, 43);
+    stroke-width: 2px;
+}
+.node .not-search-match {
+    /* fill: rgba(155, 175, 195, 0.603); */
+    opacity: 0.5;
+}
+
+/* labels */
+
+.node-labels{
+    font: 100px calibri;
+    pointer-events: none;
+    fill: white
+    /* text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff; */
+}
+  
+
+
+/* primary research areas color */
+
+.node .area-biol {
+    fill: rgba(54, 168, 187, 0.98) ;
+}
+.node .area-phys {
+    fill: rgba(54, 168, 187, 0.98) ;
+}
+.node .area-chem {
+    fill: rgba(54, 168, 187, 0.98) ;
+}
+.node .area-math {
+    fill: rgba(54, 168, 187, 0.98) ;
+}
+.node .area-ds {
+    fill: rgba(54, 168, 187, 0.98) ;
+}
+.node .area-envi {
+    fill: rgba(54, 168, 187, 0.98) ;
+}
+.node .area-beha {
+    fill: rgba(54, 168, 187, 0.98) ;
+}
+.node .area-gh {
+    fill: rgba(54, 168, 187, 0.98) ;
+}
+
+
+
+/* ======================== links */
+
+/* rgba(176, 176, 191, 0.841) */
+.link {
+    stroke: rgba(154, 154, 168, 0.144);
+    stroke-width: 1px;
+}
+
+.link .influences {
+    stroke: rgba(255, 225, 0, 0.868);
+    stroke-width: 8px;
+}
+
+.link .influenced-by {
+    stroke: rgba(50, 187, 225, 0.959);
+
+    stroke-width: 8px;
+}
+
+#d3_selectable_force_directed_graph {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#d3_selectable_force_directed_graph svg {
+    display: block;
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: scale(0.6);
+    }
+
+    100% {
+        opacity: 100%;
+        transform: scale(1);
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 100%;
+    }
+}

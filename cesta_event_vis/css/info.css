@@ -1,0 +1,232 @@
+/* this is the help button which provides data property information for users to understand the graph */
+
+.help-container {
+    position: absolute;
+    /* top: 4vh; */
+    right: 20vw;
+    
+    z-index: 5000;
+    display: flex;
+}
+
+.help-container a {
+    align-self: center;
+    margin-left: 16px;
+}
+
+#legendHeader {
+    margin-left: 0px;
+    margin-top: 6px;
+    margin-bottom: 2px;
+    text-decoration: underline;
+}
+
+
+
+/* content */
+
+.node-symbol {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+}
+
+
+
+/*  */
+/* node */
+
+#regular-node {
+    background: rgba(155, 175, 195, 0.603);
+}   
+
+#selected-node {
+    background: rgba(54, 168, 187, 0.98);
+}
+
+#search-match-node {
+    background: rgb(255, 188, 43);
+}
+
+/* #highlight-node {
+    background: rgb(255, 188, 43);
+} */
+/* areas */
+#area-math-node {
+    background: rgba(88, 49, 244, 0.96);
+}
+#area-ds-node {
+    background: rgba(133, 64, 222, 0.96);
+}
+
+#area-phys-node {
+    background: rgba(19, 57, 170, 0.96);
+}
+#area-chem-node {
+    background: rgba(0, 153, 255, 0.96);
+}
+#area-biol-node {
+    background: rgba(41, 202, 127, 0.99);
+}
+
+#area-gh-node {
+    background: rgba(153, 190, 152, 0.96);
+}
+#area-beha-node {
+    background: rgba(14, 169, 3, 0.96);
+}
+#area-envi-node {
+    background: rgba(1, 136, 132, 0.96);
+}
+
+
+#area-mult-node {
+    background: rgba(149, 45, 183, 0.96);
+}
+
+
+
+/* link */
+
+.link-symbol {
+    width: 20px;
+    height: 2px;
+}
+
+#regular-link {
+    background: rgba(176, 176, 191, 0.841);
+}
+
+#influences-link {
+    background: rgba(50, 187, 225, 0.959);
+}
+
+#influenced-by-link {
+    background: #8777f1;
+}
+
+/* legend */
+
+.legend-row {
+    display: grid;
+    grid-template-columns: 6% 90%;
+    grid-template-rows: 100%;
+    column-gap: 4%;
+    height: 24px;
+    overflow: hidden;
+}
+
+.legend-row * {
+    justify-self: start;
+    align-self: center;
+}
+
+
+
+/* the tip card's icon */
+.help-tip {
+    position: relative;
+    text-align: center;
+    /* background-color: rgba(167, 172, 179, 0.834) !important; */
+    background-color: #ededed00;
+    border-radius: 70%;
+    border: 1px solid #061d87;
+    width: 36px;
+    height: 30px;
+    font-size: 16px;
+    line-height: 36px;
+    cursor: default;
+    display: inline-block;
+}
+
+/* ======== icon ======= */
+
+/* icon shape */
+.help-tip:before {
+    /* width: 300px; */
+    /* if the position  */
+    position: absolute;
+    right:0px;
+
+    /* content: "GUIDE"; */
+    font-weight: 700;
+    color: #045ca3;
+    font-family: "Times New Roman", Times, serif;
+    font-size : 18px
+}
+
+/* input[type="checkbox"]:checked {
+    box-shadow: 0 0 0 3px hotpink;
+  } */
+
+/* .help-tip:hover > div { */
+    /* display: block; */
+    /* display: none;
+
+    transform-origin: 100% 0%;
+
+    -webkit-animation: fadeIn 0.3s ease-in-out;
+    animation: fadeIn 0.3s ease-in-out;
+
+} */
+
+.help-tip > div {
+    /* display: none; if the box only display when hover*/
+    display: block; 
+    text-align: left;
+    background-color: rgba(81, 84, 88, 0.44) !important;
+    padding: 38px;
+    width: 30vw;
+    /* height: inherit; */
+    height: 7000px;
+    position: absolute;
+    /* border-radius: 3px; */
+    /* box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); */
+    /* right: -4px; */
+    color: #e3e3e3 !important;
+    font-weight:500;
+    font-size: 16px;
+    line-height: 2;
+}
+
+.help-tip > div:before {
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    border: 6px solid transparent;
+    border-bottom-color: #1e202100;
+    right: 10px;
+    top: -12px;
+    
+}
+
+.help-tip > div:after {
+    width: 100%;
+    height: 40px;
+    content: '';
+    position: absolute;
+    top: -40px;
+    left: 0;
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: scale(0.6);
+    }
+
+    100% {
+        opacity: 100%;
+        transform: scale(1);
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 100%;
+    }
+}

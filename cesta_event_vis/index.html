@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<head>
+    <title>CESTANetwork</title>
+
+    <meta name="description" content="Events and People">
+    <meta name="author" content="Junyi Tao">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+    <link rel='stylesheet' href='vendor/ajax/libs/materialize/0.98.1/css/materialize.min.css'>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/icon?family=Material+Icons'>
+    <!-- Load bootstrap -->
+    <link rel="stylesheet" href="vendor/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="vendor/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="vendor/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    
+    <!-- css -->
+    <link rel='stylesheet' href='css/graph.css'>
+    <link rel='stylesheet' href='css/style.css'>
+    <link rel='stylesheet' href='css/switch.css'>
+    <link rel='stylesheet' href='css/search.css'>
+    <link rel='stylesheet' href='css/info.css'>
+    <link rel='stylesheet' href='css/custom.css'>
+    <!-- js -->
+    <script src="vendor/d3js.org/d3.v4.js"></script>
+    <!-- data -->
+    <!-- graph -->
+    <script src="js\graph_output.js"></script>
+
+    <!-- js -->
+    <script src="js/init.js"></script>
+    <script src="js/d3-graph.js"></script>
+    <script src="vendor/d3js.org/d3-selection-multi.v0.4.min.js"></script>
+    <script src="vendor/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="vendor/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
+
+    <script src="js/custom.js"></script>
+</head>
+
+<body style="min-height: 100%; overflow-y:auto;">
+  
+  <!-- D3 graph -->
+  <div id="d3_selectable_force_directed_graph">
+      <svg id="d3_svg"/>
+  </div>
+  
+  <div class="container menu-container">
+      <div class="row ">
+        <div class="col-md-6">
+          <div class="input-group mb-3">
+            <div class="dropdown input-group-btn" style="z-index: 20; position: relative;">
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <span class="switch-title">Views</span>
+                    <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu" id="dropdown-menu-id" style = "background-color:rgba(240, 240, 240, 0.829)" role="menu">
+
+                <li class="people-item"><button style="font-size: 13px; text-align: left; border: none; color:rgba(10, 29, 53, 0.889); background-color:rgba(0, 0, 255, 0);" onclick="createD3Graph(graph, graphContainer.clientWidth, graphContainer.clientHeight, 'related_entry_nw');"> 
+                  CESTA Events & People </button></li>
+
+              </ul>
+            </div>
+            <input id="search" type="search" class="form-control mr-1" placeholder="Search" style="z-index: 20; position: relative;">
+            
+            <div class="input-group-btn" style="z-index: 20; position: relative;" >
+              <button class="btn btn-outline-secondary" type="button" onclick="onHelpClick()">
+                Info
+              </button>
+            </div>
+
+          </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Detail table of area -->
+  <div class="container" id="detail-area-container" style="position: relative;">
+    <div class="row justify-content-center">
+          <div class="col-auto" style="font-size: 10px; color: #065e87; font-weight: 600; font-family:calibri; overflow-x: auto;overflow-y: scroll; max-height: 500px;">
+            <table class="table table-scroll table-responsive table-striped table-hover" style="overflow-x: auto;overflow-y: scroll; max-height: 500px;">
+              <tbody id="tableBody" >
+              </tbody>
+          </table>
+        </div>
+    </div>
+  </div>
+  <!-- collapsible-tree-container -->
+  <div class="observablehq" id="collapsible-tree-container" style="position: relative; overflow-x: auto;overflow-y: scroll; max-height: 100%;">
+  </div>
+  <!-- Help & About -->
+  <div id="help-container" style="position: relative; z-index: 50; display:none;">
+      <div class="help-tip" style="font-size: 18px; color: #065e87; font-weight: 600; font-family:calibri;">
+          <div>
+            <span class="glyphicon glyphicon-remove"></span>
+            <p>Contributors: to be added</a>;</p>
+            <!-- <a href="www.junyitao.com">Junyi Tao</a>;<a href="mailto:"> -->
+              <p style = "line-height: 20px; margin-left: 0px;">
+                  <!-- ★ <strong>Shift views</strong> (topics / people) -->
+                  <br>★ <strong>Click on nodes to access more info</strong>
+                  <br>★ <strong>Search keywords to target nodes</strong>
+              </p>
+              
+              
+          </div>
+      </div>    
+  </div>
+  
+  <!-- info card -->
+  <div id="bottom_sheet" class="modal bottom-sheet modal-fixed-footer">
+      <div id="modalContent" class="modal-content">
+          <!-- <img id="peopleImg"> -->
+          <div id="PeopleBio">
+              <a id="PeopleName" target="_blank"></a>
+              <p id="PeopleDescription"></p>
+          </div>
+      </div>
+      <!-- close the info card -->
+      <!-- reference: 
+              https://www.freetimelearning.com/materialize-css/materialize-css-buttons.php
+              https://www.freetimelearning.com/materialize-css/materialize-css-icons.php -->
+      <div class="modal-footer">
+          
+          <a id="closeButton" class="btn-floating btn-small btn-flat modal-action modal-close">
+              <!-- the icon -->
+              <i class="material-icons white-text tiny">close</i>
+              <!-- close -->
+          </a>
+      </div>
+  </div>
+
+  
+  <script>
+      $('.modal').modal({
+              dismissible: false,
+              preventScrolling: false,
+              opacity: .0,
+              inDuration: 500,
+              outDuration: 200,
+              startingTop: '50%',
+              endingTop: '50%'
+          }
+      );
+  </script>
+  
+  <!-- Graph initialization -->
+  <script>
+      var graphContainer = document.getElementById("d3_selectable_force_directed_graph");
+      createD3Graph(graph, graphContainer.clientWidth, graphContainer.clientHeight, 'related_entry_nw');
+  </script>
+  
+  <script>
+  function onHelpClick() {
+    var x = document.getElementById("help-container");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  </script>
+  
+  
+  
+  <script>
+  function onAreaDetailClick() {
+    var x = document.getElementById("detail-area-container");
+    var y = document.getElementById("d3_svg");
+    var z = document.getElementById("d3_selectable_force_directed_graph");
+    x.style.display = "block";
+    x.style.zIndex = 10;
+    y.style.display = "none";
+    z.style.zIndex = 1;
+    // var y = document.getElementById("d3_selectable_force_directed_graph");
+    // if (x.style.display === "none") {
+    //   x.style.display = "block";
+    //   y.style.display = "none";
+    // } else {
+    //   x.style.display = "none";
+    //   y.style.display = "block";
+    // }
+  }
+  </script>
+
+  <style>
+    #help-container { 
+      display:none;
+    }
+    #detail-area-container { 
+      display:none;
+      margin:auto;
+    }
+    #detail-area-button {
+  /*    display:none; */
+    }
+    .menu-container {
+      margin-top: 20px;
+    }
+    /* set the table color */
+    .table {
+        color: #fff;
+        background-color: #333333;
+    }
+  
+    /* set the table header color */
+    .table thead th {
+        background-color: #555555;
+    }
+  
+    /* set the table hover color */
+    .table-hover tbody tr:hover {
+        background-color: #444444;
+    }
+  
+    /* set the table body color */
+    .table-striped tbody tr:nth-of-type(odd) {
+        background-color: #444444;
+    }
+    /* disable the focus */
+    input[type=search]:focus,
+      .input-group .form-control {
+      width: auto !important;
+      background-color: rgba(238, 238, 241, 0.732);
+    }
+    input[type=search] {
+      left: 5px;
+      padding: 7px 10px 8px 36px;
+    }
+
+  /*hide*/
+  .observablehq:nth-of-type(n+2) {
+    display: none;
+  }
+  .d-none {
+    display: none !important;
+  }
+  </style>  
+
+  </body>

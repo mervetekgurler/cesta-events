@@ -1,0 +1,63 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    background-image: url("../assets/background.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #555;
+    
+}
+
+/* https://unsplash.com/photos/fhOQfT1eVEA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink */
+
+
+
+p {
+    margin: 1em 0;
+    padding: 0 6vw;
+    font-size: 17px;
+}
+
+h1, h2, h3, ul {
+    padding: 0 6vw;
+}
+
+ul {
+    padding: 0 8vw;
+}
+
+main {
+    background-color: #fffcf7cc;
+    margin: 5em 10em 5em 10em;
+    max-width: 80vw;
+    padding: 2em 5vw;
+}
+  
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+h1,
+h2,
+strong {
+  color: #333;
+}
+
+a {
+    color: #0e4662;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+#subtitle {
+    text-align: center;
+    color: #555;
+    font-size: 1.2em;
+    font-weight: 700;
+}
